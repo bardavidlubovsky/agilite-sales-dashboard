@@ -2,8 +2,8 @@ name: Run extract_products every hour
 
 on:
   schedule:
-    - cron: '0 * * * *'  
-  workflow_dispatch:      
+    - cron: '0 * * * *'  # Every hour
+  workflow_dispatch:
 
 jobs:
   run-script:
@@ -11,10 +11,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/upload-artifact@v4
+        uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/upload-artifact@v4
+        uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
@@ -27,7 +27,7 @@ jobs:
           python extract_products.py
 
       - name: Upload CSV file as artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@4
         with:
           name: extracted-products
           path: agilite_products_*.csv
