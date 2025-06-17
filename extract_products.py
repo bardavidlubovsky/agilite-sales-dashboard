@@ -121,7 +121,7 @@ df["Published_Time"] = df["Published_At"].dt.time
 df["Tags_List"] = df["Tags"].apply(lambda x: [tag.strip() for tag in x.split(",")] if pd.notnull(x) else [])
 
 timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M")
-df.to_csv(f"agilite_products_{timestamp}.csv", index=False)
+df.to_csv(f"data/agilite_products_{timestamp}.csv", index=False)
 
 if failed_links:
     failed_df = pd.DataFrame(failed_links)
