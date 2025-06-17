@@ -1,0 +1,33 @@
+name: Run extract_products every hour
+
+on:
+  schedule:
+    - cron: '0 * * * *'  
+  workflow_dispatch:      
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install pandas requests beautifulsoup4
+
+      - name: Run extract script
+        run: |
+          python extract_products.py
+
+      - name: Upload CSV file as artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: extracted-products
+          path: agilite_products_*.csv
