@@ -1,4 +1,4 @@
-name: Run extract_products every hour
+name: Update Product Data
 
 on:
   schedule:
@@ -6,28 +6,30 @@ on:
   workflow_dispatch:
 
 jobs:
-  run-script:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
 
-      - name: Install dependencies
-        run: |
-          pip install pandas requests beautifulsoup4
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
 
-      - name: Run extract script
-        run: |
-          python extract_products.py
+    - name: Run ETL script
+      run: |
+        python extract_products.py
 
-      - name: Upload CSV file as artifact
-        uses: actions/upload-artifact@v3.1.3
-        with:
-          name: extracted-products
-          path: agilite_products_*.csv
+    - name: Commit output
+      run: |
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+        git add *.csv
+        git commit -m "Update product data"
+        git push
