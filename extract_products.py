@@ -127,3 +127,5 @@ df.to_csv("data/latest_products.csv", index=False)
 if failed_links:
     failed_df = pd.DataFrame(failed_links)
     failed_df.to_csv(f"agilite_failed_links_{timestamp}.csv", index=False)
+
+# trigger GitHub Pages publish
