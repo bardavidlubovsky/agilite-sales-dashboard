@@ -1,39 +1,33 @@
-name: Update Product Data
+name: Extract Products
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Every hour
+    - cron: '0 * * * *'  # Every hour on the hour
   workflow_dispatch:
 
 jobs:
-  build:
+  extract:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.11'
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
 
-    - name: Install dependencies
-      run: |
-        pip install -r requirements.txt
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
-    - name: Run ETL script
-      run: |
-        python extract_products.py
+      - name: Run ETL script
+        run: python extract_products.py
 
-    - name: Build historical dataset
-      run: |
-        python build_historical.py
-
-    - name: Commit output
-      run: |
-        git config user.name github-actions
-        git config user.email github-actions@github.com
-        git add data/
-        git commit -m "Update product data"
-        git push
+      - name: Commit extracted data
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add data/
+          git commit -m "Extract product data"
+          git push || echo "Nothing to commit"
