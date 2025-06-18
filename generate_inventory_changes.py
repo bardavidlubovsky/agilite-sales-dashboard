@@ -7,15 +7,15 @@ df = df.sort_values(['Product_ID', 'Variant_Title', 'Snapshot_Timestamp'])
 df['product_variant_id'] = df['Product_ID'].astype(str) + '_' + df['Variant_Title']
 df['qty_change'] = df.groupby('product_variant_id')['Variant_Qty'].diff()
 
-df['sales_only'] = df['qty_change'].apply(lambda x: -x if x < 0 else 0)
-df['added_only'] = df['qty_change'].apply(lambda x: x if x > 0 else 0)
+df['sales_qty'] = df['qty_change'].apply(lambda x: -x if x < 0 else 0)
+df['added_qty'] = df['qty_change'].apply(lambda x: x if x > 0 else 0)
 
 totals = df.groupby('product_variant_id').agg({
-    'sales_only': 'sum',
-    'added_only': 'sum'
+    'sales_qty': 'sum',
+    'added_qty': 'sum'
 }).round(2).rename(columns={
-    'sales_only': 'Total_Sales',
-    'added_only': 'Total_Added'
+    'sales_qty': 'Total_Sales',
+    'added_qty': 'Total_Added'
 })
 
 latest_rows = (
