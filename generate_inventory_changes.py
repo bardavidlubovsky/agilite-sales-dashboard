@@ -37,9 +37,12 @@ final_df = pd.merge(agg_totals, latest_qty, on=['Product_ID', 'Variant_Title'], 
 final_df.insert(0, 'Product_Variant_ID', final_df['Product_ID'].astype(str) + '_' + final_df['Variant_Title'])
 
 final_df['Revenue'] = final_df['Total_Sales'] * final_df['Variant_Price']
-final_df['Inventory_Value'] = final_df['Variant_Qty'] * final_df['Variant_Price']
+final_df['Inventory_Value'] = final_df.apply(
+    lambda row: row['Variant_Qty'] * row['Variant_Price'] if row['Variant_Qty'] > 0 else 0,
+    axis=1
+)
 final_df['Refund_Liability'] = final_df.apply(
-    lambda row: row['Variant_Qty'] * row['Variant_Price'] if row['Variant_Price'] < 0 else 0,
+    lambda row: row['Variant_Qty'] * row['Variant_Price'] if row['Variant_Qty'] < 0 else 0,
     axis=1
 )
 
