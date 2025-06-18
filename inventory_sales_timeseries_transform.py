@@ -22,15 +22,6 @@ df['qty_sold'] = df['qty_change'].apply(lambda x: -x if x < 0 else 0)
 df['Weekday'] = df['Snapshot_Timestamp'].dt.day_name()
 df['Month'] = df['Snapshot_Timestamp'].dt.month_name()
 
-weekdays_order = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
-weekday_totals = df.groupby(['Product_Variant_ID', 'Weekday'])['qty_sold'].sum().unstack().reindex(columns=weekdays_order, fill_value=0).reset_index()
-
-months_order = [
-    'January', 'February', 'March', 'April', 'May', 'June',
-    'July', 'August', 'September', 'October', 'November', 'December'
-]
-month_totals = df.groupby(['Product_Variant_ID', 'Month'])['qty_sold'].sum().unstack().reindex(columns=months_order, fill_value=0).reset_index()
-
 base_info = df.groupby('Product_Variant_ID', as_index=False).agg({
     'Product_ID': 'last',
     'Variant_Title': 'last',
@@ -40,7 +31,23 @@ base_info = df.groupby('Product_Variant_ID', as_index=False).agg({
     'Variant_Available': 'last'
 })
 
-final_df = pd.merge(base_info, weekday_totals, on='Product_Variant_ID', how='left')
-final_df = pd.merge(final_df, month_totals, on='Product_Variant_ID', how='left')
+weekday_sales = (
+    df.groupby(['Product_Variant_ID', 'Weekday'])['qty_sold']
+    .sum().reset_index()
+)
 
+month_sales = (
+    df.groupby(['Product_Variant_ID', 'Month'])['qty_sold']
+    .sum().reset_index()
+)
+
+weekday_df = pd.merge(base_info, weekday_sales, on='Product_Variant_ID', how='left')
+weekday_df['Type'] = 'Weekday'
+weekday_df.rename(columns={'Weekday': 'Time_Dimension', 'qty_sold': 'qty_sold_total'}, inplace=True)
+
+month_df = pd.merge(base_info, month_sales, on='Product_Variant_ID', how='left')
+month_df['Type'] = 'Month'
+month_df.rename(columns={'Month': 'Time_Dimension', 'qty_sold': 'qty_sold_total'}, inplace=True)
+
+final_df = pd.concat([weekday_df, month_df], ignore_index=True)
 final_df.to_csv("data/sales_by_day_output.csv", index=False)
