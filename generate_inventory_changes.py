@@ -2,29 +2,33 @@ import pandas as pd
 
 df = pd.read_csv("data/historical_products.csv")
 df['Snapshot_Timestamp'] = pd.to_datetime(df['Snapshot_Timestamp'])
-df = df.sort_values(['Product_ID', 'Variant_Title', 'Snapshot_Timestamp'])
 
+df = df.groupby(['Product_ID', 'Variant_Title', 'Snapshot_Timestamp'], as_index=False).agg({
+    'Variant_Qty': 'sum'
+})
+
+df = df.sort_values(['Product_ID', 'Variant_Title', 'Snapshot_Timestamp'])
 df['product_variant_id'] = df['Product_ID'].astype(str) + '_' + df['Variant_Title']
 df['qty_change'] = df.groupby('product_variant_id')['Variant_Qty'].diff()
 
-totals = df.groupby('product_variant_id')['qty_change'].agg([
-    lambda x: round(-x[x < 0].sum(), 2),  # Total_Sales
-    lambda x: round(x[x > 0].sum(), 2)    # Total_Added
-]).rename(columns={
-    '<lambda_0>': 'Total_Sales',
-    '<lambda_1>': 'Total_Added'
-}).fillna(0)
+df['Total_Sales'] = df['qty_change'].apply(lambda x: -x if x < 0 else 0)
+df['Total_Added'] = df['qty_change'].apply(lambda x: x if x > 0 else 0)
 
-latest_rows = (
+agg_totals = df.groupby(['Product_ID', 'Variant_Title']).agg({
+    'Total_Sales': 'sum',
+    'Total_Added': 'sum'
+}).round(2).reset_index()
+
+agg_totals['Total_Sales'] = agg_totals['Total_Sales'].replace(-0.0, 0.0)
+agg_totals['Total_Added'] = agg_totals['Total_Added'].replace(-0.0, 0.0)
+
+latest_qty = (
     df.sort_values('Snapshot_Timestamp')
-    .drop_duplicates('product_variant_id', keep='last')
-    .set_index('product_variant_id')
+    .drop_duplicates(subset=['Product_ID', 'Variant_Title'], keep='last')
+    [['Product_ID', 'Variant_Title', 'Variant_Qty']]
 )
 
-final_df = latest_rows.merge(totals, left_index=True, right_index=True)
-final_df.reset_index(inplace=True)
-final_df.insert(0, 'Product_Variant_ID', final_df['product_variant_id'])
-
-final_df = final_df.drop(columns=['qty_change'])
+final_df = pd.merge(agg_totals, latest_qty, on=['Product_ID', 'Variant_Title'], how='left')
+final_df.insert(0, 'Product_Variant_ID', final_df['Product_ID'].astype(str) + '_' + final_df['Variant_Title'])
 
 final_df.to_csv("data/inventory_changes_output.csv", index=False)
