@@ -20,8 +20,8 @@ jobs:
     - name: Install dependencies
       run: pip install pandas
 
-    - name: Run sales_by_day_generator.py
-      run: python sales_by_day_generator.py
+    - name: Run inventory_sales_timeseries_transform.py
+      run: python inventory_sales_timeseries_transform.py
 
     - name: Commit and push CSV
       run: |
