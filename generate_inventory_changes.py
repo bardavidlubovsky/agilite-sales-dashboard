@@ -7,16 +7,13 @@ df = df.sort_values(['Product_ID', 'Variant_Title', 'Snapshot_Timestamp'])
 df['product_variant_id'] = df['Product_ID'].astype(str) + '_' + df['Variant_Title']
 df['qty_change'] = df.groupby('product_variant_id')['Variant_Qty'].diff()
 
-df['sales_qty'] = df['qty_change'].apply(lambda x: -x if x < 0 else 0)
-df['added_qty'] = df['qty_change'].apply(lambda x: x if x > 0 else 0)
-
-totals = df.groupby('product_variant_id').agg({
-    'sales_qty': 'sum',
-    'added_qty': 'sum'
-}).round(2).rename(columns={
-    'sales_qty': 'Total_Sales',
-    'added_qty': 'Total_Added'
-})
+totals = df.groupby('product_variant_id')['qty_change'].agg([
+    lambda x: round(-x[x < 0].sum(), 2),  # Total_Sales
+    lambda x: round(x[x > 0].sum(), 2)    # Total_Added
+]).rename(columns={
+    '<lambda_0>': 'Total_Sales',
+    '<lambda_1>': 'Total_Added'
+}).fillna(0)
 
 latest_rows = (
     df.sort_values('Snapshot_Timestamp')
@@ -27,5 +24,7 @@ latest_rows = (
 final_df = latest_rows.merge(totals, left_index=True, right_index=True)
 final_df.reset_index(inplace=True)
 final_df.insert(0, 'Product_Variant_ID', final_df['product_variant_id'])
+
+final_df = final_df.drop(columns=['qty_change'])
 
 final_df.to_csv("data/inventory_changes_output.csv", index=False)
