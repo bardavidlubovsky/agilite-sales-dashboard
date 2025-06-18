@@ -2,10 +2,9 @@ import pandas as pd
 
 df = pd.read_csv("data/historical_products.csv")
 df['Snapshot_Timestamp'] = pd.to_datetime(df['Snapshot_Timestamp'])
-df = df.drop_duplicates()
-df['row_number'] = df.groupby(['Product_ID', 'Variant_Title']).cumcount()
-df['product_variant_id'] = df['Product_ID'].astype(str) + '_' + df['Variant_Title'] + '_' + df['row_number'].astype(str)
-df = df.sort_values(['product_variant_id', 'Snapshot_Timestamp'])
+df = df.sort_values(['Product_ID', 'Variant_Title', 'Snapshot_Timestamp'])
+
+df['product_variant_id'] = df['Product_ID'].astype(str) + '_' + df['Variant_Title']
 df['qty_change'] = df.groupby('product_variant_id')['Variant_Qty'].diff()
 
 added_df = df.copy()
