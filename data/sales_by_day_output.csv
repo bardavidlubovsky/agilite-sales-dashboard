@@ -110,7 +110,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018935709981_שחור,8018935709981,שחור,laptop-carrier,תיק לפטופ טקטי,False,False,Tuesday,0.0,Weekday
 8018935709981_שחור,8018935709981,שחור,laptop-carrier,תיק לפטופ טקטי,False,False,Wednesday,0.0,Weekday
 8018935939357_ירוק ריינג'ר,8018935939357,ירוק ריינג'ר,jump-retention-tabs,לשוניות אחזקה למחסנית,True,True,Friday,0.0,Weekday
-8018935939357_ירוק ריינג'ר,8018935939357,ירוק ריינג'ר,jump-retention-tabs,לשוניות אחזקה למחסנית,True,True,Saturday,0.0,Weekday
+8018935939357_ירוק ריינג'ר,8018935939357,ירוק ריינג'ר,jump-retention-tabs,לשוניות אחזקה למחסנית,True,True,Saturday,1.0,Weekday
 8018935939357_ירוק ריינג'ר,8018935939357,ירוק ריינג'ר,jump-retention-tabs,לשוניות אחזקה למחסנית,True,True,Thursday,2.0,Weekday
 8018935939357_ירוק ריינג'ר,8018935939357,ירוק ריינג'ר,jump-retention-tabs,לשוניות אחזקה למחסנית,True,True,Tuesday,0.0,Weekday
 8018935939357_ירוק ריינג'ר,8018935939357,ירוק ריינג'ר,jump-retention-tabs,לשוניות אחזקה למחסנית,True,True,Wednesday,0.0,Weekday
@@ -465,7 +465,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018940756253_L / הסוואה,8018940756253,L / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Tuesday,0.0,Weekday
 8018940756253_L / הסוואה,8018940756253,L / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Wednesday,1.0,Weekday
 8018940756253_L / שחור,8018940756253,L / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Friday,0.0,Weekday
-8018940756253_L / שחור,8018940756253,L / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Saturday,1.0,Weekday
+8018940756253_L / שחור,8018940756253,L / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Saturday,2.0,Weekday
 8018940756253_L / שחור,8018940756253,L / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Thursday,1.0,Weekday
 8018940756253_L / שחור,8018940756253,L / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Tuesday,0.0,Weekday
 8018940756253_L / שחור,8018940756253,L / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Wednesday,0.0,Weekday
@@ -970,7 +970,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,Tuesday,0.0,Weekday
 8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,Wednesday,2.0,Weekday
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Friday,2.0,Weekday
-8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Saturday,0.0,Weekday
+8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Saturday,2.0,Weekday
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Thursday,5.0,Weekday
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Tuesday,0.0,Weekday
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Wednesday,1.0,Weekday
@@ -2053,7 +2053,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018935709981_אפור,8018935709981,אפור,laptop-carrier,תיק לפטופ טקטי,False,False,June,0.0,Month
 8018935709981_ירוק ריינג'ר,8018935709981,ירוק ריינג'ר,laptop-carrier,תיק לפטופ טקטי,False,False,June,0.0,Month
 8018935709981_שחור,8018935709981,שחור,laptop-carrier,תיק לפטופ טקטי,False,False,June,0.0,Month
-8018935939357_ירוק ריינג'ר,8018935939357,ירוק ריינג'ר,jump-retention-tabs,לשוניות אחזקה למחסנית,True,True,June,2.0,Month
+8018935939357_ירוק ריינג'ר,8018935939357,ירוק ריינג'ר,jump-retention-tabs,לשוניות אחזקה למחסנית,True,True,June,3.0,Month
 8018935939357_מדברי,8018935939357,מדברי,jump-retention-tabs,לשוניות אחזקה למחסנית,True,True,June,1.0,Month
 8018935939357_שחור,8018935939357,שחור,jump-retention-tabs,לשוניות אחזקה למחסנית,True,True,June,0.0,Month
 8018936070429_ירוק ריינג'ר,8018936070429,ירוק ריינג'ר,pincer™-5-56-פונדת-מחסניות-סקוטש-קשיחה,Pincer™ פונדת מחסניות מולטי קליבר סקוטש קשיחה ,True,True,June,9.0,Month
@@ -2124,7 +2124,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018940559645_ירוק זית,8018940559645,ירוק זית,rear-pouch,פאוץ' אחורי לכיסוי קסדה,True,True,June,3.0,Month
 8018940559645_שחור,8018940559645,שחור,rear-pouch,פאוץ' אחורי לכיסוי קסדה,True,True,June,1.0,Month
 8018940756253_L / הסוואה,8018940756253,L / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,4.0,Month
-8018940756253_L / שחור,8018940756253,L / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,2.0,Month
+8018940756253_L / שחור,8018940756253,L / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,3.0,Month
 8018940756253_M / הסוואה,8018940756253,M / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,1.0,Month
 8018940756253_M / שחור,8018940756253,M / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,1.0,Month
 8018940756253_S / הסוואה,8018940756253,S / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,1.0,Month
@@ -2225,7 +2225,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8388329505053_ירוק ריינג'ר,8388329505053,ירוק ריינג'ר,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,June,3.0,Month
 8388329505053_מולטיקם,8388329505053,מולטיקם,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,False,June,0.0,Month
 8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,June,4.0,Month
-8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,June,8.0,Month
+8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,June,10.0,Month
 8402082988317_מולטיקם,8402082988317,מולטיקם,general-purpose-pouch,פאוץ' כללי מודולרי,True,False,June,0.0,Month
 8402082988317_שחור,8402082988317,שחור,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,June,2.0,Month
 8440988336413_אפור,8440988336413,אפור,scorpion-logo-hat,כובע לוגו עקרב,False,False,June,0.0,Month
