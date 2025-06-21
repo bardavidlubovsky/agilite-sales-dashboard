@@ -14,7 +14,7 @@ df = df.groupby(['Product_ID', 'Variant_Title', 'Snapshot_Timestamp'], as_index=
 
 df = df.sort_values(['Product_ID', 'Variant_Title', 'Snapshot_Timestamp'])
 df['Product_Variant_ID'] = df['Product_ID'].astype(str) + '_' + df['Variant_Title']
-df = df.groupby(['Product_Variant_ID', df['Snapshot_Timestamp'].dt.date], as_index=False).first()
+df = df.groupby(['Product_Variant_ID', df['Snapshot_Timestamp'].dt.date], as_index=False).last()
 
 df['qty_change'] = df.groupby('Product_Variant_ID')['Variant_Qty'].diff().fillna(0)
 df['qty_sold'] = df['qty_change'].apply(lambda x: -x if x < 0 else 0)
