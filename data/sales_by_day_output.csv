@@ -805,7 +805,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8091315699997_מולטיקם / XL,8091315699997,מולטיקם / XL,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,False,Tuesday,0.0,Weekday
 8091315699997_מולטיקם / XL,8091315699997,מולטיקם / XL,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,False,Wednesday,0.0,Weekday
 8091315699997_שחור / L,8091315699997,שחור / L,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,Friday,0.0,Weekday
-8091315699997_שחור / L,8091315699997,שחור / L,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,Saturday,0.0,Weekday
+8091315699997_שחור / L,8091315699997,שחור / L,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,Saturday,1.0,Weekday
 8091315699997_שחור / L,8091315699997,שחור / L,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,Thursday,0.0,Weekday
 8091315699997_שחור / L,8091315699997,שחור / L,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,Tuesday,0.0,Weekday
 8091315699997_שחור / L,8091315699997,שחור / L,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,Wednesday,0.0,Weekday
@@ -2192,7 +2192,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8091315699997_מולטיקם / L,8091315699997,מולטיקם / L,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,False,June,0.0,Month
 8091315699997_מולטיקם / M,8091315699997,מולטיקם / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,False,June,0.0,Month
 8091315699997_מולטיקם / XL,8091315699997,מולטיקם / XL,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,False,June,0.0,Month
-8091315699997_שחור / L,8091315699997,שחור / L,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,June,0.0,Month
+8091315699997_שחור / L,8091315699997,שחור / L,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,June,1.0,Month
 8091315699997_שחור / M,8091315699997,שחור / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,June,0.0,Month
 8091315699997_שחור / XL,8091315699997,שחור / XL,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,False,June,0.0,Month
 8091315831069_ירוק ריינג'ר,8091315831069,ירוק ריינג'ר,flank-side-plate-carriers,Flank™ -  פאוץ' פלטות מיגון צדדיות,True,True,June,4.0,Month
