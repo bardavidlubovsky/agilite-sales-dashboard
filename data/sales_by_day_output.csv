@@ -217,7 +217,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018936594717_שחור,8018936594717,שחור,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,True,Wednesday,0.0,Weekday
 8018937479453_ירוק ריינג'ר,8018937479453,ירוק ריינג'ר,hook-backed-edc-organizer-panel,פאנל ארגון טקטי ,True,True,Friday,0.0,Weekday
 8018937479453_ירוק ריינג'ר,8018937479453,ירוק ריינג'ר,hook-backed-edc-organizer-panel,פאנל ארגון טקטי ,True,True,Saturday,0.0,Weekday
-8018937479453_ירוק ריינג'ר,8018937479453,ירוק ריינג'ר,hook-backed-edc-organizer-panel,פאנל ארגון טקטי ,True,True,Sunday,1.0,Weekday
+8018937479453_ירוק ריינג'ר,8018937479453,ירוק ריינג'ר,hook-backed-edc-organizer-panel,פאנל ארגון טקטי ,True,True,Sunday,2.0,Weekday
 8018937479453_ירוק ריינג'ר,8018937479453,ירוק ריינג'ר,hook-backed-edc-organizer-panel,פאנל ארגון טקטי ,True,True,Thursday,0.0,Weekday
 8018937479453_ירוק ריינג'ר,8018937479453,ירוק ריינג'ר,hook-backed-edc-organizer-panel,פאנל ארגון טקטי ,True,True,Tuesday,0.0,Weekday
 8018937479453_ירוק ריינג'ר,8018937479453,ירוק ריינג'ר,hook-backed-edc-organizer-panel,פאנל ארגון טקטי ,True,True,Wednesday,0.0,Weekday
@@ -283,7 +283,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018937610525_Multicam,8018937610525,Multicam,hook-backed-edc-organizer-panel-up,פאנל ארגון טקטי ,True,False,Wednesday,0.0,Weekday
 8018937610525_Ranger Green,8018937610525,Ranger Green,hook-backed-edc-organizer-panel-up,פאנל ארגון טקטי ,True,True,Friday,0.0,Weekday
 8018937610525_Ranger Green,8018937610525,Ranger Green,hook-backed-edc-organizer-panel-up,פאנל ארגון טקטי ,True,True,Saturday,0.0,Weekday
-8018937610525_Ranger Green,8018937610525,Ranger Green,hook-backed-edc-organizer-panel-up,פאנל ארגון טקטי ,True,True,Sunday,1.0,Weekday
+8018937610525_Ranger Green,8018937610525,Ranger Green,hook-backed-edc-organizer-panel-up,פאנל ארגון טקטי ,True,True,Sunday,2.0,Weekday
 8018937610525_Ranger Green,8018937610525,Ranger Green,hook-backed-edc-organizer-panel-up,פאנל ארגון טקטי ,True,True,Thursday,0.0,Weekday
 8018937610525_Ranger Green,8018937610525,Ranger Green,hook-backed-edc-organizer-panel-up,פאנל ארגון טקטי ,True,True,Tuesday,0.0,Weekday
 8018937610525_Ranger Green,8018937610525,Ranger Green,hook-backed-edc-organizer-panel-up,פאנל ארגון טקטי ,True,True,Wednesday,0.0,Weekday
@@ -2474,7 +2474,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018936594717_מולטיקם,8018936594717,מולטיקם,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,False,June,0.0,Month
 8018936594717_מולטיקם שחור,8018936594717,מולטיקם שחור,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,False,June,0.0,Month
 8018936594717_שחור,8018936594717,שחור,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,True,June,1.0,Month
-8018937479453_ירוק ריינג'ר,8018937479453,ירוק ריינג'ר,hook-backed-edc-organizer-panel,פאנל ארגון טקטי ,True,True,June,1.0,Month
+8018937479453_ירוק ריינג'ר,8018937479453,ירוק ריינג'ר,hook-backed-edc-organizer-panel,פאנל ארגון טקטי ,True,True,June,2.0,Month
 8018937479453_מולטיקם,8018937479453,מולטיקם,hook-backed-edc-organizer-panel,פאנל ארגון טקטי ,True,False,June,0.0,Month
 8018937479453_שחור,8018937479453,שחור,hook-backed-edc-organizer-panel,פאנל ארגון טקטי ,True,False,June,0.0,Month
 8018937512221_ירוק ריינג'ר,8018937512221,ירוק ריינג'ר,padded-laptop-sleeve,'שרוול לפטופ מרופד 14.5 אינץ,True,True,June,0.0,Month
@@ -2485,7 +2485,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018937577757_שחור,8018937577757,שחור,14-5-padded-laptop-sleeve-up,'שרוול לפטופ מרופד 14.5 אינץ ,True,False,June,0.0,Month
 8018937610525_Black,8018937610525,Black,hook-backed-edc-organizer-panel-up,פאנל ארגון טקטי ,True,False,June,0.0,Month
 8018937610525_Multicam,8018937610525,Multicam,hook-backed-edc-organizer-panel-up,פאנל ארגון טקטי ,True,False,June,0.0,Month
-8018937610525_Ranger Green,8018937610525,Ranger Green,hook-backed-edc-organizer-panel-up,פאנל ארגון טקטי ,True,True,June,1.0,Month
+8018937610525_Ranger Green,8018937610525,Ranger Green,hook-backed-edc-organizer-panel-up,פאנל ארגון טקטי ,True,True,June,2.0,Month
 8018937872669_חום,8018937872669,חום,sf-balaclava-black,מסכת פנים,True,False,June,0.0,Month
 8018937872669_ירוק ריינג'ר,8018937872669,ירוק ריינג'ר,sf-balaclava-black,מסכת פנים,True,True,June,7.0,Month
 8018937872669_שחור,8018937872669,שחור,sf-balaclava-black,מסכת פנים,True,True,June,1.0,Month
