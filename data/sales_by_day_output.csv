@@ -211,7 +211,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018936594717_מולטיקם שחור,8018936594717,מולטיקם שחור,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,False,Wednesday,0.0,Weekday
 8018936594717_שחור,8018936594717,שחור,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,True,Friday,0.0,Weekday
 8018936594717_שחור,8018936594717,שחור,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,True,Saturday,0.0,Weekday
-8018936594717_שחור,8018936594717,שחור,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,True,Sunday,0.0,Weekday
+8018936594717_שחור,8018936594717,שחור,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,True,Sunday,1.0,Weekday
 8018936594717_שחור,8018936594717,שחור,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,True,Thursday,0.0,Weekday
 8018936594717_שחור,8018936594717,שחור,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,True,Tuesday,0.0,Weekday
 8018936594717_שחור,8018936594717,שחור,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,True,Wednesday,0.0,Weekday
@@ -1165,7 +1165,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,Wednesday,2.0,Weekday
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Friday,2.0,Weekday
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Saturday,2.0,Weekday
-8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Sunday,7.0,Weekday
+8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Sunday,8.0,Weekday
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Thursday,5.0,Weekday
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Tuesday,0.0,Weekday
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Wednesday,1.0,Weekday
@@ -2473,7 +2473,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018936594717_ירוק ריינג'ר,8018936594717,ירוק ריינג'ר,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,True,June,4.0,Month
 8018936594717_מולטיקם,8018936594717,מולטיקם,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,False,June,0.0,Month
 8018936594717_מולטיקם שחור,8018936594717,מולטיקם שחור,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,False,June,0.0,Month
-8018936594717_שחור,8018936594717,שחור,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,True,June,0.0,Month
+8018936594717_שחור,8018936594717,שחור,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,True,June,1.0,Month
 8018937479453_ירוק ריינג'ר,8018937479453,ירוק ריינג'ר,hook-backed-edc-organizer-panel,פאנל ארגון טקטי ,True,True,June,1.0,Month
 8018937479453_מולטיקם,8018937479453,מולטיקם,hook-backed-edc-organizer-panel,פאנל ארגון טקטי ,True,False,June,0.0,Month
 8018937479453_שחור,8018937479453,שחור,hook-backed-edc-organizer-panel,פאנל ארגון טקטי ,True,False,June,0.0,Month
@@ -2632,7 +2632,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8388329505053_ירוק ריינג'ר,8388329505053,ירוק ריינג'ר,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,June,3.0,Month
 8388329505053_מולטיקם,8388329505053,מולטיקם,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,False,June,0.0,Month
 8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,June,6.0,Month
-8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,June,17.0,Month
+8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,June,18.0,Month
 8402082988317_מולטיקם,8402082988317,מולטיקם,general-purpose-pouch,פאוץ' כללי מודולרי,True,False,June,0.0,Month
 8402082988317_שחור,8402082988317,שחור,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,June,2.0,Month
 8440988336413_אפור,8440988336413,אפור,scorpion-logo-hat,כובע לוגו עקרב,False,False,June,0.0,Month
