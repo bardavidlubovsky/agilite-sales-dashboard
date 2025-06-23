@@ -980,7 +980,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018942034205_שחור,8018942034205,שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,Tuesday,0.0,Weekday
 8018942034205_שחור,8018942034205,שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,Wednesday,0.0,Weekday
 8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,Friday,1.0,Weekday
-8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,Monday,6.0,Weekday
+8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,Monday,7.0,Weekday
 8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,Saturday,0.0,Weekday
 8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,Sunday,1.0,Weekday
 8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,Thursday,1.0,Weekday
@@ -1218,7 +1218,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8192262799645_חום,8192262799645,חום,quick-release-cummerbund-buckle,2M ROC - מערכת ניתוק מהיר,True,False,Tuesday,0.0,Weekday
 8192262799645_חום,8192262799645,חום,quick-release-cummerbund-buckle,2M ROC - מערכת ניתוק מהיר,True,False,Wednesday,0.0,Weekday
 8192262799645_שחור,8192262799645,שחור,quick-release-cummerbund-buckle,2M ROC - מערכת ניתוק מהיר,True,True,Friday,2.0,Weekday
-8192262799645_שחור,8192262799645,שחור,quick-release-cummerbund-buckle,2M ROC - מערכת ניתוק מהיר,True,True,Monday,2.0,Weekday
+8192262799645_שחור,8192262799645,שחור,quick-release-cummerbund-buckle,2M ROC - מערכת ניתוק מהיר,True,True,Monday,3.0,Weekday
 8192262799645_שחור,8192262799645,שחור,quick-release-cummerbund-buckle,2M ROC - מערכת ניתוק מהיר,True,True,Saturday,1.0,Weekday
 8192262799645_שחור,8192262799645,שחור,quick-release-cummerbund-buckle,2M ROC - מערכת ניתוק מהיר,True,True,Sunday,2.0,Weekday
 8192262799645_שחור,8192262799645,שחור,quick-release-cummerbund-buckle,2M ROC - מערכת ניתוק מהיר,True,True,Thursday,7.0,Weekday
@@ -2985,7 +2985,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018942034205_מולטיקם,8018942034205,מולטיקם,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,False,June,0.0,Month
 8018942034205_מולטיקם שחור,8018942034205,מולטיקם שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,False,June,0.0,Month
 8018942034205_שחור,8018942034205,שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,June,0.0,Month
-8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,June,13.0,Month
+8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,June,14.0,Month
 8031638552861_מולטיקם,8031638552861,מולטיקם,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,False,June,0.0,Month
 8031638552861_שחור,8031638552861,שחור,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,False,June,0.0,Month
 8046642757917_Default Title,8046642757917,Default Title,t-e-testing-team-4-patch2rfwefwefqewrfgruuuj76hg,T&E Testing Team פאץ' ,False,False,June,0.0,Month
@@ -3019,7 +3019,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8091315994909_מולטיקם,8091315994909,מולטיקם,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,True,False,June,0.0,Month
 8091315994909_שחור,8091315994909,שחור,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,True,True,June,7.0,Month
 8192262799645_חום,8192262799645,חום,quick-release-cummerbund-buckle,2M ROC - מערכת ניתוק מהיר,True,False,June,0.0,Month
-8192262799645_שחור,8192262799645,שחור,quick-release-cummerbund-buckle,2M ROC - מערכת ניתוק מהיר,True,True,June,19.0,Month
+8192262799645_שחור,8192262799645,שחור,quick-release-cummerbund-buckle,2M ROC - מערכת ניתוק מהיר,True,True,June,20.0,Month
 8192287113501_Default Title,8192287113501,Default Title,t-e-k-zero-patch,T&E K-Zero Patch,False,False,June,0.0,Month
 8192287146269_Default Title,8192287146269,Default Title,t-e-testing-team-green-patch,T&E Testing Team Green Patch,False,False,June,0.0,Month
 8192287179037_Default Title,8192287179037,Default Title,t-e-testing-team-brown-patch,T&E Testing Team Brown Patch,False,False,June,0.0,Month
