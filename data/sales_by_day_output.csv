@@ -361,7 +361,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018937970973_Default Title,8018937970973,Default Title,mitznefet-multicam,מצנפת אג'ילייט מנומרת,True,True,Saturday,0.0,Weekday
 8018937970973_Default Title,8018937970973,Default Title,mitznefet-multicam,מצנפת אג'ילייט מנומרת,True,True,Sunday,0.0,Weekday
 8018937970973_Default Title,8018937970973,Default Title,mitznefet-multicam,מצנפת אג'ילייט מנומרת,True,True,Thursday,0.0,Weekday
-8018937970973_Default Title,8018937970973,Default Title,mitznefet-multicam,מצנפת אג'ילייט מנומרת,True,True,Tuesday,0.0,Weekday
+8018937970973_Default Title,8018937970973,Default Title,mitznefet-multicam,מצנפת אג'ילייט מנומרת,True,True,Tuesday,1.0,Weekday
 8018937970973_Default Title,8018937970973,Default Title,mitznefet-multicam,מצנפת אג'ילייט מנומרת,True,True,Wednesday,0.0,Weekday
 8018938298653_Black,8018938298653,Black,agilite-logo-patches,פאצ'ים לוגו אג'ילייט,False,False,Friday,0.0,Weekday
 8018938298653_Black,8018938298653,Black,agilite-logo-patches,פאצ'ים לוגו אג'ילייט,False,False,Monday,0.0,Weekday
@@ -1327,7 +1327,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8364665078045_ירוק ריינג'ר,8364665078045,ירוק ריינג'ר,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,True,True,Saturday,0.0,Weekday
 8364665078045_ירוק ריינג'ר,8364665078045,ירוק ריינג'ר,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,True,True,Sunday,1.0,Weekday
 8364665078045_ירוק ריינג'ר,8364665078045,ירוק ריינג'ר,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,True,True,Thursday,0.0,Weekday
-8364665078045_ירוק ריינג'ר,8364665078045,ירוק ריינג'ר,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,True,True,Tuesday,0.0,Weekday
+8364665078045_ירוק ריינג'ר,8364665078045,ירוק ריינג'ר,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,True,True,Tuesday,2.0,Weekday
 8364665078045_ירוק ריינג'ר,8364665078045,ירוק ריינג'ר,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,True,True,Wednesday,0.0,Weekday
 8364665078045_מולטיקם,8364665078045,מולטיקם,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,True,False,Friday,0.0,Weekday
 8364665078045_מולטיקם,8364665078045,מולטיקם,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,True,False,Monday,0.0,Weekday
@@ -2899,7 +2899,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018937872669_חום,8018937872669,חום,sf-balaclava-black,מסכת פנים,True,False,June,0.0,Month
 8018937872669_ירוק ריינג'ר,8018937872669,ירוק ריינג'ר,sf-balaclava-black,מסכת פנים,True,True,June,8.0,Month
 8018937872669_שחור,8018937872669,שחור,sf-balaclava-black,מסכת פנים,True,True,June,2.0,Month
-8018937970973_Default Title,8018937970973,Default Title,mitznefet-multicam,מצנפת אג'ילייט מנומרת,True,True,June,0.0,Month
+8018937970973_Default Title,8018937970973,Default Title,mitznefet-multicam,מצנפת אג'ילייט מנומרת,True,True,June,1.0,Month
 8018938298653_Black,8018938298653,Black,agilite-logo-patches,פאצ'ים לוגו אג'ילייט,False,False,June,0.0,Month
 8018938298653_Coyote Tan,8018938298653,Coyote Tan,agilite-logo-patches,פאצ'ים לוגו אג'ילייט,False,False,June,0.0,Month
 8018938298653_Ranger Green,8018938298653,Ranger Green,agilite-logo-patches,פאצ'ים לוגו אג'ילייט,False,False,June,0.0,Month
@@ -3037,7 +3037,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8352375636253_Default Title,8352375636253,Default Title,t-e-testing-team-11-patch,T&E Testing Team 11 Patch,False,False,June,0.0,Month
 8364665078045_חום,8364665078045,חום,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,True,False,June,0.0,Month
 8364665078045_ירוק,8364665078045,ירוק,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,True,False,June,0.0,Month
-8364665078045_ירוק ריינג'ר,8364665078045,ירוק ריינג'ר,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,True,True,June,1.0,Month
+8364665078045_ירוק ריינג'ר,8364665078045,ירוק ריינג'ר,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,True,True,June,3.0,Month
 8364665078045_מולטיקם,8364665078045,מולטיקם,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,True,False,June,0.0,Month
 8388329505053_ירוק ריינג'ר,8388329505053,ירוק ריינג'ר,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,June,5.0,Month
 8388329505053_מולטיקם,8388329505053,מולטיקם,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,False,June,0.0,Month
