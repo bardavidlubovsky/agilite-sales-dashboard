@@ -985,7 +985,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,Sunday,1.0,Weekday
 8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,Thursday,1.0,Weekday
 8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,Tuesday,1.0,Weekday
-8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,Wednesday,4.0,Weekday
+8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,Wednesday,5.0,Weekday
 8031638552861_מולטיקם,8031638552861,מולטיקם,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,False,Friday,0.0,Weekday
 8031638552861_מולטיקם,8031638552861,מולטיקם,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,False,Monday,0.0,Weekday
 8031638552861_מולטיקם,8031638552861,מולטיקם,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,False,Saturday,0.0,Weekday
@@ -1328,7 +1328,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8364665078045_ירוק ריינג'ר,8364665078045,ירוק ריינג'ר,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,True,True,Sunday,1.0,Weekday
 8364665078045_ירוק ריינג'ר,8364665078045,ירוק ריינג'ר,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,True,True,Thursday,0.0,Weekday
 8364665078045_ירוק ריינג'ר,8364665078045,ירוק ריינג'ר,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,True,True,Tuesday,2.0,Weekday
-8364665078045_ירוק ריינג'ר,8364665078045,ירוק ריינג'ר,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,True,True,Wednesday,0.0,Weekday
+8364665078045_ירוק ריינג'ר,8364665078045,ירוק ריינג'ר,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,True,True,Wednesday,1.0,Weekday
 8364665078045_מולטיקם,8364665078045,מולטיקם,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,True,False,Friday,0.0,Weekday
 8364665078045_מולטיקם,8364665078045,מולטיקם,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,True,False,Monday,0.0,Weekday
 8364665078045_מולטיקם,8364665078045,מולטיקם,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,True,False,Saturday,0.0,Weekday
@@ -2988,7 +2988,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018942034205_מולטיקם,8018942034205,מולטיקם,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,False,June,0.0,Month
 8018942034205_מולטיקם שחור,8018942034205,מולטיקם שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,False,June,0.0,Month
 8018942034205_שחור,8018942034205,שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,June,0.0,Month
-8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,June,16.0,Month
+8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,June,17.0,Month
 8031638552861_מולטיקם,8031638552861,מולטיקם,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,False,June,0.0,Month
 8031638552861_שחור,8031638552861,שחור,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,False,June,0.0,Month
 8046642757917_Default Title,8046642757917,Default Title,t-e-testing-team-4-patch2rfwefwefqewrfgruuuj76hg,T&E Testing Team פאץ' ,False,False,June,0.0,Month
@@ -3037,7 +3037,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8352375636253_Default Title,8352375636253,Default Title,t-e-testing-team-11-patch,T&E Testing Team 11 Patch,False,False,June,0.0,Month
 8364665078045_חום,8364665078045,חום,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,True,False,June,0.0,Month
 8364665078045_ירוק,8364665078045,ירוק,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,True,False,June,0.0,Month
-8364665078045_ירוק ריינג'ר,8364665078045,ירוק ריינג'ר,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,True,True,June,3.0,Month
+8364665078045_ירוק ריינג'ר,8364665078045,ירוק ריינג'ר,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,True,True,June,4.0,Month
 8364665078045_מולטיקם,8364665078045,מולטיקם,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,True,False,June,0.0,Month
 8388329505053_ירוק ריינג'ר,8388329505053,ירוק ריינג'ר,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,June,5.0,Month
 8388329505053_מולטיקם,8388329505053,מולטיקם,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,False,June,0.0,Month
