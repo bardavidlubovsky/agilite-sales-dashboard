@@ -195,7 +195,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018936070429_שחור,8018936070429,שחור,pincer™-5-56-פונדת-מחסניות-סקוטש-קשיחה,Pincer™ פונדת מחסניות מולטי קליבר סקוטש קשיחה ,True,True,Thursday,0.0,Weekday
 8018936070429_שחור,8018936070429,שחור,pincer™-5-56-פונדת-מחסניות-סקוטש-קשיחה,Pincer™ פונדת מחסניות מולטי קליבר סקוטש קשיחה ,True,True,Tuesday,0.0,Weekday
 8018936070429_שחור,8018936070429,שחור,pincer™-5-56-פונדת-מחסניות-סקוטש-קשיחה,Pincer™ פונדת מחסניות מולטי קליבר סקוטש קשיחה ,True,True,Wednesday,1.0,Weekday
-8018936529181_ירוק ריינג'ר,8018936529181,ירוק ריינג'ר,ag1-5-56-single-mag-pouch,AG1™ - פונדת מחסנית מודולרית,True,True,Friday,0.0,Weekday
+8018936529181_ירוק ריינג'ר,8018936529181,ירוק ריינג'ר,ag1-5-56-single-mag-pouch,AG1™ - פונדת מחסנית מודולרית,True,True,Friday,1.0,Weekday
 8018936529181_ירוק ריינג'ר,8018936529181,ירוק ריינג'ר,ag1-5-56-single-mag-pouch,AG1™ - פונדת מחסנית מודולרית,True,True,Monday,2.0,Weekday
 8018936529181_ירוק ריינג'ר,8018936529181,ירוק ריינג'ר,ag1-5-56-single-mag-pouch,AG1™ - פונדת מחסנית מודולרית,True,True,Saturday,0.0,Weekday
 8018936529181_ירוק ריינג'ר,8018936529181,ירוק ריינג'ר,ag1-5-56-single-mag-pouch,AG1™ - פונדת מחסנית מודולרית,True,True,Sunday,1.0,Weekday
@@ -979,7 +979,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018942034205_שחור,8018942034205,שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,Thursday,0.0,Weekday
 8018942034205_שחור,8018942034205,שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,Tuesday,0.0,Weekday
 8018942034205_שחור,8018942034205,שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,Wednesday,0.0,Weekday
-8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,Friday,1.0,Weekday
+8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,Friday,2.0,Weekday
 8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,Monday,8.0,Weekday
 8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,Saturday,0.0,Weekday
 8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,Sunday,1.0,Weekday
@@ -1630,7 +1630,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9275738718493_מדיום,9275738718493,מדיום,k-zero-bundle,חבילת קרמון  ™K-Zero מזווד ,True,True,Thursday,4.0,Weekday
 9275738718493_מדיום,9275738718493,מדיום,k-zero-bundle,חבילת קרמון  ™K-Zero מזווד ,True,True,Tuesday,1.0,Weekday
 9275738718493_מדיום,9275738718493,מדיום,k-zero-bundle,חבילת קרמון  ™K-Zero מזווד ,True,True,Wednesday,2.0,Weekday
-9306896826653_ירוק ריינג'ר,9306896826653,ירוק ריינג'ר,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,Friday,3.0,Weekday
+9306896826653_ירוק ריינג'ר,9306896826653,ירוק ריינג'ר,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,Friday,5.0,Weekday
 9306896826653_ירוק ריינג'ר,9306896826653,ירוק ריינג'ר,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,Monday,0.0,Weekday
 9306896826653_ירוק ריינג'ר,9306896826653,ירוק ריינג'ר,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,Saturday,3.0,Weekday
 9306896826653_ירוק ריינג'ר,9306896826653,ירוק ריינג'ר,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,Sunday,3.0,Weekday
@@ -2034,7 +2034,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9794227274013_שחור / סמול,9794227274013,שחור / סמול,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,Thursday,0.0,Weekday
 9794227274013_שחור / סמול,9794227274013,שחור / סמול,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,Tuesday,0.0,Weekday
 9794227274013_שחור / סמול,9794227274013,שחור / סמול,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,Wednesday,0.0,Weekday
-9835354980637_ירוק ריינג'ר,9835354980637,ירוק ריינג'ר,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,Friday,0.0,Weekday
+9835354980637_ירוק ריינג'ר,9835354980637,ירוק ריינג'ר,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,Friday,1.0,Weekday
 9835354980637_ירוק ריינג'ר,9835354980637,ירוק ריינג'ר,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,Monday,2.0,Weekday
 9835354980637_ירוק ריינג'ר,9835354980637,ירוק ריינג'ר,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,Saturday,1.0,Weekday
 9835354980637_ירוק ריינג'ר,9835354980637,ירוק ריינג'ר,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,Sunday,3.0,Weekday
@@ -2888,7 +2888,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018936070429_ירוק ריינג'ר,8018936070429,ירוק ריינג'ר,pincer™-5-56-פונדת-מחסניות-סקוטש-קשיחה,Pincer™ פונדת מחסניות מולטי קליבר סקוטש קשיחה ,True,True,June,26.0,Month
 8018936070429_מולטיקם,8018936070429,מולטיקם,pincer™-5-56-פונדת-מחסניות-סקוטש-קשיחה,Pincer™ פונדת מחסניות מולטי קליבר סקוטש קשיחה ,True,False,June,0.0,Month
 8018936070429_שחור,8018936070429,שחור,pincer™-5-56-פונדת-מחסניות-סקוטש-קשיחה,Pincer™ פונדת מחסניות מולטי קליבר סקוטש קשיחה ,True,True,June,3.0,Month
-8018936529181_ירוק ריינג'ר,8018936529181,ירוק ריינג'ר,ag1-5-56-single-mag-pouch,AG1™ - פונדת מחסנית מודולרית,True,True,June,8.0,Month
+8018936529181_ירוק ריינג'ר,8018936529181,ירוק ריינג'ר,ag1-5-56-single-mag-pouch,AG1™ - פונדת מחסנית מודולרית,True,True,June,9.0,Month
 8018936529181_מולטיקם,8018936529181,מולטיקם,ag1-5-56-single-mag-pouch,AG1™ - פונדת מחסנית מודולרית,True,False,June,0.0,Month
 8018936529181_מולטיקם שחור,8018936529181,מולטיקם שחור,ag1-5-56-single-mag-pouch,AG1™ - פונדת מחסנית מודולרית,True,False,June,0.0,Month
 8018936529181_שחור,8018936529181,שחור,ag1-5-56-single-mag-pouch,AG1™ - פונדת מחסנית מודולרית,True,True,June,0.0,Month
@@ -3000,7 +3000,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018942034205_מולטיקם,8018942034205,מולטיקם,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,False,June,0.0,Month
 8018942034205_מולטיקם שחור,8018942034205,מולטיקם שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,False,June,0.0,Month
 8018942034205_שחור,8018942034205,שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,June,0.0,Month
-8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,June,19.0,Month
+8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,June,20.0,Month
 8031638552861_מולטיקם,8031638552861,מולטיקם,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,False,June,0.0,Month
 8031638552861_שחור,8031638552861,שחור,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,False,June,0.0,Month
 8046642757917_Default Title,8046642757917,Default Title,t-e-testing-team-4-patch2rfwefwefqewrfgruuuj76hg,T&E Testing Team פאץ' ,False,False,June,0.0,Month
@@ -3093,7 +3093,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9001923838237_שחור / סמול,9001923838237,שחור / סמול,magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,June,0.0,Month
 9275738718493_לארג',9275738718493,לארג',k-zero-bundle,חבילת קרמון  ™K-Zero מזווד ,True,True,June,3.0,Month
 9275738718493_מדיום,9275738718493,מדיום,k-zero-bundle,חבילת קרמון  ™K-Zero מזווד ,True,True,June,14.0,Month
-9306896826653_ירוק ריינג'ר,9306896826653,ירוק ריינג'ר,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,June,16.0,Month
+9306896826653_ירוק ריינג'ר,9306896826653,ירוק ריינג'ר,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,June,18.0,Month
 9306896826653_מולטיקם,9306896826653,מולטיקם,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,False,June,0.0,Month
 9306896826653_שחור,9306896826653,שחור,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,June,4.0,Month
 9306905805085_Default Title,9306905805085,Default Title,md2-compact-trauma-kit-contents,"ציוד רפואי לער""ד",False,False,June,0.0,Month
@@ -3155,7 +3155,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9794227274013_שחור / לארג',9794227274013,שחור / לארג',magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,June,4.0,Month
 9794227274013_שחור / מדיום,9794227274013,שחור / מדיום,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,June,0.0,Month
 9794227274013_שחור / סמול,9794227274013,שחור / סמול,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,June,0.0,Month
-9835354980637_ירוק ריינג'ר,9835354980637,ירוק ריינג'ר,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,June,164.0,Month
+9835354980637_ירוק ריינג'ר,9835354980637,ירוק ריינג'ר,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,June,165.0,Month
 9835354980637_מולטיקם,9835354980637,מולטיקם,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,False,June,0.0,Month
 9835354980637_שחור,9835354980637,שחור,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,June,1.0,Month
 9842351505693_ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,9842351505693,ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,pincer-placard-loadout,חבילת פונדת מחסניות ™Pincer מזוודת,True,True,June,13.0,Month
