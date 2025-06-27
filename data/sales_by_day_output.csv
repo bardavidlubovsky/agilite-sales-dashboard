@@ -251,7 +251,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018936594717_שחור,8018936594717,שחור,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,True,Thursday,0.0,Weekday
 8018936594717_שחור,8018936594717,שחור,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,True,Tuesday,0.0,Weekday
 8018936594717_שחור,8018936594717,שחור,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,True,Wednesday,0.0,Weekday
-8018937479453_ירוק ריינג'ר,8018937479453,ירוק ריינג'ר,hook-backed-edc-organizer-panel,פאנל ארגון טקטי ,True,True,Friday,0.0,Weekday
+8018937479453_ירוק ריינג'ר,8018937479453,ירוק ריינג'ר,hook-backed-edc-organizer-panel,פאנל ארגון טקטי ,True,True,Friday,1.0,Weekday
 8018937479453_ירוק ריינג'ר,8018937479453,ירוק ריינג'ר,hook-backed-edc-organizer-panel,פאנל ארגון טקטי ,True,True,Monday,0.0,Weekday
 8018937479453_ירוק ריינג'ר,8018937479453,ירוק ריינג'ר,hook-backed-edc-organizer-panel,פאנל ארגון טקטי ,True,True,Saturday,0.0,Weekday
 8018937479453_ירוק ריינג'ר,8018937479453,ירוק ריינג'ר,hook-backed-edc-organizer-panel,פאנל ארגון טקטי ,True,True,Sunday,2.0,Weekday
@@ -272,7 +272,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018937479453_שחור,8018937479453,שחור,hook-backed-edc-organizer-panel,פאנל ארגון טקטי ,True,False,Thursday,0.0,Weekday
 8018937479453_שחור,8018937479453,שחור,hook-backed-edc-organizer-panel,פאנל ארגון טקטי ,True,False,Tuesday,0.0,Weekday
 8018937479453_שחור,8018937479453,שחור,hook-backed-edc-organizer-panel,פאנל ארגון טקטי ,True,False,Wednesday,0.0,Weekday
-8018937512221_ירוק ריינג'ר,8018937512221,ירוק ריינג'ר,padded-laptop-sleeve,'שרוול לפטופ מרופד 14.5 אינץ,True,True,Friday,0.0,Weekday
+8018937512221_ירוק ריינג'ר,8018937512221,ירוק ריינג'ר,padded-laptop-sleeve,'שרוול לפטופ מרופד 14.5 אינץ,True,True,Friday,1.0,Weekday
 8018937512221_ירוק ריינג'ר,8018937512221,ירוק ריינג'ר,padded-laptop-sleeve,'שרוול לפטופ מרופד 14.5 אינץ,True,True,Monday,0.0,Weekday
 8018937512221_ירוק ריינג'ר,8018937512221,ירוק ריינג'ר,padded-laptop-sleeve,'שרוול לפטופ מרופד 14.5 אינץ,True,True,Saturday,0.0,Weekday
 8018937512221_ירוק ריינג'ר,8018937512221,ירוק ריינג'ר,padded-laptop-sleeve,'שרוול לפטופ מרופד 14.5 אינץ,True,True,Sunday,0.0,Weekday
@@ -293,7 +293,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018937512221_שחור,8018937512221,שחור,padded-laptop-sleeve,'שרוול לפטופ מרופד 14.5 אינץ,True,False,Thursday,0.0,Weekday
 8018937512221_שחור,8018937512221,שחור,padded-laptop-sleeve,'שרוול לפטופ מרופד 14.5 אינץ,True,False,Tuesday,0.0,Weekday
 8018937512221_שחור,8018937512221,שחור,padded-laptop-sleeve,'שרוול לפטופ מרופד 14.5 אינץ,True,False,Wednesday,0.0,Weekday
-8018937577757_ירוק ריינג'ר,8018937577757,ירוק ריינג'ר,14-5-padded-laptop-sleeve-up,'שרוול לפטופ מרופד 14.5 אינץ ,True,True,Friday,0.0,Weekday
+8018937577757_ירוק ריינג'ר,8018937577757,ירוק ריינג'ר,14-5-padded-laptop-sleeve-up,'שרוול לפטופ מרופד 14.5 אינץ ,True,True,Friday,1.0,Weekday
 8018937577757_ירוק ריינג'ר,8018937577757,ירוק ריינג'ר,14-5-padded-laptop-sleeve-up,'שרוול לפטופ מרופד 14.5 אינץ ,True,True,Monday,0.0,Weekday
 8018937577757_ירוק ריינג'ר,8018937577757,ירוק ריינג'ר,14-5-padded-laptop-sleeve-up,'שרוול לפטופ מרופד 14.5 אינץ ,True,True,Saturday,0.0,Weekday
 8018937577757_ירוק ריינג'ר,8018937577757,ירוק ריינג'ר,14-5-padded-laptop-sleeve-up,'שרוול לפטופ מרופד 14.5 אינץ ,True,True,Sunday,0.0,Weekday
@@ -328,7 +328,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018937610525_Multicam,8018937610525,Multicam,hook-backed-edc-organizer-panel-up,פאנל ארגון טקטי ,True,False,Thursday,0.0,Weekday
 8018937610525_Multicam,8018937610525,Multicam,hook-backed-edc-organizer-panel-up,פאנל ארגון טקטי ,True,False,Tuesday,0.0,Weekday
 8018937610525_Multicam,8018937610525,Multicam,hook-backed-edc-organizer-panel-up,פאנל ארגון טקטי ,True,False,Wednesday,0.0,Weekday
-8018937610525_Ranger Green,8018937610525,Ranger Green,hook-backed-edc-organizer-panel-up,פאנל ארגון טקטי ,True,True,Friday,0.0,Weekday
+8018937610525_Ranger Green,8018937610525,Ranger Green,hook-backed-edc-organizer-panel-up,פאנל ארגון טקטי ,True,True,Friday,1.0,Weekday
 8018937610525_Ranger Green,8018937610525,Ranger Green,hook-backed-edc-organizer-panel-up,פאנל ארגון טקטי ,True,True,Monday,0.0,Weekday
 8018937610525_Ranger Green,8018937610525,Ranger Green,hook-backed-edc-organizer-panel-up,פאנל ארגון טקטי ,True,True,Saturday,0.0,Weekday
 8018937610525_Ranger Green,8018937610525,Ranger Green,hook-backed-edc-organizer-panel-up,פאנל ארגון טקטי ,True,True,Sunday,2.0,Weekday
@@ -951,7 +951,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018942034205_חום,8018942034205,חום,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,False,Thursday,0.0,Weekday
 8018942034205_חום,8018942034205,חום,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,False,Tuesday,0.0,Weekday
 8018942034205_חום,8018942034205,חום,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,False,Wednesday,0.0,Weekday
-8018942034205_ירוק ריינג'ר,8018942034205,ירוק ריינג'ר,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,Friday,0.0,Weekday
+8018942034205_ירוק ריינג'ר,8018942034205,ירוק ריינג'ר,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,Friday,1.0,Weekday
 8018942034205_ירוק ריינג'ר,8018942034205,ירוק ריינג'ר,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,Monday,1.0,Weekday
 8018942034205_ירוק ריינג'ר,8018942034205,ירוק ריינג'ר,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,Saturday,0.0,Weekday
 8018942034205_ירוק ריינג'ר,8018942034205,ירוק ריינג'ר,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,Sunday,3.0,Weekday
@@ -1189,7 +1189,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8091315896605_שחור,8091315896605,שחור,pincer-2nd-layer-admin-pouch,  פאוץ' קדמי לפונדת סקוטש קשיחה,True,True,Thursday,0.0,Weekday
 8091315896605_שחור,8091315896605,שחור,pincer-2nd-layer-admin-pouch,  פאוץ' קדמי לפונדת סקוטש קשיחה,True,True,Tuesday,0.0,Weekday
 8091315896605_שחור,8091315896605,שחור,pincer-2nd-layer-admin-pouch,  פאוץ' קדמי לפונדת סקוטש קשיחה,True,True,Wednesday,1.0,Weekday
-8091315994909_ירוק ריינג'ר,8091315994909,ירוק ריינג'ר,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,True,True,Friday,4.0,Weekday
+8091315994909_ירוק ריינג'ר,8091315994909,ירוק ריינג'ר,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,True,True,Friday,5.0,Weekday
 8091315994909_ירוק ריינג'ר,8091315994909,ירוק ריינג'ר,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,True,True,Monday,4.0,Weekday
 8091315994909_ירוק ריינג'ר,8091315994909,ירוק ריינג'ר,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,True,True,Saturday,0.0,Weekday
 8091315994909_ירוק ריינג'ר,8091315994909,ירוק ריינג'ר,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,True,True,Sunday,6.0,Weekday
@@ -2055,14 +2055,14 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9835354980637_שחור,9835354980637,שחור,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,Thursday,0.0,Weekday
 9835354980637_שחור,9835354980637,שחור,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,Tuesday,0.0,Weekday
 9835354980637_שחור,9835354980637,שחור,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,Wednesday,0.0,Weekday
-9842351505693_ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,9842351505693,ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,pincer-placard-loadout,חבילת פונדת מחסניות ™Pincer מזוודת,True,True,Friday,2.0,Weekday
+9842351505693_ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,9842351505693,ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,pincer-placard-loadout,חבילת פונדת מחסניות ™Pincer מזוודת,True,True,Friday,3.0,Weekday
 9842351505693_ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,9842351505693,ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,pincer-placard-loadout,חבילת פונדת מחסניות ™Pincer מזוודת,True,True,Monday,2.0,Weekday
 9842351505693_ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,9842351505693,ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,pincer-placard-loadout,חבילת פונדת מחסניות ™Pincer מזוודת,True,True,Saturday,0.0,Weekday
 9842351505693_ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,9842351505693,ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,pincer-placard-loadout,חבילת פונדת מחסניות ™Pincer מזוודת,True,True,Sunday,3.0,Weekday
 9842351505693_ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,9842351505693,ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,pincer-placard-loadout,חבילת פונדת מחסניות ™Pincer מזוודת,True,True,Thursday,2.0,Weekday
 9842351505693_ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,9842351505693,ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,pincer-placard-loadout,חבילת פונדת מחסניות ™Pincer מזוודת,True,True,Tuesday,1.0,Weekday
 9842351505693_ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,9842351505693,ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,pincer-placard-loadout,חבילת פונדת מחסניות ™Pincer מזוודת,True,True,Wednesday,3.0,Weekday
-9842351505693_ירוק ריינג'ר / ירוק ריינג'ר / שחור,9842351505693,ירוק ריינג'ר / ירוק ריינג'ר / שחור,pincer-placard-loadout,חבילת פונדת מחסניות ™Pincer מזוודת,True,True,Friday,2.0,Weekday
+9842351505693_ירוק ריינג'ר / ירוק ריינג'ר / שחור,9842351505693,ירוק ריינג'ר / ירוק ריינג'ר / שחור,pincer-placard-loadout,חבילת פונדת מחסניות ™Pincer מזוודת,True,True,Friday,3.0,Weekday
 9842351505693_ירוק ריינג'ר / ירוק ריינג'ר / שחור,9842351505693,ירוק ריינג'ר / ירוק ריינג'ר / שחור,pincer-placard-loadout,חבילת פונדת מחסניות ™Pincer מזוודת,True,True,Monday,2.0,Weekday
 9842351505693_ירוק ריינג'ר / ירוק ריינג'ר / שחור,9842351505693,ירוק ריינג'ר / ירוק ריינג'ר / שחור,pincer-placard-loadout,חבילת פונדת מחסניות ™Pincer מזוודת,True,True,Saturday,0.0,Weekday
 9842351505693_ירוק ריינג'ר / ירוק ריינג'ר / שחור,9842351505693,ירוק ריינג'ר / ירוק ריינג'ר / שחור,pincer-placard-loadout,חבילת פונדת מחסניות ™Pincer מזוודת,True,True,Sunday,3.0,Weekday
@@ -2896,18 +2896,18 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018936594717_מולטיקם,8018936594717,מולטיקם,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,False,June,0.0,Month
 8018936594717_מולטיקם שחור,8018936594717,מולטיקם שחור,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,False,June,0.0,Month
 8018936594717_שחור,8018936594717,שחור,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,True,June,1.0,Month
-8018937479453_ירוק ריינג'ר,8018937479453,ירוק ריינג'ר,hook-backed-edc-organizer-panel,פאנל ארגון טקטי ,True,True,June,2.0,Month
+8018937479453_ירוק ריינג'ר,8018937479453,ירוק ריינג'ר,hook-backed-edc-organizer-panel,פאנל ארגון טקטי ,True,True,June,3.0,Month
 8018937479453_מולטיקם,8018937479453,מולטיקם,hook-backed-edc-organizer-panel,פאנל ארגון טקטי ,True,False,June,0.0,Month
 8018937479453_שחור,8018937479453,שחור,hook-backed-edc-organizer-panel,פאנל ארגון טקטי ,True,False,June,0.0,Month
-8018937512221_ירוק ריינג'ר,8018937512221,ירוק ריינג'ר,padded-laptop-sleeve,'שרוול לפטופ מרופד 14.5 אינץ,True,True,June,0.0,Month
+8018937512221_ירוק ריינג'ר,8018937512221,ירוק ריינג'ר,padded-laptop-sleeve,'שרוול לפטופ מרופד 14.5 אינץ,True,True,June,1.0,Month
 8018937512221_מולטיקם,8018937512221,מולטיקם,padded-laptop-sleeve,'שרוול לפטופ מרופד 14.5 אינץ,True,True,June,0.0,Month
 8018937512221_שחור,8018937512221,שחור,padded-laptop-sleeve,'שרוול לפטופ מרופד 14.5 אינץ,True,False,June,0.0,Month
-8018937577757_ירוק ריינג'ר,8018937577757,ירוק ריינג'ר,14-5-padded-laptop-sleeve-up,'שרוול לפטופ מרופד 14.5 אינץ ,True,True,June,0.0,Month
+8018937577757_ירוק ריינג'ר,8018937577757,ירוק ריינג'ר,14-5-padded-laptop-sleeve-up,'שרוול לפטופ מרופד 14.5 אינץ ,True,True,June,1.0,Month
 8018937577757_מולטיקם,8018937577757,מולטיקם,14-5-padded-laptop-sleeve-up,'שרוול לפטופ מרופד 14.5 אינץ ,True,True,June,0.0,Month
 8018937577757_שחור,8018937577757,שחור,14-5-padded-laptop-sleeve-up,'שרוול לפטופ מרופד 14.5 אינץ ,True,False,June,0.0,Month
 8018937610525_Black,8018937610525,Black,hook-backed-edc-organizer-panel-up,פאנל ארגון טקטי ,True,False,June,0.0,Month
 8018937610525_Multicam,8018937610525,Multicam,hook-backed-edc-organizer-panel-up,פאנל ארגון טקטי ,True,False,June,0.0,Month
-8018937610525_Ranger Green,8018937610525,Ranger Green,hook-backed-edc-organizer-panel-up,פאנל ארגון טקטי ,True,True,June,2.0,Month
+8018937610525_Ranger Green,8018937610525,Ranger Green,hook-backed-edc-organizer-panel-up,פאנל ארגון טקטי ,True,True,June,3.0,Month
 8018937872669_חום,8018937872669,חום,sf-balaclava-black,מסכת פנים,True,False,June,0.0,Month
 8018937872669_ירוק ריינג'ר,8018937872669,ירוק ריינג'ר,sf-balaclava-black,מסכת פנים,True,True,June,8.0,Month
 8018937872669_שחור,8018937872669,שחור,sf-balaclava-black,מסכת פנים,True,True,June,2.0,Month
@@ -2996,7 +2996,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018941935901_Coyote Tan / SX,8018941935901,Coyote Tan / SX,replacement-buckle-k19-40mm-shoulder-strap-not-for-sale,Replacement Buckle K19 40mm - Shoulder Strap,False,False,June,0.0,Month
 8018942034205_אפור,8018942034205,אפור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,False,June,0.0,Month
 8018942034205_חום,8018942034205,חום,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,False,June,0.0,Month
-8018942034205_ירוק ריינג'ר,8018942034205,ירוק ריינג'ר,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,June,7.0,Month
+8018942034205_ירוק ריינג'ר,8018942034205,ירוק ריינג'ר,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,June,8.0,Month
 8018942034205_מולטיקם,8018942034205,מולטיקם,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,False,June,0.0,Month
 8018942034205_מולטיקם שחור,8018942034205,מולטיקם שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,False,June,0.0,Month
 8018942034205_שחור,8018942034205,שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,June,0.0,Month
@@ -3030,7 +3030,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8091315896605_ירוק ריינג'ר,8091315896605,ירוק ריינג'ר,pincer-2nd-layer-admin-pouch,  פאוץ' קדמי לפונדת סקוטש קשיחה,True,True,June,21.0,Month
 8091315896605_מולטיקם,8091315896605,מולטיקם,pincer-2nd-layer-admin-pouch,  פאוץ' קדמי לפונדת סקוטש קשיחה,True,False,June,0.0,Month
 8091315896605_שחור,8091315896605,שחור,pincer-2nd-layer-admin-pouch,  פאוץ' קדמי לפונדת סקוטש קשיחה,True,True,June,3.0,Month
-8091315994909_ירוק ריינג'ר,8091315994909,ירוק ריינג'ר,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,True,True,June,27.0,Month
+8091315994909_ירוק ריינג'ר,8091315994909,ירוק ריינג'ר,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,True,True,June,28.0,Month
 8091315994909_מולטיקם,8091315994909,מולטיקם,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,True,False,June,0.0,Month
 8091315994909_שחור,8091315994909,שחור,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,True,True,June,12.0,Month
 8192262799645_חום,8192262799645,חום,quick-release-cummerbund-buckle,2M ROC - מערכת ניתוק מהיר,True,False,June,0.0,Month
@@ -3158,8 +3158,8 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9835354980637_ירוק ריינג'ר,9835354980637,ירוק ריינג'ר,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,June,165.0,Month
 9835354980637_מולטיקם,9835354980637,מולטיקם,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,False,June,0.0,Month
 9835354980637_שחור,9835354980637,שחור,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,June,1.0,Month
-9842351505693_ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,9842351505693,ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,pincer-placard-loadout,חבילת פונדת מחסניות ™Pincer מזוודת,True,True,June,13.0,Month
-9842351505693_ירוק ריינג'ר / ירוק ריינג'ר / שחור,9842351505693,ירוק ריינג'ר / ירוק ריינג'ר / שחור,pincer-placard-loadout,חבילת פונדת מחסניות ™Pincer מזוודת,True,True,June,13.0,Month
+9842351505693_ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,9842351505693,ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,pincer-placard-loadout,חבילת פונדת מחסניות ™Pincer מזוודת,True,True,June,14.0,Month
+9842351505693_ירוק ריינג'ר / ירוק ריינג'ר / שחור,9842351505693,ירוק ריינג'ר / ירוק ריינג'ר / שחור,pincer-placard-loadout,חבילת פונדת מחסניות ™Pincer מזוודת,True,True,June,14.0,Month
 9842351505693_ירוק ריינג'ר / שחור / ירוק ריינג'ר,9842351505693,ירוק ריינג'ר / שחור / ירוק ריינג'ר,pincer-placard-loadout,חבילת פונדת מחסניות ™Pincer מזוודת,True,True,June,3.0,Month
 9842351505693_ירוק ריינג'ר / שחור / שחור,9842351505693,ירוק ריינג'ר / שחור / שחור,pincer-placard-loadout,חבילת פונדת מחסניות ™Pincer מזוודת,True,True,June,3.0,Month
 9842351505693_שחור / ירוק ריינג'ר / ירוק ריינג'ר,9842351505693,שחור / ירוק ריינג'ר / ירוק ריינג'ר,pincer-placard-loadout,חבילת פונדת מחסניות ™Pincer מזוודת,True,True,June,21.0,Month
