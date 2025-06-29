@@ -681,7 +681,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018940756253_S / שחור,8018940756253,S / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Friday,0.0,Weekday
 8018940756253_S / שחור,8018940756253,S / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Monday,0.0,Weekday
 8018940756253_S / שחור,8018940756253,S / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Saturday,1.0,Weekday
-8018940756253_S / שחור,8018940756253,S / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Sunday,0.0,Weekday
+8018940756253_S / שחור,8018940756253,S / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Sunday,1.0,Weekday
 8018940756253_S / שחור,8018940756253,S / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Thursday,0.0,Weekday
 8018940756253_S / שחור,8018940756253,S / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Tuesday,0.0,Weekday
 8018940756253_S / שחור,8018940756253,S / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Wednesday,1.0,Weekday
@@ -856,7 +856,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018941411613_ירוק ריינג'ר,8018941411613,ירוק ריינג'ר,k19-plate-carrier,K-19™ 3.0 קרמון ,True,True,Friday,2.0,Weekday
 8018941411613_ירוק ריינג'ר,8018941411613,ירוק ריינג'ר,k19-plate-carrier,K-19™ 3.0 קרמון ,True,True,Monday,0.0,Weekday
 8018941411613_ירוק ריינג'ר,8018941411613,ירוק ריינג'ר,k19-plate-carrier,K-19™ 3.0 קרמון ,True,True,Saturday,1.0,Weekday
-8018941411613_ירוק ריינג'ר,8018941411613,ירוק ריינג'ר,k19-plate-carrier,K-19™ 3.0 קרמון ,True,True,Sunday,3.0,Weekday
+8018941411613_ירוק ריינג'ר,8018941411613,ירוק ריינג'ר,k19-plate-carrier,K-19™ 3.0 קרמון ,True,True,Sunday,4.0,Weekday
 8018941411613_ירוק ריינג'ר,8018941411613,ירוק ריינג'ר,k19-plate-carrier,K-19™ 3.0 קרמון ,True,True,Thursday,1.0,Weekday
 8018941411613_ירוק ריינג'ר,8018941411613,ירוק ריינג'ר,k19-plate-carrier,K-19™ 3.0 קרמון ,True,True,Tuesday,0.0,Weekday
 8018941411613_ירוק ריינג'ר,8018941411613,ירוק ריינג'ר,k19-plate-carrier,K-19™ 3.0 קרמון ,True,True,Wednesday,4.0,Weekday
@@ -1860,7 +1860,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9721787679005_ירוק ריינג'ר,9721787679005,ירוק ריינג'ר,modular-elastic-cummerbund,חובק קרמון אלסטי,True,True,Friday,0.0,Weekday
 9721787679005_ירוק ריינג'ר,9721787679005,ירוק ריינג'ר,modular-elastic-cummerbund,חובק קרמון אלסטי,True,True,Monday,0.0,Weekday
 9721787679005_ירוק ריינג'ר,9721787679005,ירוק ריינג'ר,modular-elastic-cummerbund,חובק קרמון אלסטי,True,True,Saturday,0.0,Weekday
-9721787679005_ירוק ריינג'ר,9721787679005,ירוק ריינג'ר,modular-elastic-cummerbund,חובק קרמון אלסטי,True,True,Sunday,0.0,Weekday
+9721787679005_ירוק ריינג'ר,9721787679005,ירוק ריינג'ר,modular-elastic-cummerbund,חובק קרמון אלסטי,True,True,Sunday,1.0,Weekday
 9721787679005_ירוק ריינג'ר,9721787679005,ירוק ריינג'ר,modular-elastic-cummerbund,חובק קרמון אלסטי,True,True,Thursday,0.0,Weekday
 9721787679005_ירוק ריינג'ר,9721787679005,ירוק ריינג'ר,modular-elastic-cummerbund,חובק קרמון אלסטי,True,True,Tuesday,0.0,Weekday
 9721787679005_ירוק ריינג'ר,9721787679005,ירוק ריינג'ר,modular-elastic-cummerbund,חובק קרמון אלסטי,True,True,Wednesday,2.0,Weekday
@@ -2525,7 +2525,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9849669812509_ירוק ריינג'ר / ירוק ריינג'ר,9849669812509,ירוק ריינג'ר / ירוק ריינג'ר,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,Friday,2.0,Weekday
 9849669812509_ירוק ריינג'ר / ירוק ריינג'ר,9849669812509,ירוק ריינג'ר / ירוק ריינג'ר,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,Monday,0.0,Weekday
 9849669812509_ירוק ריינג'ר / ירוק ריינג'ר,9849669812509,ירוק ריינג'ר / ירוק ריינג'ר,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,Saturday,1.0,Weekday
-9849669812509_ירוק ריינג'ר / ירוק ריינג'ר,9849669812509,ירוק ריינג'ר / ירוק ריינג'ר,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,Sunday,3.0,Weekday
+9849669812509_ירוק ריינג'ר / ירוק ריינג'ר,9849669812509,ירוק ריינג'ר / ירוק ריינג'ר,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,Sunday,4.0,Weekday
 9849669812509_ירוק ריינג'ר / ירוק ריינג'ר,9849669812509,ירוק ריינג'ר / ירוק ריינג'ר,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,Thursday,1.0,Weekday
 9849669812509_ירוק ריינג'ר / ירוק ריינג'ר,9849669812509,ירוק ריינג'ר / ירוק ריינג'ר,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,Tuesday,0.0,Weekday
 9849669812509_ירוק ריינג'ר / ירוק ריינג'ר,9849669812509,ירוק ריינג'ר / ירוק ריינג'ר,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,Wednesday,4.0,Weekday
@@ -2969,7 +2969,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018940756253_M / הסוואה,8018940756253,M / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,4.0,Month
 8018940756253_M / שחור,8018940756253,M / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,2.0,Month
 8018940756253_S / הסוואה,8018940756253,S / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,1.0,Month
-8018940756253_S / שחור,8018940756253,S / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,2.0,Month
+8018940756253_S / שחור,8018940756253,S / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,3.0,Month
 8018940756253_XL / הסוואה,8018940756253,XL / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,104.0,Month
 8018940756253_XL / שחור,8018940756253,XL / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,0.0,Month
 8018940756253_XS / הסוואה,8018940756253,XS / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,1.0,Month
@@ -2994,7 +2994,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018941280541_לארג' - מדיום  / ירוק זית,8018941280541,לארג' - מדיום  / ירוק זית,ops-core-fast-bump-carbon-high-cut-helmet-cover-gen4,Ops-Core® FAST BUMP/Carbon High Cut Gen4 - כיסוי קסדה חיתוך גבוה,True,True,June,1.0,Month
 8018941411613_אפור,8018941411613,אפור,k19-plate-carrier,K-19™ 3.0 קרמון ,True,False,June,0.0,Month
 8018941411613_חום,8018941411613,חום,k19-plate-carrier,K-19™ 3.0 קרמון ,True,False,June,0.0,Month
-8018941411613_ירוק ריינג'ר,8018941411613,ירוק ריינג'ר,k19-plate-carrier,K-19™ 3.0 קרמון ,True,True,June,11.0,Month
+8018941411613_ירוק ריינג'ר,8018941411613,ירוק ריינג'ר,k19-plate-carrier,K-19™ 3.0 קרמון ,True,True,June,12.0,Month
 8018941411613_מולטיקם,8018941411613,מולטיקם,k19-plate-carrier,K-19™ 3.0 קרמון ,True,False,June,0.0,Month
 8018941411613_מולטיקם שחור,8018941411613,מולטיקם שחור,k19-plate-carrier,K-19™ 3.0 קרמון ,True,False,June,0.0,Month
 8018941411613_שחור,8018941411613,שחור,k19-plate-carrier,K-19™ 3.0 קרמון ,True,True,June,16.0,Month
@@ -3140,7 +3140,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9716337541405_ירוק ריינג'ר,9716337541405,ירוק ריינג'ר,reaper-chest-rig,"מל""מ (מערכת לחימה מנימליסטית)",True,True,June,0.0,Month
 9716337541405_מולטיקם,9716337541405,מולטיקם,reaper-chest-rig,"מל""מ (מערכת לחימה מנימליסטית)",True,False,June,0.0,Month
 9716337541405_שחור,9716337541405,שחור,reaper-chest-rig,"מל""מ (מערכת לחימה מנימליסטית)",True,True,June,1.0,Month
-9721787679005_ירוק ריינג'ר,9721787679005,ירוק ריינג'ר,modular-elastic-cummerbund,חובק קרמון אלסטי,True,True,June,2.0,Month
+9721787679005_ירוק ריינג'ר,9721787679005,ירוק ריינג'ר,modular-elastic-cummerbund,חובק קרמון אלסטי,True,True,June,3.0,Month
 9721787679005_מולטיקם,9721787679005,מולטיקם,modular-elastic-cummerbund,חובק קרמון אלסטי,True,False,June,0.0,Month
 9721787679005_שחור ,9721787679005,שחור ,modular-elastic-cummerbund,חובק קרמון אלסטי,True,True,June,1.0,Month
 9744573890845_ירוק ריינג'ר / (10x12 or SAPI Medium) - מדיום ,9744573890845,ירוק ריינג'ר / (10x12 or SAPI Medium) - מדיום ,k-zero-בהנחת-טלגרם,K-Zero™-  קרמון מיוחדות,True,True,June,16.0,Month
@@ -3235,7 +3235,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9844659880221_שחור / שחור / שחור,9844659880221,שחור / שחור / שחור,reaper™-rig-micro-rig-bundle,"חבילת מל""מ מאובזר מיני",True,False,June,0.0,Month
 9844659880221_שחור / שחור / שחור מולטיקם,9844659880221,שחור / שחור / שחור מולטיקם,reaper™-rig-micro-rig-bundle,"חבילת מל""מ מאובזר מיני",True,False,June,0.0,Month
 9849669812509_ירוק ריינג'ר / Black,9849669812509,ירוק ריינג'ר / Black,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,June,0.0,Month
-9849669812509_ירוק ריינג'ר / ירוק ריינג'ר,9849669812509,ירוק ריינג'ר / ירוק ריינג'ר,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,June,11.0,Month
+9849669812509_ירוק ריינג'ר / ירוק ריינג'ר,9849669812509,ירוק ריינג'ר / ירוק ריינג'ר,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,June,12.0,Month
 9849669812509_שחור / Black,9849669812509,שחור / Black,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,June,0.0,Month
 9849669812509_שחור / ירוק ריינג'ר,9849669812509,שחור / ירוק ריינג'ר,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,June,16.0,Month
 9850248593693_ירוק ריינג'ר / לארג' / ירוק ריינג'ר,9850248593693,ירוק ריינג'ר / לארג' / ירוק ריינג'ר,k-zero-plate-carrier-hesco-3110-level-iii-side-plates,חבילת ™K-Zero קרמון + פלטות צד קרמיות רמה 3 - HESCO 3110 LVL III,True,True,June,3.0,Month
