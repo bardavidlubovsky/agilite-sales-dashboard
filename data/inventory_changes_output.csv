@@ -7,7 +7,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8018935152925_חום,8018935152925,חום,0.0,0.0,464.0,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,0,0.0,0.0,0.0
 8018935152925_ירוק ריינג'ר,8018935152925,ירוק ריינג'ר,1.0,0.0,464.0,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,32,464.0,14848.0,0.0
 8018935152925_שחור,8018935152925,שחור,0.0,0.0,464.0,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,37,0.0,17168.0,0.0
-8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,10.0,6.0,153.0,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,-3,1530.0,0.0,-459.0
+8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,10.0,7.0,153.0,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,-2,1530.0,0.0,-306.0
 8018935283997_מולטיקם,8018935283997,מולטיקם,0.0,0.0,153.0,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,0,0.0,0.0,0.0
 8018935283997_שחור,8018935283997,שחור,18.0,0.0,153.0,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,39,2754.0,5967.0,0.0
 8018935382301_חום,8018935382301,חום,0.0,0.0,0.0,fanny-pack-conversion-strap,Six Pack™ - 'רצועת המרה לפאוץ,0,0.0,0.0,0.0
@@ -76,7 +76,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8018939937053_הפוך,8018939937053,הפוך,0.0,0.0,57.9,ir-us-flag-patch,IR פאץ' דגל אמריקאי ,0,0.0,0.0,0.0
 8018939937053_רגיל,8018939937053,רגיל,0.0,0.0,57.9,ir-us-flag-patch,IR פאץ' דגל אמריקאי ,0,0.0,0.0,0.0
 8018940035357_M/L / הסוואה,8018940035357,M/L / הסוואה,0.0,0.0,279.0,team-wendy-exfil-ballistic-cover,Team Wendy® EXFIL Ballistic/SL - כיסוי קסדה,0,0.0,0.0,0.0
-8018940035357_M/L / ירוק זית,8018940035357,M/L / ירוק זית,1.0,0.0,279.0,team-wendy-exfil-ballistic-cover,Team Wendy® EXFIL Ballistic/SL - כיסוי קסדה,25,279.0,6975.0,0.0
+8018940035357_M/L / ירוק זית,8018940035357,M/L / ירוק זית,2.0,0.0,279.0,team-wendy-exfil-ballistic-cover,Team Wendy® EXFIL Ballistic/SL - כיסוי קסדה,24,558.0,6696.0,0.0
 8018940035357_M/L / שחור,8018940035357,M/L / שחור,0.0,0.0,279.0,team-wendy-exfil-ballistic-cover,Team Wendy® EXFIL Ballistic/SL - כיסוי קסדה,200,0.0,55800.0,0.0
 8018940035357_XL / הסוואה,8018940035357,XL / הסוואה,0.0,0.0,279.0,team-wendy-exfil-ballistic-cover,Team Wendy® EXFIL Ballistic/SL - כיסוי קסדה,0,0.0,0.0,0.0
 8018940035357_XL / ירוק זית,8018940035357,XL / ירוק זית,0.0,0.0,279.0,team-wendy-exfil-ballistic-cover,Team Wendy® EXFIL Ballistic/SL - כיסוי קסדה,10,0.0,2790.0,0.0
@@ -89,9 +89,9 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8018940133661_Size 2 (L/XL) / שחור,8018940133661,Size 2 (L/XL) / שחור,0.0,0.0,279.0,team-wendy-exfil-carbon-helmet-cover,Team Wendy® EXFIL Bump LTP/Carbon - כיסוי קסדה ,-8,0.0,0.0,-2232.0
 8018940461341_מדיום / מולטיקם,8018940461341,מדיום / מולטיקם,0.0,0.0,279.0,safariland-delta-x-helmet-cover-mohawk-air,Safariland® Delta X™ Mohawk AIR - כיסוי קסדה מוהוק,0,0.0,0.0,0.0
 8018940559645_חום,8018940559645,חום,0.0,0.0,63.0,rear-pouch,פאוץ' אחורי לכיסוי קסדה,0,0.0,0.0,0.0
-8018940559645_ירוק זית,8018940559645,ירוק זית,14.0,0.0,63.0,rear-pouch,פאוץ' אחורי לכיסוי קסדה,43,882.0,2709.0,0.0
+8018940559645_ירוק זית,8018940559645,ירוק זית,15.0,0.0,63.0,rear-pouch,פאוץ' אחורי לכיסוי קסדה,42,945.0,2646.0,0.0
 8018940559645_שחור,8018940559645,שחור,1.0,0.0,63.0,rear-pouch,פאוץ' אחורי לכיסוי קסדה,80,63.0,5040.0,0.0
-8018940756253_L / הסוואה,8018940756253,L / הסוואה,9.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,275,1521.0,46475.0,0.0
+8018940756253_L / הסוואה,8018940756253,L / הסוואה,10.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,274,1690.0,46306.0,0.0
 8018940756253_L / שחור,8018940756253,L / שחור,4.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,42,676.0,7098.0,0.0
 8018940756253_M / הסוואה,8018940756253,M / הסוואה,4.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,3,676.0,507.0,0.0
 8018940756253_M / שחור,8018940756253,M / שחור,2.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,4,338.0,676.0,0.0
@@ -104,13 +104,13 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8018940756253_XXL / הסוואה,8018940756253,XXL / הסוואה,0.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,22,0.0,3718.0,0.0
 8018940756253_XXL / שחור,8018940756253,XXL / שחור,0.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,8,0.0,1352.0,0.0
 8018940920093_'אקסטרה לארג' - לארג / הסוואה,8018940920093,'אקסטרה לארג' - לארג / הסוואה,0.0,0.0,279.0,ops-core-fast-st-xp-helmet-cover-gen4,Ops-Core® FAST ST/XP High Cut Gen4 - כיסוי קסדה חיתוך גבוה,130,0.0,36270.0,0.0
-8018940920093_'אקסטרה לארג' - לארג / ירוק זית,8018940920093,'אקסטרה לארג' - לארג / ירוק זית,2.0,0.0,279.0,ops-core-fast-st-xp-helmet-cover-gen4,Ops-Core® FAST ST/XP High Cut Gen4 - כיסוי קסדה חיתוך גבוה,150,558.0,41850.0,0.0
+8018940920093_'אקסטרה לארג' - לארג / ירוק זית,8018940920093,'אקסטרה לארג' - לארג / ירוק זית,3.0,0.0,279.0,ops-core-fast-st-xp-helmet-cover-gen4,Ops-Core® FAST ST/XP High Cut Gen4 - כיסוי קסדה חיתוך גבוה,149,837.0,41571.0,0.0
 8018940920093_'מדיום - לארג / הסוואה,8018940920093,'מדיום - לארג / הסוואה,2.0,0.0,279.0,ops-core-fast-st-xp-helmet-cover-gen4,Ops-Core® FAST ST/XP High Cut Gen4 - כיסוי קסדה חיתוך גבוה,27,558.0,7533.0,0.0
 8018940920093_'מדיום - לארג / ירוק זית,8018940920093,'מדיום - לארג / ירוק זית,4.0,0.0,279.0,ops-core-fast-st-xp-helmet-cover-gen4,Ops-Core® FAST ST/XP High Cut Gen4 - כיסוי קסדה חיתוך גבוה,477,1116.0,133083.0,0.0
 8018940920093_מדיום - סמול / הסוואה,8018940920093,מדיום - סמול / הסוואה,0.0,0.0,279.0,ops-core-fast-st-xp-helmet-cover-gen4,Ops-Core® FAST ST/XP High Cut Gen4 - כיסוי קסדה חיתוך גבוה,1,0.0,279.0,0.0
 8018940920093_מדיום - סמול / ירוק זית,8018940920093,מדיום - סמול / ירוק זית,1.0,0.0,279.0,ops-core-fast-st-xp-helmet-cover-gen4,Ops-Core® FAST ST/XP High Cut Gen4 - כיסוי קסדה חיתוך גבוה,429,279.0,119691.0,0.0
 8018941182237_'לארג' - אקסטרה לארג / הסוואה,8018941182237,'לארג' - אקסטרה לארג / הסוואה,0.0,0.0,279.0,ops-core-sentry-xp-mid-cut-helmet-cover-gen4,Ops-Core® Sentry Mid Cut Gen4 - כיסוי קסדה חיתוך בינוני,130,0.0,36270.0,0.0
-8018941182237_'לארג' - אקסטרה לארג / ירוק זית,8018941182237,'לארג' - אקסטרה לארג / ירוק זית,2.0,0.0,279.0,ops-core-sentry-xp-mid-cut-helmet-cover-gen4,Ops-Core® Sentry Mid Cut Gen4 - כיסוי קסדה חיתוך בינוני,150,558.0,41850.0,0.0
+8018941182237_'לארג' - אקסטרה לארג / ירוק זית,8018941182237,'לארג' - אקסטרה לארג / ירוק זית,3.0,0.0,279.0,ops-core-sentry-xp-mid-cut-helmet-cover-gen4,Ops-Core® Sentry Mid Cut Gen4 - כיסוי קסדה חיתוך בינוני,149,837.0,41571.0,0.0
 8018941182237_'מדיום - לארג / הסוואה,8018941182237,'מדיום - לארג / הסוואה,1.0,0.0,279.0,ops-core-sentry-xp-mid-cut-helmet-cover-gen4,Ops-Core® Sentry Mid Cut Gen4 - כיסוי קסדה חיתוך בינוני,27,279.0,7533.0,0.0
 8018941182237_'מדיום - לארג / ירוק זית,8018941182237,'מדיום - לארג / ירוק זית,4.0,0.0,279.0,ops-core-sentry-xp-mid-cut-helmet-cover-gen4,Ops-Core® Sentry Mid Cut Gen4 - כיסוי קסדה חיתוך בינוני,477,1116.0,133083.0,0.0
 8018941182237_מדיום - סמול / הסוואה,8018941182237,מדיום - סמול / הסוואה,0.0,0.0,279.0,ops-core-sentry-xp-mid-cut-helmet-cover-gen4,Ops-Core® Sentry Mid Cut Gen4 - כיסוי קסדה חיתוך בינוני,1,0.0,279.0,0.0
@@ -242,7 +242,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 9344894042397_Black,9344894042397,Black,2.0,0.0,84.9,discounted-molle-hanger,Discounted MOLLE Hanger,46,169.8,3905.4,0.0
 9344894042397_Coyote Brown,9344894042397,Coyote Brown,0.0,0.0,84.9,discounted-molle-hanger,Discounted MOLLE Hanger,0,0.0,0.0,0.0
 9344894042397_Ranger Green,9344894042397,Ranger Green,4.0,0.0,84.9,discounted-molle-hanger,Discounted MOLLE Hanger,163,339.6,13838.7,0.0
-9363870056733_ירוק ריינג'ר,9363870056733,ירוק ריינג'ר,11.0,0.0,89.0,פאוץ-ל-רימון,פאוץ' לרימון,29,979.0,2581.0,0.0
+9363870056733_ירוק ריינג'ר,9363870056733,ירוק ריינג'ר,12.0,0.0,89.0,פאוץ-ל-רימון,פאוץ' לרימון,28,1068.0,2492.0,0.0
 9365757329693_ירוק ריינג'ר,9365757329693,ירוק ריינג'ר,8.0,0.0,229.0,radio-pouch,פאוץ' לרדיו,217,1832.0,49693.0,0.0
 9365760147741_ירוק ריינג'ר,9365760147741,ירוק ריינג'ר,9.0,0.0,99.9,matol-pouch,פאוץ' למטול,3,899.1,299.70000000000005,0.0
 9365834268957_ירוק ריינג'ר / אקסטרה לארג',9365834268957,ירוק ריינג'ר / אקסטרה לארג',0.0,0.0,217.18,magnetix-edc-battle-belt,חגורת Magnetix™לנשיאה יומיומית,0,0.0,0.0,0.0
