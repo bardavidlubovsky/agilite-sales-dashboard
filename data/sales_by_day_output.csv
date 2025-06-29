@@ -1360,7 +1360,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Friday,3.0,Weekday
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Monday,2.0,Weekday
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Saturday,2.0,Weekday
-8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Sunday,10.0,Weekday
+8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Sunday,11.0,Weekday
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Thursday,6.0,Weekday
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Tuesday,2.0,Weekday
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Wednesday,2.0,Weekday
@@ -3066,7 +3066,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8388329505053_ירוק ריינג'ר,8388329505053,ירוק ריינג'ר,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,June,6.0,Month
 8388329505053_מולטיקם,8388329505053,מולטיקם,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,False,June,0.0,Month
 8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,June,6.0,Month
-8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,June,27.0,Month
+8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,June,28.0,Month
 8402082988317_מולטיקם,8402082988317,מולטיקם,general-purpose-pouch,פאוץ' כללי מודולרי,True,False,June,0.0,Month
 8402082988317_שחור,8402082988317,שחור,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,June,2.0,Month
 8440988336413_אפור,8440988336413,אפור,scorpion-logo-hat,כובע לוגו עקרב,False,False,June,0.0,Month
