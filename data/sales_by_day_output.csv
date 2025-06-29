@@ -352,7 +352,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018937872669_שחור,8018937872669,שחור,sf-balaclava-black,מסכת פנים,True,True,Friday,0.0,Weekday
 8018937872669_שחור,8018937872669,שחור,sf-balaclava-black,מסכת פנים,True,True,Monday,1.0,Weekday
 8018937872669_שחור,8018937872669,שחור,sf-balaclava-black,מסכת פנים,True,True,Saturday,0.0,Weekday
-8018937872669_שחור,8018937872669,שחור,sf-balaclava-black,מסכת פנים,True,True,Sunday,1.0,Weekday
+8018937872669_שחור,8018937872669,שחור,sf-balaclava-black,מסכת פנים,True,True,Sunday,2.0,Weekday
 8018937872669_שחור,8018937872669,שחור,sf-balaclava-black,מסכת פנים,True,True,Thursday,0.0,Weekday
 8018937872669_שחור,8018937872669,שחור,sf-balaclava-black,מסכת פנים,True,True,Tuesday,0.0,Weekday
 8018937872669_שחור,8018937872669,שחור,sf-balaclava-black,מסכת פנים,True,True,Wednesday,0.0,Weekday
@@ -632,7 +632,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018940559645_ירוק זית,8018940559645,ירוק זית,rear-pouch,פאוץ' אחורי לכיסוי קסדה,True,True,Friday,1.0,Weekday
 8018940559645_ירוק זית,8018940559645,ירוק זית,rear-pouch,פאוץ' אחורי לכיסוי קסדה,True,True,Monday,4.0,Weekday
 8018940559645_ירוק זית,8018940559645,ירוק זית,rear-pouch,פאוץ' אחורי לכיסוי קסדה,True,True,Saturday,1.0,Weekday
-8018940559645_ירוק זית,8018940559645,ירוק זית,rear-pouch,פאוץ' אחורי לכיסוי קסדה,True,True,Sunday,2.0,Weekday
+8018940559645_ירוק זית,8018940559645,ירוק זית,rear-pouch,פאוץ' אחורי לכיסוי קסדה,True,True,Sunday,3.0,Weekday
 8018940559645_ירוק זית,8018940559645,ירוק זית,rear-pouch,פאוץ' אחורי לכיסוי קסדה,True,True,Thursday,1.0,Weekday
 8018940559645_ירוק זית,8018940559645,ירוק זית,rear-pouch,פאוץ' אחורי לכיסוי קסדה,True,True,Tuesday,0.0,Weekday
 8018940559645_ירוק זית,8018940559645,ירוק זית,rear-pouch,פאוץ' אחורי לכיסוי קסדה,True,True,Wednesday,4.0,Weekday
@@ -1920,34 +1920,34 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9748504117533_שחור,9748504117533,שחור,warfighter-wings,"כנפי הרחבה למל""מ",True,True,Thursday,0.0,Weekday
 9748504117533_שחור,9748504117533,שחור,warfighter-wings,"כנפי הרחבה למל""מ",True,True,Tuesday,0.0,Weekday
 9748504117533_שחור,9748504117533,שחור,warfighter-wings,"כנפי הרחבה למל""מ",True,True,Wednesday,1.0,Weekday
-9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Friday,0.0,Weekday
-9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Monday,2.0,Weekday
-9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Saturday,0.0,Weekday
-9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Sunday,0.0,Weekday
-9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Thursday,0.0,Weekday
-9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Tuesday,0.0,Weekday
-9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Wednesday,2.0,Weekday
-9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Friday,0.0,Weekday
-9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Monday,2.0,Weekday
-9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Saturday,0.0,Weekday
-9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Sunday,0.0,Weekday
-9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Thursday,0.0,Weekday
-9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Tuesday,0.0,Weekday
-9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Wednesday,2.0,Weekday
-9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Friday,0.0,Weekday
-9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Monday,2.0,Weekday
-9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Saturday,0.0,Weekday
-9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Sunday,0.0,Weekday
-9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Thursday,0.0,Weekday
-9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Tuesday,0.0,Weekday
-9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Wednesday,2.0,Weekday
-9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Friday,0.0,Weekday
-9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Monday,2.0,Weekday
-9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Saturday,0.0,Weekday
-9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Sunday,0.0,Weekday
-9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Thursday,0.0,Weekday
-9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Tuesday,0.0,Weekday
-9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Wednesday,2.0,Weekday
+9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Friday,0.0,Weekday
+9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Monday,2.0,Weekday
+9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Saturday,0.0,Weekday
+9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Sunday,0.0,Weekday
+9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Thursday,0.0,Weekday
+9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Tuesday,0.0,Weekday
+9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Wednesday,2.0,Weekday
+9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Friday,0.0,Weekday
+9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Monday,2.0,Weekday
+9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Saturday,0.0,Weekday
+9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Sunday,0.0,Weekday
+9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Thursday,0.0,Weekday
+9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Tuesday,0.0,Weekday
+9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Wednesday,2.0,Weekday
+9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Friday,0.0,Weekday
+9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Monday,2.0,Weekday
+9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Saturday,0.0,Weekday
+9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Sunday,0.0,Weekday
+9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Thursday,0.0,Weekday
+9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Tuesday,0.0,Weekday
+9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Wednesday,2.0,Weekday
+9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Friday,0.0,Weekday
+9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Monday,2.0,Weekday
+9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Saturday,0.0,Weekday
+9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Sunday,0.0,Weekday
+9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Thursday,0.0,Weekday
+9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Tuesday,0.0,Weekday
+9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Wednesday,2.0,Weekday
 9778618794269_ירוק ריינג'ר,9778618794269,ירוק ריינג'ר,מתלה-כפפות-טקטי,מתלה כפפות טקטי ,False,False,Friday,0.0,Weekday
 9778618794269_ירוק ריינג'ר,9778618794269,ירוק ריינג'ר,מתלה-כפפות-טקטי,מתלה כפפות טקטי ,False,False,Monday,0.0,Weekday
 9778618794269_ירוק ריינג'ר,9778618794269,ירוק ריינג'ר,מתלה-כפפות-טקטי,מתלה כפפות טקטי ,False,False,Saturday,0.0,Weekday
@@ -2922,7 +2922,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018937610525_Ranger Green,8018937610525,Ranger Green,hook-backed-edc-organizer-panel-up,פאנל ארגון טקטי ,True,True,June,3.0,Month
 8018937872669_חום,8018937872669,חום,sf-balaclava-black,מסכת פנים,True,False,June,0.0,Month
 8018937872669_ירוק ריינג'ר,8018937872669,ירוק ריינג'ר,sf-balaclava-black,מסכת פנים,True,True,June,9.0,Month
-8018937872669_שחור,8018937872669,שחור,sf-balaclava-black,מסכת פנים,True,True,June,2.0,Month
+8018937872669_שחור,8018937872669,שחור,sf-balaclava-black,מסכת פנים,True,True,June,3.0,Month
 8018937970973_Default Title,8018937970973,Default Title,mitznefet-multicam,מצנפת אג'ילייט מנומרת,True,True,June,1.0,Month
 8018938298653_Black,8018938298653,Black,agilite-logo-patches,פאצ'ים לוגו אג'ילייט,False,False,June,0.0,Month
 8018938298653_Coyote Tan,8018938298653,Coyote Tan,agilite-logo-patches,פאצ'ים לוגו אג'ילייט,False,False,June,0.0,Month
@@ -2962,7 +2962,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018940133661_Size 2 (L/XL) / שחור,8018940133661,Size 2 (L/XL) / שחור,team-wendy-exfil-carbon-helmet-cover,Team Wendy® EXFIL Bump LTP/Carbon - כיסוי קסדה ,True,False,June,0.0,Month
 8018940461341_מדיום / מולטיקם,8018940461341,מדיום / מולטיקם,safariland-delta-x-helmet-cover-mohawk-air,Safariland® Delta X™ Mohawk AIR - כיסוי קסדה מוהוק,False,False,June,0.0,Month
 8018940559645_חום,8018940559645,חום,rear-pouch,פאוץ' אחורי לכיסוי קסדה,True,False,June,0.0,Month
-8018940559645_ירוק זית,8018940559645,ירוק זית,rear-pouch,פאוץ' אחורי לכיסוי קסדה,True,True,June,13.0,Month
+8018940559645_ירוק זית,8018940559645,ירוק זית,rear-pouch,פאוץ' אחורי לכיסוי קסדה,True,True,June,14.0,Month
 8018940559645_שחור,8018940559645,שחור,rear-pouch,פאוץ' אחורי לכיסוי קסדה,True,True,June,1.0,Month
 8018940756253_L / הסוואה,8018940756253,L / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,9.0,Month
 8018940756253_L / שחור,8018940756253,L / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,4.0,Month
@@ -3149,10 +3149,10 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9744573890845_שחור / (SAPI Large)- גדול  ,9744573890845,שחור / (SAPI Large)- גדול  ,k-zero-בהנחת-טלגרם,K-Zero™-  קרמון מיוחדות,True,False,June,0.0,Month
 9748504117533_ירוק ריינג'ר,9748504117533,ירוק ריינג'ר,warfighter-wings,"כנפי הרחבה למל""מ",True,True,June,0.0,Month
 9748504117533_שחור,9748504117533,שחור,warfighter-wings,"כנפי הרחבה למל""מ",True,True,June,1.0,Month
-9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,June,4.0,Month
-9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,June,4.0,Month
-9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,June,4.0,Month
-9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,June,4.0,Month
+9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,June,4.0,Month
+9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,June,4.0,Month
+9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,June,4.0,Month
+9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,June,4.0,Month
 9778618794269_ירוק ריינג'ר,9778618794269,ירוק ריינג'ר,מתלה-כפפות-טקטי,מתלה כפפות טקטי ,False,False,June,0.0,Month
 9778618794269_שחור,9778618794269,שחור,מתלה-כפפות-טקטי,מתלה כפפות טקטי ,False,False,June,0.0,Month
 9794227274013_ירוק ריינג'ר / אקסטרה לארג',9794227274013,ירוק ריינג'ר / אקסטרה לארג',magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,June,1.0,Month
