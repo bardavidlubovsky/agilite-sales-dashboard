@@ -70,7 +70,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018935283997_מולטיקם,8018935283997,מולטיקם,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,False,Tuesday,0.0,Weekday
 8018935283997_מולטיקם,8018935283997,מולטיקם,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,False,Wednesday,0.0,Weekday
 8018935283997_שחור,8018935283997,שחור,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Friday,0.0,Weekday
-8018935283997_שחור,8018935283997,שחור,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Monday,0.0,Weekday
+8018935283997_שחור,8018935283997,שחור,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Monday,1.0,Weekday
 8018935283997_שחור,8018935283997,שחור,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Saturday,0.0,Weekday
 8018935283997_שחור,8018935283997,שחור,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Sunday,7.0,Weekday
 8018935283997_שחור,8018935283997,שחור,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Thursday,7.0,Weekday
@@ -651,7 +651,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018940756253_L / הסוואה,8018940756253,L / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Tuesday,0.0,Weekday
 8018940756253_L / הסוואה,8018940756253,L / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Wednesday,1.0,Weekday
 8018940756253_L / שחור,8018940756253,L / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Friday,0.0,Weekday
-8018940756253_L / שחור,8018940756253,L / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Monday,0.0,Weekday
+8018940756253_L / שחור,8018940756253,L / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Monday,1.0,Weekday
 8018940756253_L / שחור,8018940756253,L / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Saturday,2.0,Weekday
 8018940756253_L / שחור,8018940756253,L / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Sunday,0.0,Weekday
 8018940756253_L / שחור,8018940756253,L / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Thursday,1.0,Weekday
@@ -980,7 +980,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018942034205_שחור,8018942034205,שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,Tuesday,0.0,Weekday
 8018942034205_שחור,8018942034205,שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,Wednesday,0.0,Weekday
 8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,Friday,2.0,Weekday
-8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,Monday,11.0,Weekday
+8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,Monday,12.0,Weekday
 8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,Saturday,1.0,Weekday
 8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,Sunday,3.0,Weekday
 8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,Thursday,3.0,Weekday
@@ -1092,7 +1092,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8091315699997_ירוק ריינג'ר / L,8091315699997,ירוק ריינג'ר / L,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,Tuesday,0.0,Weekday
 8091315699997_ירוק ריינג'ר / L,8091315699997,ירוק ריינג'ר / L,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,Wednesday,0.0,Weekday
 8091315699997_ירוק ריינג'ר / M,8091315699997,ירוק ריינג'ר / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,Friday,2.0,Weekday
-8091315699997_ירוק ריינג'ר / M,8091315699997,ירוק ריינג'ר / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,Monday,1.0,Weekday
+8091315699997_ירוק ריינג'ר / M,8091315699997,ירוק ריינג'ר / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,Monday,2.0,Weekday
 8091315699997_ירוק ריינג'ר / M,8091315699997,ירוק ריינג'ר / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,Saturday,0.0,Weekday
 8091315699997_ירוק ריינג'ר / M,8091315699997,ירוק ריינג'ר / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,Sunday,1.0,Weekday
 8091315699997_ירוק ריינג'ר / M,8091315699997,ירוק ריינג'ר / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,Thursday,4.0,Weekday
@@ -1351,7 +1351,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8388329505053_מולטיקם,8388329505053,מולטיקם,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,False,Tuesday,0.0,Weekday
 8388329505053_מולטיקם,8388329505053,מולטיקם,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,False,Wednesday,0.0,Weekday
 8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,Friday,1.0,Weekday
-8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,Monday,0.0,Weekday
+8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,Monday,1.0,Weekday
 8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,Saturday,0.0,Weekday
 8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,Sunday,2.0,Weekday
 8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,Thursday,1.0,Weekday
@@ -1645,7 +1645,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9306896826653_מולטיקם,9306896826653,מולטיקם,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,False,Tuesday,0.0,Weekday
 9306896826653_מולטיקם,9306896826653,מולטיקם,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,False,Wednesday,0.0,Weekday
 9306896826653_שחור,9306896826653,שחור,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,Friday,0.0,Weekday
-9306896826653_שחור,9306896826653,שחור,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,Monday,0.0,Weekday
+9306896826653_שחור,9306896826653,שחור,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,Monday,1.0,Weekday
 9306896826653_שחור,9306896826653,שחור,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,Saturday,0.0,Weekday
 9306896826653_שחור,9306896826653,שחור,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,Sunday,2.0,Weekday
 9306896826653_שחור,9306896826653,שחור,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,Thursday,2.0,Weekday
@@ -2888,7 +2888,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018935152925_שחור,8018935152925,שחור,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,True,True,June,0.0,Month
 8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,June,5.0,Month
 8018935283997_מולטיקם,8018935283997,מולטיקם,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,False,June,0.0,Month
-8018935283997_שחור,8018935283997,שחור,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,June,18.0,Month
+8018935283997_שחור,8018935283997,שחור,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,June,19.0,Month
 8018935382301_חום,8018935382301,חום,fanny-pack-conversion-strap,Six Pack™ - 'רצועת המרה לפאוץ,False,False,June,0.0,Month
 8018935382301_ירוק זית,8018935382301,ירוק זית,fanny-pack-conversion-strap,Six Pack™ - 'רצועת המרה לפאוץ,False,False,June,0.0,Month
 8018935382301_שחור,8018935382301,שחור,fanny-pack-conversion-strap,Six Pack™ - 'רצועת המרה לפאוץ,False,False,June,0.0,Month
@@ -2971,7 +2971,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018940559645_ירוק זית,8018940559645,ירוק זית,rear-pouch,פאוץ' אחורי לכיסוי קסדה,True,True,June,15.0,Month
 8018940559645_שחור,8018940559645,שחור,rear-pouch,פאוץ' אחורי לכיסוי קסדה,True,True,June,1.0,Month
 8018940756253_L / הסוואה,8018940756253,L / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,10.0,Month
-8018940756253_L / שחור,8018940756253,L / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,4.0,Month
+8018940756253_L / שחור,8018940756253,L / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,5.0,Month
 8018940756253_M / הסוואה,8018940756253,M / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,4.0,Month
 8018940756253_M / שחור,8018940756253,M / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,2.0,Month
 8018940756253_S / הסוואה,8018940756253,S / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,1.0,Month
@@ -3018,7 +3018,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018942034205_מולטיקם,8018942034205,מולטיקם,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,False,June,0.0,Month
 8018942034205_מולטיקם שחור,8018942034205,מולטיקם שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,False,June,0.0,Month
 8018942034205_שחור,8018942034205,שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,June,0.0,Month
-8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,June,26.0,Month
+8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,June,27.0,Month
 8031638552861_מולטיקם,8031638552861,מולטיקם,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,False,June,0.0,Month
 8031638552861_שחור,8031638552861,שחור,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,False,June,0.0,Month
 8046642757917_Default Title,8046642757917,Default Title,t-e-testing-team-4-patch2rfwefwefqewrfgruuuj76hg,T&E Testing Team פאץ' ,False,False,June,0.0,Month
@@ -3034,7 +3034,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8091315699997_חום / M,8091315699997,חום / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,False,June,0.0,Month
 8091315699997_חום / XL,8091315699997,חום / XL,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,False,June,0.0,Month
 8091315699997_ירוק ריינג'ר / L,8091315699997,ירוק ריינג'ר / L,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,June,3.0,Month
-8091315699997_ירוק ריינג'ר / M,8091315699997,ירוק ריינג'ר / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,June,11.0,Month
+8091315699997_ירוק ריינג'ר / M,8091315699997,ירוק ריינג'ר / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,June,12.0,Month
 8091315699997_ירוק ריינג'ר / XL,8091315699997,ירוק ריינג'ר / XL,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,False,June,0.0,Month
 8091315699997_מולטיקם / L,8091315699997,מולטיקם / L,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,False,June,0.0,Month
 8091315699997_מולטיקם / M,8091315699997,מולטיקם / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,False,June,0.0,Month
@@ -3071,7 +3071,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8364665078045_מולטיקם,8364665078045,מולטיקם,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,True,False,June,0.0,Month
 8388329505053_ירוק ריינג'ר,8388329505053,ירוק ריינג'ר,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,June,7.0,Month
 8388329505053_מולטיקם,8388329505053,מולטיקם,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,False,June,0.0,Month
-8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,June,6.0,Month
+8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,June,7.0,Month
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,June,30.0,Month
 8402082988317_מולטיקם,8402082988317,מולטיקם,general-purpose-pouch,פאוץ' כללי מודולרי,True,False,June,0.0,Month
 8402082988317_שחור,8402082988317,שחור,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,June,2.0,Month
@@ -3113,7 +3113,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9275738718493_מדיום,9275738718493,מדיום,k-zero-bundle,חבילת קרמון  ™K-Zero מזווד ,True,True,June,20.0,Month
 9306896826653_ירוק ריינג'ר,9306896826653,ירוק ריינג'ר,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,June,23.0,Month
 9306896826653_מולטיקם,9306896826653,מולטיקם,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,False,June,0.0,Month
-9306896826653_שחור,9306896826653,שחור,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,June,4.0,Month
+9306896826653_שחור,9306896826653,שחור,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,June,5.0,Month
 9306905805085_Default Title,9306905805085,Default Title,md2-compact-trauma-kit-contents,"ציוד רפואי לער""ד",False,False,June,0.0,Month
 9306910359837_חום,9306910359837,חום,molle-hanger,מתלה MOLLE ,True,False,June,0.0,Month
 9306910359837_ירוק ריינג'ר,9306910359837,ירוק ריינג'ר,molle-hanger,מתלה MOLLE ,True,True,June,4.0,Month
