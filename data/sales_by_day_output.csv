@@ -1022,7 +1022,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8080332456221_חום / (SAPI Large)- גדול  ,8080332456221,חום / (SAPI Large)- גדול  ,k-zero-plate-carrier,K-Zero™-  קרמון מיוחדות,True,False,Tuesday,0.0,Weekday
 8080332456221_חום / (SAPI Large)- גדול  ,8080332456221,חום / (SAPI Large)- גדול  ,k-zero-plate-carrier,K-Zero™-  קרמון מיוחדות,True,False,Wednesday,0.0,Weekday
 8080332456221_ירוק ריינג'ר / (10x12 or SAPI Medium) - מדיום ,8080332456221,ירוק ריינג'ר / (10x12 or SAPI Medium) - מדיום ,k-zero-plate-carrier,K-Zero™-  קרמון מיוחדות,True,True,Friday,2.0,Weekday
-8080332456221_ירוק ריינג'ר / (10x12 or SAPI Medium) - מדיום ,8080332456221,ירוק ריינג'ר / (10x12 or SAPI Medium) - מדיום ,k-zero-plate-carrier,K-Zero™-  קרמון מיוחדות,True,True,Monday,3.0,Weekday
+8080332456221_ירוק ריינג'ר / (10x12 or SAPI Medium) - מדיום ,8080332456221,ירוק ריינג'ר / (10x12 or SAPI Medium) - מדיום ,k-zero-plate-carrier,K-Zero™-  קרמון מיוחדות,True,True,Monday,4.0,Weekday
 8080332456221_ירוק ריינג'ר / (10x12 or SAPI Medium) - מדיום ,8080332456221,ירוק ריינג'ר / (10x12 or SAPI Medium) - מדיום ,k-zero-plate-carrier,K-Zero™-  קרמון מיוחדות,True,True,Saturday,0.0,Weekday
 8080332456221_ירוק ריינג'ר / (10x12 or SAPI Medium) - מדיום ,8080332456221,ירוק ריינג'ר / (10x12 or SAPI Medium) - מדיום ,k-zero-plate-carrier,K-Zero™-  קרמון מיוחדות,True,True,Sunday,7.0,Weekday
 8080332456221_ירוק ריינג'ר / (10x12 or SAPI Medium) - מדיום ,8080332456221,ירוק ריינג'ר / (10x12 or SAPI Medium) - מדיום ,k-zero-plate-carrier,K-Zero™-  קרמון מיוחדות,True,True,Thursday,4.0,Weekday
@@ -1624,7 +1624,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9275738718493_לארג',9275738718493,לארג',k-zero-bundle,חבילת קרמון  ™K-Zero מזווד ,True,True,Tuesday,0.0,Weekday
 9275738718493_לארג',9275738718493,לארג',k-zero-bundle,חבילת קרמון  ™K-Zero מזווד ,True,True,Wednesday,0.0,Weekday
 9275738718493_מדיום,9275738718493,מדיום,k-zero-bundle,חבילת קרמון  ™K-Zero מזווד ,True,True,Friday,2.0,Weekday
-9275738718493_מדיום,9275738718493,מדיום,k-zero-bundle,חבילת קרמון  ™K-Zero מזווד ,True,True,Monday,3.0,Weekday
+9275738718493_מדיום,9275738718493,מדיום,k-zero-bundle,חבילת קרמון  ™K-Zero מזווד ,True,True,Monday,4.0,Weekday
 9275738718493_מדיום,9275738718493,מדיום,k-zero-bundle,חבילת קרמון  ™K-Zero מזווד ,True,True,Saturday,0.0,Weekday
 9275738718493_מדיום,9275738718493,מדיום,k-zero-bundle,חבילת קרמון  ™K-Zero מזווד ,True,True,Sunday,7.0,Weekday
 9275738718493_מדיום,9275738718493,מדיום,k-zero-bundle,חבילת קרמון  ™K-Zero מזווד ,True,True,Thursday,4.0,Weekday
@@ -1926,34 +1926,34 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9748504117533_שחור,9748504117533,שחור,warfighter-wings,"כנפי הרחבה למל""מ",True,True,Thursday,0.0,Weekday
 9748504117533_שחור,9748504117533,שחור,warfighter-wings,"כנפי הרחבה למל""מ",True,True,Tuesday,0.0,Weekday
 9748504117533_שחור,9748504117533,שחור,warfighter-wings,"כנפי הרחבה למל""מ",True,True,Wednesday,1.0,Weekday
-9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Friday,0.0,Weekday
-9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Monday,2.0,Weekday
-9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Saturday,0.0,Weekday
-9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Sunday,1.0,Weekday
-9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Thursday,0.0,Weekday
-9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Tuesday,0.0,Weekday
-9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Wednesday,2.0,Weekday
-9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Friday,0.0,Weekday
-9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Monday,2.0,Weekday
-9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Saturday,0.0,Weekday
-9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Sunday,1.0,Weekday
-9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Thursday,0.0,Weekday
-9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Tuesday,0.0,Weekday
-9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Wednesday,2.0,Weekday
-9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Friday,0.0,Weekday
-9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Monday,2.0,Weekday
-9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Saturday,0.0,Weekday
-9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Sunday,1.0,Weekday
-9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Thursday,0.0,Weekday
-9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Tuesday,0.0,Weekday
-9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Wednesday,2.0,Weekday
-9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Friday,0.0,Weekday
-9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Monday,2.0,Weekday
-9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Saturday,0.0,Weekday
-9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Sunday,1.0,Weekday
-9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Thursday,0.0,Weekday
-9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Tuesday,0.0,Weekday
-9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,Wednesday,2.0,Weekday
+9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Friday,0.0,Weekday
+9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Monday,2.0,Weekday
+9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Saturday,0.0,Weekday
+9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Sunday,1.0,Weekday
+9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Thursday,0.0,Weekday
+9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Tuesday,0.0,Weekday
+9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Wednesday,2.0,Weekday
+9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Friday,0.0,Weekday
+9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Monday,2.0,Weekday
+9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Saturday,0.0,Weekday
+9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Sunday,1.0,Weekday
+9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Thursday,0.0,Weekday
+9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Tuesday,0.0,Weekday
+9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Wednesday,2.0,Weekday
+9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Friday,0.0,Weekday
+9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Monday,2.0,Weekday
+9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Saturday,0.0,Weekday
+9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Sunday,1.0,Weekday
+9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Thursday,0.0,Weekday
+9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Tuesday,0.0,Weekday
+9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Wednesday,2.0,Weekday
+9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Friday,0.0,Weekday
+9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Monday,2.0,Weekday
+9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Saturday,0.0,Weekday
+9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Sunday,1.0,Weekday
+9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Thursday,0.0,Weekday
+9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Tuesday,0.0,Weekday
+9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Wednesday,2.0,Weekday
 9778618794269_ירוק ריינג'ר,9778618794269,ירוק ריינג'ר,מתלה-כפפות-טקטי,מתלה כפפות טקטי ,False,False,Friday,0.0,Weekday
 9778618794269_ירוק ריינג'ר,9778618794269,ירוק ריינג'ר,מתלה-כפפות-טקטי,מתלה כפפות טקטי ,False,False,Monday,0.0,Weekday
 9778618794269_ירוק ריינג'ר,9778618794269,ירוק ריינג'ר,מתלה-כפפות-טקטי,מתלה כפפות טקטי ,False,False,Saturday,0.0,Weekday
@@ -2151,7 +2151,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9842366218525_מדיום / לארג',9842366218525,מדיום / לארג',k-zero™-pro-plate-carrier, חבילת קרמון K-Zero™ Pro,True,True,Tuesday,0.0,Weekday
 9842366218525_מדיום / לארג',9842366218525,מדיום / לארג',k-zero™-pro-plate-carrier, חבילת קרמון K-Zero™ Pro,True,True,Wednesday,0.0,Weekday
 9842366218525_מדיום / מדיום,9842366218525,מדיום / מדיום,k-zero™-pro-plate-carrier, חבילת קרמון K-Zero™ Pro,True,True,Friday,3.0,Weekday
-9842366218525_מדיום / מדיום,9842366218525,מדיום / מדיום,k-zero™-pro-plate-carrier, חבילת קרמון K-Zero™ Pro,True,True,Monday,3.0,Weekday
+9842366218525_מדיום / מדיום,9842366218525,מדיום / מדיום,k-zero™-pro-plate-carrier, חבילת קרמון K-Zero™ Pro,True,True,Monday,4.0,Weekday
 9842366218525_מדיום / מדיום,9842366218525,מדיום / מדיום,k-zero™-pro-plate-carrier, חבילת קרמון K-Zero™ Pro,True,True,Saturday,0.0,Weekday
 9842366218525_מדיום / מדיום,9842366218525,מדיום / מדיום,k-zero™-pro-plate-carrier, חבילת קרמון K-Zero™ Pro,True,True,Sunday,8.0,Weekday
 9842366218525_מדיום / מדיום,9842366218525,מדיום / מדיום,k-zero™-pro-plate-carrier, חבילת קרמון K-Zero™ Pro,True,True,Thursday,5.0,Weekday
@@ -2564,7 +2564,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9850248593693_ירוק ריינג'ר / לארג' / שחור,9850248593693,ירוק ריינג'ר / לארג' / שחור,k-zero-plate-carrier-hesco-3110-level-iii-side-plates,חבילת ™K-Zero קרמון + פלטות צד קרמיות רמה 3 - HESCO 3110 LVL III,True,True,Tuesday,0.0,Weekday
 9850248593693_ירוק ריינג'ר / לארג' / שחור,9850248593693,ירוק ריינג'ר / לארג' / שחור,k-zero-plate-carrier-hesco-3110-level-iii-side-plates,חבילת ™K-Zero קרמון + פלטות צד קרמיות רמה 3 - HESCO 3110 LVL III,True,True,Wednesday,0.0,Weekday
 9850248593693_ירוק ריינג'ר / מדיום / ירוק ריינג'ר,9850248593693,ירוק ריינג'ר / מדיום / ירוק ריינג'ר,k-zero-plate-carrier-hesco-3110-level-iii-side-plates,חבילת ™K-Zero קרמון + פלטות צד קרמיות רמה 3 - HESCO 3110 LVL III,True,True,Friday,2.0,Weekday
-9850248593693_ירוק ריינג'ר / מדיום / ירוק ריינג'ר,9850248593693,ירוק ריינג'ר / מדיום / ירוק ריינג'ר,k-zero-plate-carrier-hesco-3110-level-iii-side-plates,חבילת ™K-Zero קרמון + פלטות צד קרמיות רמה 3 - HESCO 3110 LVL III,True,True,Monday,3.0,Weekday
+9850248593693_ירוק ריינג'ר / מדיום / ירוק ריינג'ר,9850248593693,ירוק ריינג'ר / מדיום / ירוק ריינג'ר,k-zero-plate-carrier-hesco-3110-level-iii-side-plates,חבילת ™K-Zero קרמון + פלטות צד קרמיות רמה 3 - HESCO 3110 LVL III,True,True,Monday,4.0,Weekday
 9850248593693_ירוק ריינג'ר / מדיום / ירוק ריינג'ר,9850248593693,ירוק ריינג'ר / מדיום / ירוק ריינג'ר,k-zero-plate-carrier-hesco-3110-level-iii-side-plates,חבילת ™K-Zero קרמון + פלטות צד קרמיות רמה 3 - HESCO 3110 LVL III,True,True,Saturday,0.0,Weekday
 9850248593693_ירוק ריינג'ר / מדיום / ירוק ריינג'ר,9850248593693,ירוק ריינג'ר / מדיום / ירוק ריינג'ר,k-zero-plate-carrier-hesco-3110-level-iii-side-plates,חבילת ™K-Zero קרמון + פלטות צד קרמיות רמה 3 - HESCO 3110 LVL III,True,True,Sunday,7.0,Weekday
 9850248593693_ירוק ריינג'ר / מדיום / ירוק ריינג'ר,9850248593693,ירוק ריינג'ר / מדיום / ירוק ריינג'ר,k-zero-plate-carrier-hesco-3110-level-iii-side-plates,חבילת ™K-Zero קרמון + פלטות צד קרמיות רמה 3 - HESCO 3110 LVL III,True,True,Thursday,4.0,Weekday
@@ -3024,7 +3024,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8046642757917_Default Title,8046642757917,Default Title,t-e-testing-team-4-patch2rfwefwefqewrfgruuuj76hg,T&E Testing Team פאץ' ,False,False,June,0.0,Month
 8080332456221_חום / (10x12 or SAPI Medium) - מדיום ,8080332456221,חום / (10x12 or SAPI Medium) - מדיום ,k-zero-plate-carrier,K-Zero™-  קרמון מיוחדות,True,False,June,0.0,Month
 8080332456221_חום / (SAPI Large)- גדול  ,8080332456221,חום / (SAPI Large)- גדול  ,k-zero-plate-carrier,K-Zero™-  קרמון מיוחדות,True,False,June,0.0,Month
-8080332456221_ירוק ריינג'ר / (10x12 or SAPI Medium) - מדיום ,8080332456221,ירוק ריינג'ר / (10x12 or SAPI Medium) - מדיום ,k-zero-plate-carrier,K-Zero™-  קרמון מיוחדות,True,True,June,19.0,Month
+8080332456221_ירוק ריינג'ר / (10x12 or SAPI Medium) - מדיום ,8080332456221,ירוק ריינג'ר / (10x12 or SAPI Medium) - מדיום ,k-zero-plate-carrier,K-Zero™-  קרמון מיוחדות,True,True,June,20.0,Month
 8080332456221_ירוק ריינג'ר / (SAPI Large)- גדול  ,8080332456221,ירוק ריינג'ר / (SAPI Large)- גדול  ,k-zero-plate-carrier,K-Zero™-  קרמון מיוחדות,True,True,June,3.0,Month
 8080332456221_מולטיקם / (10x12 or SAPI Medium) - מדיום ,8080332456221,מולטיקם / (10x12 or SAPI Medium) - מדיום ,k-zero-plate-carrier,K-Zero™-  קרמון מיוחדות,True,False,June,0.0,Month
 8080332456221_מולטיקם / (SAPI Large)- גדול  ,8080332456221,מולטיקם / (SAPI Large)- גדול  ,k-zero-plate-carrier,K-Zero™-  קרמון מיוחדות,True,False,June,0.0,Month
@@ -3110,7 +3110,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9001923838237_שחור / מדיום,9001923838237,שחור / מדיום,magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,June,0.0,Month
 9001923838237_שחור / סמול,9001923838237,שחור / סמול,magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,June,0.0,Month
 9275738718493_לארג',9275738718493,לארג',k-zero-bundle,חבילת קרמון  ™K-Zero מזווד ,True,True,June,3.0,Month
-9275738718493_מדיום,9275738718493,מדיום,k-zero-bundle,חבילת קרמון  ™K-Zero מזווד ,True,True,June,19.0,Month
+9275738718493_מדיום,9275738718493,מדיום,k-zero-bundle,חבילת קרמון  ™K-Zero מזווד ,True,True,June,20.0,Month
 9306896826653_ירוק ריינג'ר,9306896826653,ירוק ריינג'ר,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,June,23.0,Month
 9306896826653_מולטיקם,9306896826653,מולטיקם,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,False,June,0.0,Month
 9306896826653_שחור,9306896826653,שחור,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,June,4.0,Month
@@ -3155,10 +3155,10 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9744573890845_שחור / (SAPI Large)- גדול  ,9744573890845,שחור / (SAPI Large)- גדול  ,k-zero-בהנחת-טלגרם,K-Zero™-  קרמון מיוחדות,True,False,June,0.0,Month
 9748504117533_ירוק ריינג'ר,9748504117533,ירוק ריינג'ר,warfighter-wings,"כנפי הרחבה למל""מ",True,True,June,0.0,Month
 9748504117533_שחור,9748504117533,שחור,warfighter-wings,"כנפי הרחבה למל""מ",True,True,June,1.0,Month
-9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,June,5.0,Month
-9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,June,5.0,Month
-9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,June,5.0,Month
-9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,False,False,June,5.0,Month
+9775053832477_אקסטרה לארג',9775053832477,אקסטרה לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,June,5.0,Month
+9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,June,5.0,Month
+9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,June,5.0,Month
+9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,June,5.0,Month
 9778618794269_ירוק ריינג'ר,9778618794269,ירוק ריינג'ר,מתלה-כפפות-טקטי,מתלה כפפות טקטי ,False,False,June,0.0,Month
 9778618794269_שחור,9778618794269,שחור,מתלה-כפפות-טקטי,מתלה כפפות טקטי ,False,False,June,0.0,Month
 9794227274013_ירוק ריינג'ר / אקסטרה לארג',9794227274013,ירוק ריינג'ר / אקסטרה לארג',magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,June,1.0,Month
@@ -3187,7 +3187,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9842361073949_Default Title,9842361073949,Default Title,reaper-rig-warfighting-bundle-ranger-green-1,"חבילת מל""מ מאובזר + כנפי הרחבה",False,False,June,0.0,Month
 9842366218525_מדיום / אקסטרה לארג',9842366218525,מדיום / אקסטרה לארג',k-zero™-pro-plate-carrier, חבילת קרמון K-Zero™ Pro,True,False,June,0.0,Month
 9842366218525_מדיום / לארג',9842366218525,מדיום / לארג',k-zero™-pro-plate-carrier, חבילת קרמון K-Zero™ Pro,True,True,June,6.0,Month
-9842366218525_מדיום / מדיום,9842366218525,מדיום / מדיום,k-zero™-pro-plate-carrier, חבילת קרמון K-Zero™ Pro,True,True,June,22.0,Month
+9842366218525_מדיום / מדיום,9842366218525,מדיום / מדיום,k-zero™-pro-plate-carrier, חבילת קרמון K-Zero™ Pro,True,True,June,23.0,Month
 9844643004701_ירוק ריינג'ר,9844643004701,ירוק ריינג'ר,flank™-side-plate-carriers-with-blindside™-level-3st-ceramic-plates,חבילת פאוץ' Flank™ פלטות מיגון צדדיות + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,June,0.0,Month
 9844643004701_מולטיקם,9844643004701,מולטיקם,flank™-side-plate-carriers-with-blindside™-level-3st-ceramic-plates,חבילת פאוץ' Flank™ פלטות מיגון צדדיות + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,False,June,0.0,Month
 9844643004701_שחור,9844643004701,שחור,flank™-side-plate-carriers-with-blindside™-level-3st-ceramic-plates,חבילת פאוץ' Flank™ פלטות מיגון צדדיות + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,June,0.0,Month
@@ -3246,7 +3246,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9849669812509_שחור / ירוק ריינג'ר,9849669812509,שחור / ירוק ריינג'ר,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,June,16.0,Month
 9850248593693_ירוק ריינג'ר / לארג' / ירוק ריינג'ר,9850248593693,ירוק ריינג'ר / לארג' / ירוק ריינג'ר,k-zero-plate-carrier-hesco-3110-level-iii-side-plates,חבילת ™K-Zero קרמון + פלטות צד קרמיות רמה 3 - HESCO 3110 LVL III,True,True,June,3.0,Month
 9850248593693_ירוק ריינג'ר / לארג' / שחור,9850248593693,ירוק ריינג'ר / לארג' / שחור,k-zero-plate-carrier-hesco-3110-level-iii-side-plates,חבילת ™K-Zero קרמון + פלטות צד קרמיות רמה 3 - HESCO 3110 LVL III,True,True,June,0.0,Month
-9850248593693_ירוק ריינג'ר / מדיום / ירוק ריינג'ר,9850248593693,ירוק ריינג'ר / מדיום / ירוק ריינג'ר,k-zero-plate-carrier-hesco-3110-level-iii-side-plates,חבילת ™K-Zero קרמון + פלטות צד קרמיות רמה 3 - HESCO 3110 LVL III,True,True,June,19.0,Month
+9850248593693_ירוק ריינג'ר / מדיום / ירוק ריינג'ר,9850248593693,ירוק ריינג'ר / מדיום / ירוק ריינג'ר,k-zero-plate-carrier-hesco-3110-level-iii-side-plates,חבילת ™K-Zero קרמון + פלטות צד קרמיות רמה 3 - HESCO 3110 LVL III,True,True,June,20.0,Month
 9850248593693_ירוק ריינג'ר / מדיום / שחור,9850248593693,ירוק ריינג'ר / מדיום / שחור,k-zero-plate-carrier-hesco-3110-level-iii-side-plates,חבילת ™K-Zero קרמון + פלטות צד קרמיות רמה 3 - HESCO 3110 LVL III,True,True,June,0.0,Month
 9850248593693_שחור / לארג' / ירוק ריינג'ר,9850248593693,שחור / לארג' / ירוק ריינג'ר,k-zero-plate-carrier-hesco-3110-level-iii-side-plates,חבילת ™K-Zero קרמון + פלטות צד קרמיות רמה 3 - HESCO 3110 LVL III,True,False,June,0.0,Month
 9850248593693_שחור / לארג' / שחור,9850248593693,שחור / לארג' / שחור,k-zero-plate-carrier-hesco-3110-level-iii-side-plates,חבילת ™K-Zero קרמון + פלטות צד קרמיות רמה 3 - HESCO 3110 LVL III,True,False,June,0.0,Month
