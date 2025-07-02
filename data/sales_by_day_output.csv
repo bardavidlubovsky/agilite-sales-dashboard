@@ -33,7 +33,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018935054621_שחור,8018935054621,שחור,ag3-placard-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות סקוטש,True,True,Sunday,1.0,Weekday
 8018935054621_שחור,8018935054621,שחור,ag3-placard-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות סקוטש,True,True,Thursday,0.0,Weekday
 8018935054621_שחור,8018935054621,שחור,ag3-placard-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות סקוטש,True,True,Tuesday,0.0,Weekday
-8018935054621_שחור,8018935054621,שחור,ag3-placard-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות סקוטש,True,True,Wednesday,0.0,Weekday
+8018935054621_שחור,8018935054621,שחור,ag3-placard-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות סקוטש,True,True,Wednesday,1.0,Weekday
 8018935152925_חום,8018935152925,חום,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,True,False,Friday,0.0,Weekday
 8018935152925_חום,8018935152925,חום,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,True,False,Monday,0.0,Weekday
 8018935152925_חום,8018935152925,חום,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,True,False,Saturday,0.0,Weekday
@@ -691,7 +691,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018940756253_XL / הסוואה,8018940756253,XL / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Sunday,0.0,Weekday
 8018940756253_XL / הסוואה,8018940756253,XL / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Thursday,0.0,Weekday
 8018940756253_XL / הסוואה,8018940756253,XL / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Tuesday,100.0,Weekday
-8018940756253_XL / הסוואה,8018940756253,XL / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Wednesday,3.0,Weekday
+8018940756253_XL / הסוואה,8018940756253,XL / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Wednesday,4.0,Weekday
 8018940756253_XL / שחור,8018940756253,XL / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Friday,0.0,Weekday
 8018940756253_XL / שחור,8018940756253,XL / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Monday,0.0,Weekday
 8018940756253_XL / שחור,8018940756253,XL / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Saturday,0.0,Weekday
@@ -1097,7 +1097,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8091315699997_ירוק ריינג'ר / M,8091315699997,ירוק ריינג'ר / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,Sunday,1.0,Weekday
 8091315699997_ירוק ריינג'ר / M,8091315699997,ירוק ריינג'ר / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,Thursday,4.0,Weekday
 8091315699997_ירוק ריינג'ר / M,8091315699997,ירוק ריינג'ר / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,Tuesday,2.0,Weekday
-8091315699997_ירוק ריינג'ר / M,8091315699997,ירוק ריינג'ר / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,Wednesday,1.0,Weekday
+8091315699997_ירוק ריינג'ר / M,8091315699997,ירוק ריינג'ר / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,Wednesday,2.0,Weekday
 8091315699997_ירוק ריינג'ר / XL,8091315699997,ירוק ריינג'ר / XL,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,False,Friday,0.0,Weekday
 8091315699997_ירוק ריינג'ר / XL,8091315699997,ירוק ריינג'ר / XL,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,False,Monday,0.0,Weekday
 8091315699997_ירוק ריינג'ר / XL,8091315699997,ירוק ריינג'ר / XL,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,False,Saturday,0.0,Weekday
@@ -1454,7 +1454,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8686706589981_ירוק ריינג'ר,8686706589981,ירוק ריינג'ר,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,Sunday,4.0,Weekday
 8686706589981_ירוק ריינג'ר,8686706589981,ירוק ריינג'ר,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,Thursday,4.0,Weekday
 8686706589981_ירוק ריינג'ר,8686706589981,ירוק ריינג'ר,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,Tuesday,6.0,Weekday
-8686706589981_ירוק ריינג'ר,8686706589981,ירוק ריינג'ר,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,Wednesday,5.0,Weekday
+8686706589981_ירוק ריינג'ר,8686706589981,ירוק ריינג'ר,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,Wednesday,6.0,Weekday
 8686706589981_מולטיקם,8686706589981,מולטיקם,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,False,Friday,0.0,Weekday
 8686706589981_מולטיקם,8686706589981,מולטיקם,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,False,Monday,0.0,Weekday
 8686706589981_מולטיקם,8686706589981,מולטיקם,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,False,Saturday,0.0,Weekday
@@ -1475,7 +1475,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8791581917469_Default Title,8791581917469,Default Title,agilite-sapi-hydration-bladder,אג'ילייט SAPI שלוקר,True,True,Sunday,2.0,Weekday
 8791581917469_Default Title,8791581917469,Default Title,agilite-sapi-hydration-bladder,אג'ילייט SAPI שלוקר,True,True,Thursday,3.0,Weekday
 8791581917469_Default Title,8791581917469,Default Title,agilite-sapi-hydration-bladder,אג'ילייט SAPI שלוקר,True,True,Tuesday,6.0,Weekday
-8791581917469_Default Title,8791581917469,Default Title,agilite-sapi-hydration-bladder,אג'ילייט SAPI שלוקר,True,True,Wednesday,3.0,Weekday
+8791581917469_Default Title,8791581917469,Default Title,agilite-sapi-hydration-bladder,אג'ילייט SAPI שלוקר,True,True,Wednesday,4.0,Weekday
 8804518002973_אפור,8804518002973,אפור,scorpion-beanie,כובע גרב עקרב,False,False,Friday,0.0,Weekday
 8804518002973_אפור,8804518002973,אפור,scorpion-beanie,כובע גרב עקרב,False,False,Monday,0.0,Weekday
 8804518002973_אפור,8804518002973,אפור,scorpion-beanie,כובע גרב עקרב,False,False,Saturday,0.0,Weekday
@@ -1636,7 +1636,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9306896826653_ירוק ריינג'ר,9306896826653,ירוק ריינג'ר,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,Sunday,6.0,Weekday
 9306896826653_ירוק ריינג'ר,9306896826653,ירוק ריינג'ר,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,Thursday,5.0,Weekday
 9306896826653_ירוק ריינג'ר,9306896826653,ירוק ריינג'ר,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,Tuesday,3.0,Weekday
-9306896826653_ירוק ריינג'ר,9306896826653,ירוק ריינג'ר,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,Wednesday,2.0,Weekday
+9306896826653_ירוק ריינג'ר,9306896826653,ירוק ריינג'ר,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,Wednesday,3.0,Weekday
 9306896826653_מולטיקם,9306896826653,מולטיקם,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,False,Friday,0.0,Weekday
 9306896826653_מולטיקם,9306896826653,מולטיקם,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,False,Monday,0.0,Weekday
 9306896826653_מולטיקם,9306896826653,מולטיקם,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,False,Saturday,0.0,Weekday
@@ -1671,7 +1671,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9306910359837_ירוק ריינג'ר,9306910359837,ירוק ריינג'ר,molle-hanger,מתלה MOLLE ,True,True,Sunday,2.0,Weekday
 9306910359837_ירוק ריינג'ר,9306910359837,ירוק ריינג'ר,molle-hanger,מתלה MOLLE ,True,True,Thursday,0.0,Weekday
 9306910359837_ירוק ריינג'ר,9306910359837,ירוק ריינג'ר,molle-hanger,מתלה MOLLE ,True,True,Tuesday,1.0,Weekday
-9306910359837_ירוק ריינג'ר,9306910359837,ירוק ריינג'ר,molle-hanger,מתלה MOLLE ,True,True,Wednesday,1.0,Weekday
+9306910359837_ירוק ריינג'ר,9306910359837,ירוק ריינג'ר,molle-hanger,מתלה MOLLE ,True,True,Wednesday,2.0,Weekday
 9306910359837_שחור,9306910359837,שחור,molle-hanger,מתלה MOLLE ,True,True,Friday,0.0,Weekday
 9306910359837_שחור,9306910359837,שחור,molle-hanger,מתלה MOLLE ,True,True,Monday,0.0,Weekday
 9306910359837_שחור,9306910359837,שחור,molle-hanger,מתלה MOLLE ,True,True,Saturday,0.0,Weekday
@@ -1699,7 +1699,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9344894042397_Ranger Green,9344894042397,Ranger Green,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,Sunday,2.0,Weekday
 9344894042397_Ranger Green,9344894042397,Ranger Green,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,Thursday,0.0,Weekday
 9344894042397_Ranger Green,9344894042397,Ranger Green,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,Tuesday,1.0,Weekday
-9344894042397_Ranger Green,9344894042397,Ranger Green,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,Wednesday,1.0,Weekday
+9344894042397_Ranger Green,9344894042397,Ranger Green,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,Wednesday,2.0,Weekday
 9363870056733_ירוק ריינג'ר,9363870056733,ירוק ריינג'ר,פאוץ-ל-רימון,פאוץ' לרימון,True,True,Friday,1.0,Weekday
 9363870056733_ירוק ריינג'ר,9363870056733,ירוק ריינג'ר,פאוץ-ל-רימון,פאוץ' לרימון,True,True,Monday,7.0,Weekday
 9363870056733_ירוק ריינג'ר,9363870056733,ירוק ריינג'ר,פאוץ-ל-רימון,פאוץ' לרימון,True,True,Saturday,0.0,Weekday
@@ -1713,7 +1713,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9365757329693_ירוק ריינג'ר,9365757329693,ירוק ריינג'ר,radio-pouch,פאוץ' לרדיו,True,True,Sunday,3.0,Weekday
 9365757329693_ירוק ריינג'ר,9365757329693,ירוק ריינג'ר,radio-pouch,פאוץ' לרדיו,True,True,Thursday,3.0,Weekday
 9365757329693_ירוק ריינג'ר,9365757329693,ירוק ריינג'ר,radio-pouch,פאוץ' לרדיו,True,True,Tuesday,0.0,Weekday
-9365757329693_ירוק ריינג'ר,9365757329693,ירוק ריינג'ר,radio-pouch,פאוץ' לרדיו,True,True,Wednesday,1.0,Weekday
+9365757329693_ירוק ריינג'ר,9365757329693,ירוק ריינג'ר,radio-pouch,פאוץ' לרדיו,True,True,Wednesday,3.0,Weekday
 9365760147741_ירוק ריינג'ר,9365760147741,ירוק ריינג'ר,matol-pouch,פאוץ' למטול,True,True,Friday,0.0,Weekday
 9365760147741_ירוק ריינג'ר,9365760147741,ירוק ריינג'ר,matol-pouch,פאוץ' למטול,True,True,Monday,3.0,Weekday
 9365760147741_ירוק ריינג'ר,9365760147741,ירוק ריינג'ר,matol-pouch,פאוץ' למטול,True,True,Saturday,0.0,Weekday
@@ -2898,7 +2898,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018935054621_מולטיקם,8018935054621,מולטיקם,ag3-placard-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות סקוטש,True,False,June,0.0,Month
 8018935054621_מולטיקם שחור,8018935054621,מולטיקם שחור,ag3-placard-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות סקוטש,True,False,July,0.0,Month
 8018935054621_מולטיקם שחור,8018935054621,מולטיקם שחור,ag3-placard-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות סקוטש,True,False,June,0.0,Month
-8018935054621_שחור,8018935054621,שחור,ag3-placard-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות סקוטש,True,True,July,0.0,Month
+8018935054621_שחור,8018935054621,שחור,ag3-placard-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות סקוטש,True,True,July,1.0,Month
 8018935054621_שחור,8018935054621,שחור,ag3-placard-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות סקוטש,True,True,June,1.0,Month
 8018935152925_חום,8018935152925,חום,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,True,False,July,0.0,Month
 8018935152925_חום,8018935152925,חום,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,True,False,June,0.0,Month
@@ -3086,7 +3086,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018940756253_S / הסוואה,8018940756253,S / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,1.0,Month
 8018940756253_S / שחור,8018940756253,S / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,July,0.0,Month
 8018940756253_S / שחור,8018940756253,S / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,3.0,Month
-8018940756253_XL / הסוואה,8018940756253,XL / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,July,0.0,Month
+8018940756253_XL / הסוואה,8018940756253,XL / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,July,1.0,Month
 8018940756253_XL / הסוואה,8018940756253,XL / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,104.0,Month
 8018940756253_XL / שחור,8018940756253,XL / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,July,0.0,Month
 8018940756253_XL / שחור,8018940756253,XL / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,0.0,Month
@@ -3202,7 +3202,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8091315699997_חום / XL,8091315699997,חום / XL,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,False,June,0.0,Month
 8091315699997_ירוק ריינג'ר / L,8091315699997,ירוק ריינג'ר / L,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,July,0.0,Month
 8091315699997_ירוק ריינג'ר / L,8091315699997,ירוק ריינג'ר / L,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,June,3.0,Month
-8091315699997_ירוק ריינג'ר / M,8091315699997,ירוק ריינג'ר / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,July,0.0,Month
+8091315699997_ירוק ריינג'ר / M,8091315699997,ירוק ריינג'ר / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,July,1.0,Month
 8091315699997_ירוק ריינג'ר / M,8091315699997,ירוק ריינג'ר / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,June,12.0,Month
 8091315699997_ירוק ריינג'ר / XL,8091315699997,ירוק ריינג'ר / XL,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,False,July,0.0,Month
 8091315699997_ירוק ריינג'ר / XL,8091315699997,ירוק ריינג'ר / XL,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,False,June,0.0,Month
@@ -3304,13 +3304,13 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8647001571613_Default Title,8647001571613,Default Title,t-e-testing-team-2-patch,T&E Testing Team 2 Patch,False,False,June,0.0,Month
 8647001669917_Default Title,8647001669917,Default Title,t-e-testing-team-5-patch,T&E Testing Team 5 Patch,False,False,July,0.0,Month
 8647001669917_Default Title,8647001669917,Default Title,t-e-testing-team-5-patch,T&E Testing Team 5 Patch,False,False,June,0.0,Month
-8686706589981_ירוק ריינג'ר,8686706589981,ירוק ריינג'ר,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,July,4.0,Month
+8686706589981_ירוק ריינג'ר,8686706589981,ירוק ריינג'ר,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,July,5.0,Month
 8686706589981_ירוק ריינג'ר,8686706589981,ירוק ריינג'ר,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,June,19.0,Month
 8686706589981_מולטיקם,8686706589981,מולטיקם,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,False,July,0.0,Month
 8686706589981_מולטיקם,8686706589981,מולטיקם,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,False,June,0.0,Month
 8686706589981_שחור,8686706589981,שחור,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,July,0.0,Month
 8686706589981_שחור,8686706589981,שחור,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,June,1.0,Month
-8791581917469_Default Title,8791581917469,Default Title,agilite-sapi-hydration-bladder,אג'ילייט SAPI שלוקר,True,True,July,4.0,Month
+8791581917469_Default Title,8791581917469,Default Title,agilite-sapi-hydration-bladder,אג'ילייט SAPI שלוקר,True,True,July,5.0,Month
 8791581917469_Default Title,8791581917469,Default Title,agilite-sapi-hydration-bladder,אג'ילייט SAPI שלוקר,True,True,June,11.0,Month
 8804518002973_אפור,8804518002973,אפור,scorpion-beanie,כובע גרב עקרב,False,False,July,0.0,Month
 8804518002973_אפור,8804518002973,אפור,scorpion-beanie,כובע גרב עקרב,False,False,June,0.0,Month
@@ -3356,7 +3356,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9275738718493_לארג',9275738718493,לארג',k-zero-bundle,חבילת קרמון  ™K-Zero מזווד ,True,True,June,3.0,Month
 9275738718493_מדיום,9275738718493,מדיום,k-zero-bundle,חבילת קרמון  ™K-Zero מזווד ,True,True,July,3.0,Month
 9275738718493_מדיום,9275738718493,מדיום,k-zero-bundle,חבילת קרמון  ™K-Zero מזווד ,True,True,June,20.0,Month
-9306896826653_ירוק ריינג'ר,9306896826653,ירוק ריינג'ר,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,July,3.0,Month
+9306896826653_ירוק ריינג'ר,9306896826653,ירוק ריינג'ר,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,July,4.0,Month
 9306896826653_ירוק ריינג'ר,9306896826653,ירוק ריינג'ר,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,June,24.0,Month
 9306896826653_מולטיקם,9306896826653,מולטיקם,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,False,July,0.0,Month
 9306896826653_מולטיקם,9306896826653,מולטיקם,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,False,June,0.0,Month
@@ -3366,7 +3366,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9306905805085_Default Title,9306905805085,Default Title,md2-compact-trauma-kit-contents,"ציוד רפואי לער""ד",False,False,June,0.0,Month
 9306910359837_חום,9306910359837,חום,molle-hanger,מתלה MOLLE ,True,False,July,0.0,Month
 9306910359837_חום,9306910359837,חום,molle-hanger,מתלה MOLLE ,True,False,June,0.0,Month
-9306910359837_ירוק ריינג'ר,9306910359837,ירוק ריינג'ר,molle-hanger,מתלה MOLLE ,True,True,July,1.0,Month
+9306910359837_ירוק ריינג'ר,9306910359837,ירוק ריינג'ר,molle-hanger,מתלה MOLLE ,True,True,July,2.0,Month
 9306910359837_ירוק ריינג'ר,9306910359837,ירוק ריינג'ר,molle-hanger,מתלה MOLLE ,True,True,June,4.0,Month
 9306910359837_שחור,9306910359837,שחור,molle-hanger,מתלה MOLLE ,True,True,July,0.0,Month
 9306910359837_שחור,9306910359837,שחור,molle-hanger,מתלה MOLLE ,True,True,June,2.0,Month
@@ -3374,11 +3374,11 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9344894042397_Black,9344894042397,Black,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,June,2.0,Month
 9344894042397_Coyote Brown,9344894042397,Coyote Brown,discounted-molle-hanger,Discounted MOLLE Hanger,True,False,July,0.0,Month
 9344894042397_Coyote Brown,9344894042397,Coyote Brown,discounted-molle-hanger,Discounted MOLLE Hanger,True,False,June,0.0,Month
-9344894042397_Ranger Green,9344894042397,Ranger Green,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,July,1.0,Month
+9344894042397_Ranger Green,9344894042397,Ranger Green,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,July,2.0,Month
 9344894042397_Ranger Green,9344894042397,Ranger Green,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,June,4.0,Month
 9363870056733_ירוק ריינג'ר,9363870056733,ירוק ריינג'ר,פאוץ-ל-רימון,פאוץ' לרימון,True,True,July,0.0,Month
 9363870056733_ירוק ריינג'ר,9363870056733,ירוק ריינג'ר,פאוץ-ל-רימון,פאוץ' לרימון,True,True,June,16.0,Month
-9365757329693_ירוק ריינג'ר,9365757329693,ירוק ריינג'ר,radio-pouch,פאוץ' לרדיו,True,True,July,0.0,Month
+9365757329693_ירוק ריינג'ר,9365757329693,ירוק ריינג'ר,radio-pouch,פאוץ' לרדיו,True,True,July,2.0,Month
 9365757329693_ירוק ריינג'ר,9365757329693,ירוק ריינג'ר,radio-pouch,פאוץ' לרדיו,True,True,June,9.0,Month
 9365760147741_ירוק ריינג'ר,9365760147741,ירוק ריינג'ר,matol-pouch,פאוץ' למטול,True,True,July,0.0,Month
 9365760147741_ירוק ריינג'ר,9365760147741,ירוק ריינג'ר,matol-pouch,פאוץ' למטול,True,True,June,10.0,Month
