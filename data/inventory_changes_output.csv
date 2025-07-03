@@ -94,11 +94,11 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8018940756253_L / הסוואה,8018940756253,L / הסוואה,10.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,274,1690.0,46306.0,0.0
 8018940756253_L / שחור,8018940756253,L / שחור,5.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,41,845.0,6929.0,0.0
 8018940756253_M / הסוואה,8018940756253,M / הסוואה,5.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,2,845.0,338.0,0.0
-8018940756253_M / שחור,8018940756253,M / שחור,3.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,3,507.0,507.0,0.0
+8018940756253_M / שחור,8018940756253,M / שחור,4.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,2,676.0,338.0,0.0
 8018940756253_S / הסוואה,8018940756253,S / הסוואה,1.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,123,169.0,20787.0,0.0
 8018940756253_S / שחור,8018940756253,S / שחור,3.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,113,507.0,19097.0,0.0
 8018940756253_XL / הסוואה,8018940756253,XL / הסוואה,105.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,98,17745.0,16562.0,0.0
-8018940756253_XL / שחור,8018940756253,XL / שחור,0.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,232,0.0,39208.0,0.0
+8018940756253_XL / שחור,8018940756253,XL / שחור,1.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,231,169.0,39039.0,0.0
 8018940756253_XS / הסוואה,8018940756253,XS / הסוואה,1.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,49,169.0,8281.0,0.0
 8018940756253_XS / שחור,8018940756253,XS / שחור,2.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,36,338.0,6084.0,0.0
 8018940756253_XXL / הסוואה,8018940756253,XXL / הסוואה,0.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,22,0.0,3718.0,0.0
@@ -217,7 +217,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8804518134045_Navy,8804518134045,Navy,0.0,0.0,159.0,agilite-beanie,כובע גרב אג'ילייט,7,0.0,1113.0,0.0
 8878453915933_Default Title,8878453915933,Default Title,0.0,0.0,439.0,crossbow-one-black-with-smoke-gray-clear,Crossbow - משקפי מגן של ,150,0.0,65850.0,0.0
 8878512570653_Default Title,8878512570653,Default Title,0.0,0.0,1949.0,level-iii-ceramic-armor-plate,HESCO®3810 +3 פלטה קרמית רמה,0,0.0,0.0,0.0
-8950596469021_Default Title,8950596469021,Default Title,1.0,0.0,1590.0,hesco-3110-level-iii-side-plate,'+פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III+ ,412,1590.0,655080.0,0.0
+8950596469021_Default Title,8950596469021,Default Title,2.0,0.0,1590.0,hesco-3110-level-iii-side-plate,'+פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III+ ,411,3180.0,653490.0,0.0
 9001923838237_ירוק ריינג'ר / אקסטרה לארג',9001923838237,ירוק ריינג'ר / אקסטרה לארג',1.0,0.0,769.0,magnetix-battle-belt,Magnetix™ - חגורת קרב ,80,769.0,61520.0,0.0
 9001923838237_ירוק ריינג'ר / לארג',9001923838237,ירוק ריינג'ר / לארג',29.0,1.0,769.0,magnetix-battle-belt,Magnetix™ - חגורת קרב ,20,22301.0,15380.0,0.0
 9001923838237_ירוק ריינג'ר / מדיום,9001923838237,ירוק ריינג'ר / מדיום,45.0,445.0,769.0,magnetix-battle-belt,Magnetix™ - חגורת קרב ,449,34605.0,345281.0,0.0
@@ -294,7 +294,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 9794227274013_שחור / לארג',9794227274013,שחור / לארג',4.0,0.0,650.0,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,37,2600.0,24050.0,0.0
 9794227274013_שחור / מדיום,9794227274013,שחור / מדיום,1.0,47.0,650.0,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,56,650.0,36400.0,0.0
 9794227274013_שחור / סמול,9794227274013,שחור / סמול,0.0,0.0,650.0,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,36,0.0,23400.0,0.0
-9835354980637_ירוק ריינג'ר,9835354980637,ירוק ריינג'ר,171.0,0.0,287.18,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,44,49107.78,12635.92,0.0
+9835354980637_ירוק ריינג'ר,9835354980637,ירוק ריינג'ר,172.0,0.0,287.18,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,43,49394.96,12348.74,0.0
 9835354980637_מולטיקם,9835354980637,מולטיקם,0.0,0.0,309.3,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,0,0.0,0.0,0.0
 9835354980637_שחור,9835354980637,שחור,1.0,0.0,287.18,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,14,287.18,4020.52,0.0
 9842351505693_ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,9842351505693,ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,22.0,1.0,806.8,pincer-placard-loadout,חבילת פונדת מחסניות ™Pincer מזוודת,13,17749.6,10488.4,0.0
@@ -309,7 +309,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 9842366218525_מדיום / אקסטרה לארג',9842366218525,מדיום / אקסטרה לארג',0.0,0.0,1767.9,k-zero™-pro-plate-carrier, חבילת קרמון K-Zero™ Pro,-2,0.0,0.0,-3535.8
 9842366218525_מדיום / לארג',9842366218525,מדיום / לארג',8.0,0.0,1747.9,k-zero™-pro-plate-carrier, חבילת קרמון K-Zero™ Pro,133,13983.2,232470.7,0.0
 9842366218525_מדיום / מדיום,9842366218525,מדיום / מדיום,32.0,0.0,1727.9,k-zero™-pro-plate-carrier, חבילת קרמון K-Zero™ Pro,144,55292.8,248817.6,0.0
-9844643004701_ירוק ריינג'ר,9844643004701,ירוק ריינג'ר,0.0,0.0,2268.0,flank™-side-plate-carriers-with-blindside™-level-3st-ceramic-plates,חבילת פאוץ' Flank™ פלטות מיגון צדדיות + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,206,0.0,467208.0,0.0
+9844643004701_ירוק ריינג'ר,9844643004701,ירוק ריינג'ר,1.0,0.0,2268.0,flank™-side-plate-carriers-with-blindside™-level-3st-ceramic-plates,חבילת פאוץ' Flank™ פלטות מיגון צדדיות + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,205,2268.0,464940.0,0.0
 9844643004701_מולטיקם,9844643004701,מולטיקם,0.0,0.0,2268.0,flank™-side-plate-carriers-with-blindside™-level-3st-ceramic-plates,חבילת פאוץ' Flank™ פלטות מיגון צדדיות + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,0,0.0,0.0,0.0
 9844643004701_שחור,9844643004701,שחור,1.0,0.0,2268.0,flank™-side-plate-carriers-with-blindside™-level-3st-ceramic-plates,חבילת פאוץ' Flank™ פלטות מיגון צדדיות + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,1,2268.0,2268.0,0.0
 9844645921053_ירוק ריינג'ר / ירוק ריינג'ר,9844645921053,ירוק ריינג'ר / ירוק ריינג'ר,40.0,0.0,449.9,pincer™-placard-multi-caliber-2nd-layer-molle,חבילת Pincer™ פונדת מחסניות מולטי קליבר+ Pincer™ Placard שכבה שנייה של MOLLE,127,17996.0,57137.299999999996,0.0
