@@ -853,7 +853,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018941411613_חום,8018941411613,חום,k19-plate-carrier,K-19™ 3.0 קרמון ,True,False,Thursday,0.0,Weekday
 8018941411613_חום,8018941411613,חום,k19-plate-carrier,K-19™ 3.0 קרמון ,True,False,Tuesday,0.0,Weekday
 8018941411613_חום,8018941411613,חום,k19-plate-carrier,K-19™ 3.0 קרמון ,True,False,Wednesday,0.0,Weekday
-8018941411613_ירוק ריינג'ר,8018941411613,ירוק ריינג'ר,k19-plate-carrier,K-19™ 3.0 קרמון ,True,True,Friday,2.0,Weekday
+8018941411613_ירוק ריינג'ר,8018941411613,ירוק ריינג'ר,k19-plate-carrier,K-19™ 3.0 קרמון ,True,True,Friday,3.0,Weekday
 8018941411613_ירוק ריינג'ר,8018941411613,ירוק ריינג'ר,k19-plate-carrier,K-19™ 3.0 קרמון ,True,True,Monday,1.0,Weekday
 8018941411613_ירוק ריינג'ר,8018941411613,ירוק ריינג'ר,k19-plate-carrier,K-19™ 3.0 קרמון ,True,True,Saturday,1.0,Weekday
 8018941411613_ירוק ריינג'ר,8018941411613,ירוק ריינג'ר,k19-plate-carrier,K-19™ 3.0 קרמון ,True,True,Sunday,5.0,Weekday
@@ -951,7 +951,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018942034205_חום,8018942034205,חום,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,False,Thursday,0.0,Weekday
 8018942034205_חום,8018942034205,חום,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,False,Tuesday,0.0,Weekday
 8018942034205_חום,8018942034205,חום,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,False,Wednesday,0.0,Weekday
-8018942034205_ירוק ריינג'ר,8018942034205,ירוק ריינג'ר,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,Friday,1.0,Weekday
+8018942034205_ירוק ריינג'ר,8018942034205,ירוק ריינג'ר,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,Friday,2.0,Weekday
 8018942034205_ירוק ריינג'ר,8018942034205,ירוק ריינג'ר,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,Monday,1.0,Weekday
 8018942034205_ירוק ריינג'ר,8018942034205,ירוק ריינג'ר,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,Saturday,0.0,Weekday
 8018942034205_ירוק ריינג'ר,8018942034205,ירוק ריינג'ר,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,Sunday,4.0,Weekday
@@ -1147,7 +1147,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8091315699997_שחור / XL,8091315699997,שחור / XL,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,False,Thursday,0.0,Weekday
 8091315699997_שחור / XL,8091315699997,שחור / XL,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,False,Tuesday,0.0,Weekday
 8091315699997_שחור / XL,8091315699997,שחור / XL,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,False,Wednesday,0.0,Weekday
-8091315831069_ירוק ריינג'ר,8091315831069,ירוק ריינג'ר,flank-side-plate-carriers,Flank™ -  פאוץ' פלטות מיגון צדדיות,True,True,Friday,2.0,Weekday
+8091315831069_ירוק ריינג'ר,8091315831069,ירוק ריינג'ר,flank-side-plate-carriers,Flank™ -  פאוץ' פלטות מיגון צדדיות,True,True,Friday,3.0,Weekday
 8091315831069_ירוק ריינג'ר,8091315831069,ירוק ריינג'ר,flank-side-plate-carriers,Flank™ -  פאוץ' פלטות מיגון צדדיות,True,True,Monday,0.0,Weekday
 8091315831069_ירוק ריינג'ר,8091315831069,ירוק ריינג'ר,flank-side-plate-carriers,Flank™ -  פאוץ' פלטות מיגון צדדיות,True,True,Saturday,0.0,Weekday
 8091315831069_ירוק ריינג'ר,8091315831069,ירוק ריינג'ר,flank-side-plate-carriers,Flank™ -  פאוץ' פלטות מיגון צדדיות,True,True,Sunday,2.0,Weekday
@@ -1546,7 +1546,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9001923838237_ירוק ריינג'ר / לארג',9001923838237,ירוק ריינג'ר / לארג',magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,Thursday,1.0,Weekday
 9001923838237_ירוק ריינג'ר / לארג',9001923838237,ירוק ריינג'ר / לארג',magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,Tuesday,26.0,Weekday
 9001923838237_ירוק ריינג'ר / לארג',9001923838237,ירוק ריינג'ר / לארג',magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,Wednesday,0.0,Weekday
-9001923838237_ירוק ריינג'ר / מדיום,9001923838237,ירוק ריינג'ר / מדיום,magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,Friday,1.0,Weekday
+9001923838237_ירוק ריינג'ר / מדיום,9001923838237,ירוק ריינג'ר / מדיום,magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,Friday,2.0,Weekday
 9001923838237_ירוק ריינג'ר / מדיום,9001923838237,ירוק ריינג'ר / מדיום,magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,Monday,3.0,Weekday
 9001923838237_ירוק ריינג'ר / מדיום,9001923838237,ירוק ריינג'ר / מדיום,magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,Saturday,0.0,Weekday
 9001923838237_ירוק ריינג'ר / מדיום,9001923838237,ירוק ריינג'ר / מדיום,magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,Sunday,0.0,Weekday
@@ -1994,7 +1994,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9794227274013_ירוק ריינג'ר / לארג',9794227274013,ירוק ריינג'ר / לארג',magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,Thursday,1.0,Weekday
 9794227274013_ירוק ריינג'ר / לארג',9794227274013,ירוק ריינג'ר / לארג',magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,Tuesday,26.0,Weekday
 9794227274013_ירוק ריינג'ר / לארג',9794227274013,ירוק ריינג'ר / לארג',magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,Wednesday,0.0,Weekday
-9794227274013_ירוק ריינג'ר / מדיום,9794227274013,ירוק ריינג'ר / מדיום,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,Friday,1.0,Weekday
+9794227274013_ירוק ריינג'ר / מדיום,9794227274013,ירוק ריינג'ר / מדיום,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,Friday,2.0,Weekday
 9794227274013_ירוק ריינג'ר / מדיום,9794227274013,ירוק ריינג'ר / מדיום,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,Monday,3.0,Weekday
 9794227274013_ירוק ריינג'ר / מדיום,9794227274013,ירוק ריינג'ר / מדיום,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,Saturday,0.0,Weekday
 9794227274013_ירוק ריינג'ר / מדיום,9794227274013,ירוק ריינג'ר / מדיום,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,Sunday,0.0,Weekday
@@ -2064,7 +2064,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9794227274013_שחור / סמול,9794227274013,שחור / סמול,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,Thursday,0.0,Weekday
 9794227274013_שחור / סמול,9794227274013,שחור / סמול,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,Tuesday,0.0,Weekday
 9794227274013_שחור / סמול,9794227274013,שחור / סמול,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,Wednesday,0.0,Weekday
-9835354980637_ירוק ריינג'ר,9835354980637,ירוק ריינג'ר,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,Friday,1.0,Weekday
+9835354980637_ירוק ריינג'ר,9835354980637,ירוק ריינג'ר,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,Friday,2.0,Weekday
 9835354980637_ירוק ריינג'ר,9835354980637,ירוק ריינג'ר,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,Monday,2.0,Weekday
 9835354980637_ירוק ריינג'ר,9835354980637,ירוק ריינג'ר,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,Saturday,2.0,Weekday
 9835354980637_ירוק ריינג'ר,9835354980637,ירוק ריינג'ר,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,Sunday,3.0,Weekday
@@ -2540,7 +2540,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9849669812509_ירוק ריינג'ר / Black,9849669812509,ירוק ריינג'ר / Black,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,Thursday,0.0,Weekday
 9849669812509_ירוק ריינג'ר / Black,9849669812509,ירוק ריינג'ר / Black,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,Tuesday,0.0,Weekday
 9849669812509_ירוק ריינג'ר / Black,9849669812509,ירוק ריינג'ר / Black,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,Wednesday,1.0,Weekday
-9849669812509_ירוק ריינג'ר / ירוק ריינג'ר,9849669812509,ירוק ריינג'ר / ירוק ריינג'ר,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,Friday,2.0,Weekday
+9849669812509_ירוק ריינג'ר / ירוק ריינג'ר,9849669812509,ירוק ריינג'ר / ירוק ריינג'ר,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,Friday,3.0,Weekday
 9849669812509_ירוק ריינג'ר / ירוק ריינג'ר,9849669812509,ירוק ריינג'ר / ירוק ריינג'ר,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,Monday,1.0,Weekday
 9849669812509_ירוק ריינג'ר / ירוק ריינג'ר,9849669812509,ירוק ריינג'ר / ירוק ריינג'ר,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,Saturday,1.0,Weekday
 9849669812509_ירוק ריינג'ר / ירוק ריינג'ר,9849669812509,ירוק ריינג'ר / ירוק ריינג'ר,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,Sunday,5.0,Weekday
@@ -3134,7 +3134,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018941411613_אפור,8018941411613,אפור,k19-plate-carrier,K-19™ 3.0 קרמון ,True,False,June,0.0,Month
 8018941411613_חום,8018941411613,חום,k19-plate-carrier,K-19™ 3.0 קרמון ,True,False,July,0.0,Month
 8018941411613_חום,8018941411613,חום,k19-plate-carrier,K-19™ 3.0 קרמון ,True,False,June,0.0,Month
-8018941411613_ירוק ריינג'ר,8018941411613,ירוק ריינג'ר,k19-plate-carrier,K-19™ 3.0 קרמון ,True,True,July,2.0,Month
+8018941411613_ירוק ריינג'ר,8018941411613,ירוק ריינג'ר,k19-plate-carrier,K-19™ 3.0 קרמון ,True,True,July,3.0,Month
 8018941411613_ירוק ריינג'ר,8018941411613,ירוק ריינג'ר,k19-plate-carrier,K-19™ 3.0 קרמון ,True,True,June,14.0,Month
 8018941411613_מולטיקם,8018941411613,מולטיקם,k19-plate-carrier,K-19™ 3.0 קרמון ,True,False,July,0.0,Month
 8018941411613_מולטיקם,8018941411613,מולטיקם,k19-plate-carrier,K-19™ 3.0 קרמון ,True,False,June,0.0,Month
@@ -3162,7 +3162,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018942034205_אפור,8018942034205,אפור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,False,June,0.0,Month
 8018942034205_חום,8018942034205,חום,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,False,July,0.0,Month
 8018942034205_חום,8018942034205,חום,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,False,June,0.0,Month
-8018942034205_ירוק ריינג'ר,8018942034205,ירוק ריינג'ר,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,July,2.0,Month
+8018942034205_ירוק ריינג'ר,8018942034205,ירוק ריינג'ר,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,July,3.0,Month
 8018942034205_ירוק ריינג'ר,8018942034205,ירוק ריינג'ר,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,June,9.0,Month
 8018942034205_מולטיקם,8018942034205,מולטיקם,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,False,July,0.0,Month
 8018942034205_מולטיקם,8018942034205,מולטיקם,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,False,June,0.0,Month
@@ -3218,7 +3218,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8091315699997_שחור / M,8091315699997,שחור / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,June,0.0,Month
 8091315699997_שחור / XL,8091315699997,שחור / XL,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,False,July,0.0,Month
 8091315699997_שחור / XL,8091315699997,שחור / XL,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,False,June,0.0,Month
-8091315831069_ירוק ריינג'ר,8091315831069,ירוק ריינג'ר,flank-side-plate-carriers,Flank™ -  פאוץ' פלטות מיגון צדדיות,True,True,July,2.0,Month
+8091315831069_ירוק ריינג'ר,8091315831069,ירוק ריינג'ר,flank-side-plate-carriers,Flank™ -  פאוץ' פלטות מיגון צדדיות,True,True,July,3.0,Month
 8091315831069_ירוק ריינג'ר,8091315831069,ירוק ריינג'ר,flank-side-plate-carriers,Flank™ -  פאוץ' פלטות מיגון צדדיות,True,True,June,7.0,Month
 8091315831069_מולטיקם,8091315831069,מולטיקם,flank-side-plate-carriers,Flank™ -  פאוץ' פלטות מיגון צדדיות,True,False,July,0.0,Month
 8091315831069_מולטיקם,8091315831069,מולטיקם,flank-side-plate-carriers,Flank™ -  פאוץ' פלטות מיגון צדדיות,True,False,June,0.0,Month
@@ -3332,7 +3332,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9001923838237_ירוק ריינג'ר / אקסטרה לארג',9001923838237,ירוק ריינג'ר / אקסטרה לארג',magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,June,1.0,Month
 9001923838237_ירוק ריינג'ר / לארג',9001923838237,ירוק ריינג'ר / לארג',magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,July,1.0,Month
 9001923838237_ירוק ריינג'ר / לארג',9001923838237,ירוק ריינג'ר / לארג',magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,June,28.0,Month
-9001923838237_ירוק ריינג'ר / מדיום,9001923838237,ירוק ריינג'ר / מדיום,magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,July,3.0,Month
+9001923838237_ירוק ריינג'ר / מדיום,9001923838237,ירוק ריינג'ר / מדיום,magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,July,4.0,Month
 9001923838237_ירוק ריינג'ר / מדיום,9001923838237,ירוק ריינג'ר / מדיום,magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,June,39.0,Month
 9001923838237_ירוק ריינג'ר / סמול,9001923838237,ירוק ריינג'ר / סמול,magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,July,5.0,Month
 9001923838237_ירוק ריינג'ר / סמול,9001923838237,ירוק ריינג'ר / סמול,magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,June,14.0,Month
@@ -3460,7 +3460,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9794227274013_ירוק ריינג'ר / אקסטרה לארג',9794227274013,ירוק ריינג'ר / אקסטרה לארג',magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,June,1.0,Month
 9794227274013_ירוק ריינג'ר / לארג',9794227274013,ירוק ריינג'ר / לארג',magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,July,1.0,Month
 9794227274013_ירוק ריינג'ר / לארג',9794227274013,ירוק ריינג'ר / לארג',magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,June,27.0,Month
-9794227274013_ירוק ריינג'ר / מדיום,9794227274013,ירוק ריינג'ר / מדיום,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,July,3.0,Month
+9794227274013_ירוק ריינג'ר / מדיום,9794227274013,ירוק ריינג'ר / מדיום,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,July,4.0,Month
 9794227274013_ירוק ריינג'ר / מדיום,9794227274013,ירוק ריינג'ר / מדיום,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,June,39.0,Month
 9794227274013_ירוק ריינג'ר / סמול,9794227274013,ירוק ריינג'ר / סמול,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,July,5.0,Month
 9794227274013_ירוק ריינג'ר / סמול,9794227274013,ירוק ריינג'ר / סמול,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,June,14.0,Month
@@ -3480,7 +3480,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9794227274013_שחור / מדיום,9794227274013,שחור / מדיום,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,June,0.0,Month
 9794227274013_שחור / סמול,9794227274013,שחור / סמול,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,July,0.0,Month
 9794227274013_שחור / סמול,9794227274013,שחור / סמול,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,June,0.0,Month
-9835354980637_ירוק ריינג'ר,9835354980637,ירוק ריינג'ר,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,July,7.0,Month
+9835354980637_ירוק ריינג'ר,9835354980637,ירוק ריינג'ר,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,July,8.0,Month
 9835354980637_ירוק ריינג'ר,9835354980637,ירוק ריינג'ר,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,June,166.0,Month
 9835354980637_מולטיקם,9835354980637,מולטיקם,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,False,July,0.0,Month
 9835354980637_מולטיקם,9835354980637,מולטיקם,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,False,June,0.0,Month
@@ -3616,7 +3616,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9844659880221_שחור / שחור / שחור מולטיקם,9844659880221,שחור / שחור / שחור מולטיקם,reaper™-rig-micro-rig-bundle,"חבילת מל""מ מאובזר מיני",True,False,June,0.0,Month
 9849669812509_ירוק ריינג'ר / Black,9849669812509,ירוק ריינג'ר / Black,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,July,1.0,Month
 9849669812509_ירוק ריינג'ר / Black,9849669812509,ירוק ריינג'ר / Black,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,June,0.0,Month
-9849669812509_ירוק ריינג'ר / ירוק ריינג'ר,9849669812509,ירוק ריינג'ר / ירוק ריינג'ר,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,July,2.0,Month
+9849669812509_ירוק ריינג'ר / ירוק ריינג'ר,9849669812509,ירוק ריינג'ר / ירוק ריינג'ר,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,July,3.0,Month
 9849669812509_ירוק ריינג'ר / ירוק ריינג'ר,9849669812509,ירוק ריינג'ר / ירוק ריינג'ר,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,June,14.0,Month
 9849669812509_שחור / Black,9849669812509,שחור / Black,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,July,1.0,Month
 9849669812509_שחור / Black,9849669812509,שחור / Black,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,June,0.0,Month
