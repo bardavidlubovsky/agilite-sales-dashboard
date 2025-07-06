@@ -387,7 +387,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018938626333_Default Title,8018938626333,Default Title,israeli-flag-patch-od-green,פאץ' דגל ישראל,True,True,Friday,0.0,Weekday
 8018938626333_Default Title,8018938626333,Default Title,israeli-flag-patch-od-green,פאץ' דגל ישראל,True,True,Monday,0.0,Weekday
 8018938626333_Default Title,8018938626333,Default Title,israeli-flag-patch-od-green,פאץ' דגל ישראל,True,True,Saturday,0.0,Weekday
-8018938626333_Default Title,8018938626333,Default Title,israeli-flag-patch-od-green,פאץ' דגל ישראל,True,True,Sunday,0.0,Weekday
+8018938626333_Default Title,8018938626333,Default Title,israeli-flag-patch-od-green,פאץ' דגל ישראל,True,True,Sunday,1.0,Weekday
 8018938626333_Default Title,8018938626333,Default Title,israeli-flag-patch-od-green,פאץ' דגל ישראל,True,True,Thursday,0.0,Weekday
 8018938626333_Default Title,8018938626333,Default Title,israeli-flag-patch-od-green,פאץ' דגל ישראל,True,True,Tuesday,0.0,Weekday
 8018938626333_Default Title,8018938626333,Default Title,israeli-flag-patch-od-green,פאץ' דגל ישראל,True,True,Wednesday,0.0,Weekday
@@ -3000,7 +3000,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018938298653_Coyote Tan,8018938298653,Coyote Tan,agilite-logo-patches,פאצ'ים לוגו אג'ילייט,False,False,June,0.0,Month
 8018938298653_Ranger Green,8018938298653,Ranger Green,agilite-logo-patches,פאצ'ים לוגו אג'ילייט,False,False,July,0.0,Month
 8018938298653_Ranger Green,8018938298653,Ranger Green,agilite-logo-patches,פאצ'ים לוגו אג'ילייט,False,False,June,0.0,Month
-8018938626333_Default Title,8018938626333,Default Title,israeli-flag-patch-od-green,פאץ' דגל ישראל,True,True,July,0.0,Month
+8018938626333_Default Title,8018938626333,Default Title,israeli-flag-patch-od-green,פאץ' דגל ישראל,True,True,July,1.0,Month
 8018938626333_Default Title,8018938626333,Default Title,israeli-flag-patch-od-green,פאץ' דגל ישראל,True,True,June,0.0,Month
 8018938855709_חום,8018938855709,חום,k-series-hydration-attach-straps,רצועות חיבור מודולריות לשלוקר,False,False,July,0.0,Month
 8018938855709_חום,8018938855709,חום,k-series-hydration-attach-straps,רצועות חיבור מודולריות לשלוקר,False,False,June,0.0,Month
