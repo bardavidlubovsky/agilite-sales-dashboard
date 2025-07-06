@@ -99,7 +99,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8018940756253_S / שחור,8018940756253,S / שחור,3.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,113,507.0,19097.0,0.0
 8018940756253_XL / הסוואה,8018940756253,XL / הסוואה,105.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,98,17745.0,16562.0,0.0
 8018940756253_XL / שחור,8018940756253,XL / שחור,1.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,231,169.0,39039.0,0.0
-8018940756253_XS / הסוואה,8018940756253,XS / הסוואה,2.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,48,338.0,8112.0,0.0
+8018940756253_XS / הסוואה,8018940756253,XS / הסוואה,3.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,47,507.0,7943.0,0.0
 8018940756253_XS / שחור,8018940756253,XS / שחור,2.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,36,338.0,6084.0,0.0
 8018940756253_XXL / הסוואה,8018940756253,XXL / הסוואה,0.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,22,0.0,3718.0,0.0
 8018940756253_XXL / שחור,8018940756253,XXL / שחור,0.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,8,0.0,1352.0,0.0
@@ -173,7 +173,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8091315994909_מולטיקם,8091315994909,מולטיקם,0.0,0.0,139.9,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,0,0.0,0.0,0.0
 8091315994909_שחור,8091315994909,שחור,12.0,0.0,139.9,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,101,1678.8000000000002,14129.900000000001,0.0
 8192262799645_חום,8192262799645,חום,0.0,0.0,49.9,quick-release-cummerbund-buckle,2M ROC - מערכת ניתוק מהיר,0,0.0,0.0,0.0
-8192262799645_שחור,8192262799645,שחור,42.0,2.0,49.9,quick-release-cummerbund-buckle,2M ROC - מערכת ניתוק מהיר,183,2095.7999999999997,9131.699999999999,0.0
+8192262799645_שחור,8192262799645,שחור,43.0,2.0,49.9,quick-release-cummerbund-buckle,2M ROC - מערכת ניתוק מהיר,182,2145.7,9081.8,0.0
 8192287113501_Default Title,8192287113501,Default Title,0.0,0.0,0.0,t-e-k-zero-patch,T&E K-Zero Patch,0,0.0,0.0,0.0
 8192287146269_Default Title,8192287146269,Default Title,0.0,0.0,0.0,t-e-testing-team-green-patch,T&E Testing Team Green Patch,0,0.0,0.0,0.0
 8192287179037_Default Title,8192287179037,Default Title,0.0,0.0,0.0,t-e-testing-team-brown-patch,T&E Testing Team Brown Patch,0,0.0,0.0,0.0
@@ -221,7 +221,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 9001923838237_ירוק ריינג'ר / אקסטרה לארג',9001923838237,ירוק ריינג'ר / אקסטרה לארג',1.0,0.0,769.0,magnetix-battle-belt,Magnetix™ - חגורת קרב ,80,769.0,61520.0,0.0
 9001923838237_ירוק ריינג'ר / לארג',9001923838237,ירוק ריינג'ר / לארג',29.0,1.0,769.0,magnetix-battle-belt,Magnetix™ - חגורת קרב ,20,22301.0,15380.0,0.0
 9001923838237_ירוק ריינג'ר / מדיום,9001923838237,ירוק ריינג'ר / מדיום,50.0,445.0,769.0,magnetix-battle-belt,Magnetix™ - חגורת קרב ,444,38450.0,341436.0,0.0
-9001923838237_ירוק ריינג'ר / סמול,9001923838237,ירוק ריינג'ר / סמול,20.0,0.0,769.0,magnetix-battle-belt,Magnetix™ - חגורת קרב ,33,15380.0,25377.0,0.0
+9001923838237_ירוק ריינג'ר / סמול,9001923838237,ירוק ריינג'ר / סמול,21.0,0.0,769.0,magnetix-battle-belt,Magnetix™ - חגורת קרב ,32,16149.0,24608.0,0.0
 9001923838237_מולטיקם / אקסטרה לארג',9001923838237,מולטיקם / אקסטרה לארג',0.0,0.0,769.0,magnetix-battle-belt,Magnetix™ - חגורת קרב ,0,0.0,0.0,0.0
 9001923838237_מולטיקם / לארג',9001923838237,מולטיקם / לארג',0.0,0.0,769.0,magnetix-battle-belt,Magnetix™ - חגורת קרב ,0,0.0,0.0,0.0
 9001923838237_מולטיקם / מדיום,9001923838237,מולטיקם / מדיום,0.0,0.0,769.0,magnetix-battle-belt,Magnetix™ - חגורת קרב ,0,0.0,0.0,0.0
@@ -285,7 +285,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 9794227274013_ירוק ריינג'ר / אקסטרה לארג',9794227274013,ירוק ריינג'ר / אקסטרה לארג',1.0,0.0,650.0,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,80,650.0,52000.0,0.0
 9794227274013_ירוק ריינג'ר / לארג',9794227274013,ירוק ריינג'ר / לארג',28.0,0.0,650.0,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,20,18200.0,13000.0,0.0
 9794227274013_ירוק ריינג'ר / מדיום,9794227274013,ירוק ריינג'ר / מדיום,50.0,445.0,650.0,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,444,32500.0,288600.0,0.0
-9794227274013_ירוק ריינג'ר / סמול,9794227274013,ירוק ריינג'ר / סמול,20.0,0.0,650.0,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,33,13000.0,21450.0,0.0
+9794227274013_ירוק ריינג'ר / סמול,9794227274013,ירוק ריינג'ר / סמול,21.0,0.0,650.0,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,32,13650.0,20800.0,0.0
 9794227274013_מולטיקם / אקסטרה לארג',9794227274013,מולטיקם / אקסטרה לארג',0.0,0.0,650.0,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,0,0.0,0.0,0.0
 9794227274013_מולטיקם / לארג',9794227274013,מולטיקם / לארג',0.0,0.0,650.0,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,0,0.0,0.0,0.0
 9794227274013_מולטיקם / מדיום,9794227274013,מולטיקם / מדיום,0.0,0.0,650.0,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,0,0.0,0.0,0.0
