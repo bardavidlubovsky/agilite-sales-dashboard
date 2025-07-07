@@ -973,7 +973,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018942034205_מולטיקם שחור,8018942034205,מולטיקם שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,False,Tuesday,0.0,Weekday
 8018942034205_מולטיקם שחור,8018942034205,מולטיקם שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,False,Wednesday,0.0,Weekday
 8018942034205_שחור,8018942034205,שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,Friday,0.0,Weekday
-8018942034205_שחור,8018942034205,שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,Monday,0.0,Weekday
+8018942034205_שחור,8018942034205,שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,Monday,1.0,Weekday
 8018942034205_שחור,8018942034205,שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,Saturday,0.0,Weekday
 8018942034205_שחור,8018942034205,שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,Sunday,0.0,Weekday
 8018942034205_שחור,8018942034205,שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,Thursday,1.0,Weekday
@@ -3168,7 +3168,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018942034205_מולטיקם,8018942034205,מולטיקם,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,False,June,0.0,Month
 8018942034205_מולטיקם שחור,8018942034205,מולטיקם שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,False,July,0.0,Month
 8018942034205_מולטיקם שחור,8018942034205,מולטיקם שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,False,June,0.0,Month
-8018942034205_שחור,8018942034205,שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,July,1.0,Month
+8018942034205_שחור,8018942034205,שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,July,2.0,Month
 8018942034205_שחור,8018942034205,שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,June,0.0,Month
 8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,July,5.0,Month
 8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,June,28.0,Month
