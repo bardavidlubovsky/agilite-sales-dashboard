@@ -1355,7 +1355,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,Saturday,0.0,Weekday
 8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,Sunday,2.0,Weekday
 8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,Thursday,2.0,Weekday
-8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,Tuesday,1.0,Weekday
+8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,Tuesday,2.0,Weekday
 8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,Wednesday,3.0,Weekday
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Friday,5.0,Weekday
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Monday,7.0,Weekday
@@ -3277,7 +3277,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8388329505053_ירוק ריינג'ר,8388329505053,ירוק ריינג'ר,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,June,8.0,Month
 8388329505053_מולטיקם,8388329505053,מולטיקם,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,False,July,0.0,Month
 8388329505053_מולטיקם,8388329505053,מולטיקם,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,False,June,0.0,Month
-8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,July,3.0,Month
+8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,July,4.0,Month
 8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,June,7.0,Month
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,July,19.0,Month
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,June,32.0,Month
