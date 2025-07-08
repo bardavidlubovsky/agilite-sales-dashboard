@@ -217,7 +217,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8804518134045_Navy,8804518134045,Navy,0.0,0.0,159.0,agilite-beanie,כובע גרב אג'ילייט,7,0.0,1113.0,0.0
 8878453915933_Default Title,8878453915933,Default Title,0.0,0.0,439.0,crossbow-one-black-with-smoke-gray-clear,Crossbow - משקפי מגן של ,150,0.0,65850.0,0.0
 8878512570653_Default Title,8878512570653,Default Title,0.0,0.0,1949.0,level-iii-ceramic-armor-plate,HESCO®3810 +3 פלטה קרמית רמה,0,0.0,0.0,0.0
-8950596469021_Default Title,8950596469021,Default Title,9.0,0.0,1590.0,hesco-3110-level-iii-side-plate,'+פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III+ ,404,14310.0,642360.0,0.0
+8950596469021_Default Title,8950596469021,Default Title,9.0,2.0,1590.0,hesco-3110-level-iii-side-plate,'+פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III+ ,406,14310.0,645540.0,0.0
 9001923838237_ירוק ריינג'ר / אקסטרה לארג',9001923838237,ירוק ריינג'ר / אקסטרה לארג',1.0,0.0,769.0,magnetix-battle-belt,Magnetix™ - חגורת קרב ,80,769.0,61520.0,0.0
 9001923838237_ירוק ריינג'ר / לארג',9001923838237,ירוק ריינג'ר / לארג',29.0,1.0,769.0,magnetix-battle-belt,Magnetix™ - חגורת קרב ,20,22301.0,15380.0,0.0
 9001923838237_ירוק ריינג'ר / מדיום,9001923838237,ירוק ריינג'ר / מדיום,50.0,445.0,769.0,magnetix-battle-belt,Magnetix™ - חגורת קרב ,444,38450.0,341436.0,0.0
@@ -309,7 +309,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 9842366218525_מדיום / אקסטרה לארג',9842366218525,מדיום / אקסטרה לארג',0.0,0.0,1767.9,k-zero™-pro-plate-carrier, חבילת קרמון K-Zero™ Pro,-2,0.0,0.0,-3535.8
 9842366218525_מדיום / לארג',9842366218525,מדיום / לארג',11.0,0.0,1747.9,k-zero™-pro-plate-carrier, חבילת קרמון K-Zero™ Pro,130,19226.9,227227.0,0.0
 9842366218525_מדיום / מדיום,9842366218525,מדיום / מדיום,38.0,0.0,1727.9,k-zero™-pro-plate-carrier, חבילת קרמון K-Zero™ Pro,138,65660.2,238450.2,0.0
-9844643004701_ירוק ריינג'ר,9844643004701,ירוק ריינג'ר,4.0,202.0,2268.0,flank™-side-plate-carriers-with-blindside™-level-3st-ceramic-plates,חבילת פאוץ' Flank™ פלטות מיגון צדדיות + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,404,9072.0,916272.0,0.0
+9844643004701_ירוק ריינג'ר,9844643004701,ירוק ריינג'ר,4.0,204.0,2268.0,flank™-side-plate-carriers-with-blindside™-level-3st-ceramic-plates,חבילת פאוץ' Flank™ פלטות מיגון צדדיות + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,406,9072.0,920808.0,0.0
 9844643004701_מולטיקם,9844643004701,מולטיקם,0.0,0.0,2268.0,flank™-side-plate-carriers-with-blindside™-level-3st-ceramic-plates,חבילת פאוץ' Flank™ פלטות מיגון צדדיות + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,0,0.0,0.0,0.0
 9844643004701_שחור,9844643004701,שחור,1.0,0.0,2268.0,flank™-side-plate-carriers-with-blindside™-level-3st-ceramic-plates,חבילת פאוץ' Flank™ פלטות מיגון צדדיות + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,1,2268.0,2268.0,0.0
 9844645921053_ירוק ריינג'ר / ירוק ריינג'ר,9844645921053,ירוק ריינג'ר / ירוק ריינג'ר,53.0,0.0,449.9,pincer™-placard-multi-caliber-2nd-layer-molle,חבילת Pincer™ פונדת מחסניות מולטי קליבר+ Pincer™ Placard שכבה שנייה של MOLLE,114,23844.699999999997,51288.6,0.0
