@@ -2869,13 +2869,13 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9863902200093_שחור / שחור / מדיום,9863902200093,שחור / שחור / מדיום,קרמון-התערבות-™sub-zero-פאץ-כיתת-כוננות-משטרתית,קרמון התערבות ™Sub Zero + פאץ' כיתת כוננות משטרתית,True,True,Thursday,0.0,Weekday
 9863902200093_שחור / שחור / מדיום,9863902200093,שחור / שחור / מדיום,קרמון-התערבות-™sub-zero-פאץ-כיתת-כוננות-משטרתית,קרמון התערבות ™Sub Zero + פאץ' כיתת כוננות משטרתית,True,True,Tuesday,0.0,Weekday
 9863902200093_שחור / שחור / מדיום,9863902200093,שחור / שחור / מדיום,קרמון-התערבות-™sub-zero-פאץ-כיתת-כוננות-משטרתית,קרמון התערבות ™Sub Zero + פאץ' כיתת כוננות משטרתית,True,True,Wednesday,0.0,Weekday
-9875926548765_Black,9875926548765,Black,wide-admin-pouch,Wide Admin Pouch,True,True,Friday,0.0,Weekday
-9875926548765_Black,9875926548765,Black,wide-admin-pouch,Wide Admin Pouch,True,True,Monday,0.0,Weekday
-9875926548765_Black,9875926548765,Black,wide-admin-pouch,Wide Admin Pouch,True,True,Saturday,0.0,Weekday
-9875926548765_Black,9875926548765,Black,wide-admin-pouch,Wide Admin Pouch,True,True,Sunday,0.0,Weekday
-9875926548765_Black,9875926548765,Black,wide-admin-pouch,Wide Admin Pouch,True,True,Thursday,0.0,Weekday
-9875926548765_Black,9875926548765,Black,wide-admin-pouch,Wide Admin Pouch,True,True,Tuesday,0.0,Weekday
-9875926548765_Black,9875926548765,Black,wide-admin-pouch,Wide Admin Pouch,True,True,Wednesday,0.0,Weekday
+9875926548765_Black,9875926548765,Black,wide-admin-pouch,Wide Admin Pouch,True,False,Friday,0.0,Weekday
+9875926548765_Black,9875926548765,Black,wide-admin-pouch,Wide Admin Pouch,True,False,Monday,0.0,Weekday
+9875926548765_Black,9875926548765,Black,wide-admin-pouch,Wide Admin Pouch,True,False,Saturday,0.0,Weekday
+9875926548765_Black,9875926548765,Black,wide-admin-pouch,Wide Admin Pouch,True,False,Sunday,0.0,Weekday
+9875926548765_Black,9875926548765,Black,wide-admin-pouch,Wide Admin Pouch,True,False,Thursday,0.0,Weekday
+9875926548765_Black,9875926548765,Black,wide-admin-pouch,Wide Admin Pouch,True,False,Tuesday,0.0,Weekday
+9875926548765_Black,9875926548765,Black,wide-admin-pouch,Wide Admin Pouch,True,False,Wednesday,0.0,Weekday
 9875926548765_Multicam,9875926548765,Multicam,wide-admin-pouch,Wide Admin Pouch,True,False,Friday,0.0,Weekday
 9875926548765_Multicam,9875926548765,Multicam,wide-admin-pouch,Wide Admin Pouch,True,False,Monday,0.0,Weekday
 9875926548765_Multicam,9875926548765,Multicam,wide-admin-pouch,Wide Admin Pouch,True,False,Saturday,0.0,Weekday
@@ -3712,8 +3712,8 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 "9863902200093_שחור / שחור / לארג' (תואם לפלטות המשטרתיות של חברת ""שורש"")",9863902200093,"שחור / שחור / לארג' (תואם לפלטות המשטרתיות של חברת ""שורש"")",קרמון-התערבות-™sub-zero-פאץ-כיתת-כוננות-משטרתית,קרמון התערבות ™Sub Zero + פאץ' כיתת כוננות משטרתית,True,True,June,0.0,Month
 9863902200093_שחור / שחור / מדיום,9863902200093,שחור / שחור / מדיום,קרמון-התערבות-™sub-zero-פאץ-כיתת-כוננות-משטרתית,קרמון התערבות ™Sub Zero + פאץ' כיתת כוננות משטרתית,True,True,July,0.0,Month
 9863902200093_שחור / שחור / מדיום,9863902200093,שחור / שחור / מדיום,קרמון-התערבות-™sub-zero-פאץ-כיתת-כוננות-משטרתית,קרמון התערבות ™Sub Zero + פאץ' כיתת כוננות משטרתית,True,True,June,0.0,Month
-9875926548765_Black,9875926548765,Black,wide-admin-pouch,Wide Admin Pouch,True,True,July,0.0,Month
-9875926548765_Black,9875926548765,Black,wide-admin-pouch,Wide Admin Pouch,True,True,June,0.0,Month
+9875926548765_Black,9875926548765,Black,wide-admin-pouch,Wide Admin Pouch,True,False,July,0.0,Month
+9875926548765_Black,9875926548765,Black,wide-admin-pouch,Wide Admin Pouch,True,False,June,0.0,Month
 9875926548765_Multicam,9875926548765,Multicam,wide-admin-pouch,Wide Admin Pouch,True,False,July,0.0,Month
 9875926548765_Multicam,9875926548765,Multicam,wide-admin-pouch,Wide Admin Pouch,True,False,June,0.0,Month
 9875926548765_Ranger Green,9875926548765,Ranger Green,wide-admin-pouch,Wide Admin Pouch,True,True,July,0.0,Month
