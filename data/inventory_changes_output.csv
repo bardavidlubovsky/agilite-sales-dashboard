@@ -61,7 +61,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8018939773213_'אקסטרה לארג' - לארג / הסוואה,8018939773213,'אקסטרה לארג' - לארג / הסוואה,0.0,0.0,279.0,ops-core-maritime-fastsf-helmet-cover-gen4,Ops-Core® Maritime/FAST SF Super High Cut Gen4 - +כיסוי קסדה חיתוך גבוה,133,0.0,37107.0,0.0
 8018939773213_'אקסטרה לארג' - לארג / ירוק זית,8018939773213,'אקסטרה לארג' - לארג / ירוק זית,0.0,0.0,279.0,ops-core-maritime-fastsf-helmet-cover-gen4,Ops-Core® Maritime/FAST SF Super High Cut Gen4 - +כיסוי קסדה חיתוך גבוה,216,0.0,60264.0,0.0
 8018939773213_'מדיום - לארג / הסוואה,8018939773213,'מדיום - לארג / הסוואה,0.0,0.0,279.0,ops-core-maritime-fastsf-helmet-cover-gen4,Ops-Core® Maritime/FAST SF Super High Cut Gen4 - +כיסוי קסדה חיתוך גבוה,117,0.0,32643.0,0.0
-8018939773213_'מדיום - לארג / ירוק זית,8018939773213,'מדיום - לארג / ירוק זית,0.0,0.0,279.0,ops-core-maritime-fastsf-helmet-cover-gen4,Ops-Core® Maritime/FAST SF Super High Cut Gen4 - +כיסוי קסדה חיתוך גבוה,68,0.0,18972.0,0.0
+8018939773213_'מדיום - לארג / ירוק זית,8018939773213,'מדיום - לארג / ירוק זית,1.0,0.0,279.0,ops-core-maritime-fastsf-helmet-cover-gen4,Ops-Core® Maritime/FAST SF Super High Cut Gen4 - +כיסוי קסדה חיתוך גבוה,67,279.0,18693.0,0.0
 8018939773213_מדיום - סמול / הסוואה,8018939773213,מדיום - סמול / הסוואה,0.0,0.0,279.0,ops-core-maritime-fastsf-helmet-cover-gen4,Ops-Core® Maritime/FAST SF Super High Cut Gen4 - +כיסוי קסדה חיתוך גבוה,16,0.0,4464.0,0.0
 8018939773213_מדיום - סמול / ירוק זית,8018939773213,מדיום - סמול / ירוק זית,0.0,0.0,279.0,ops-core-maritime-fastsf-helmet-cover-gen4,Ops-Core® Maritime/FAST SF Super High Cut Gen4 - +כיסוי קסדה חיתוך גבוה,103,0.0,28737.0,0.0
 8018939838749_ירוק ריינג'ר / L/XL,8018939838749,ירוק ריינג'ר / L/XL,3.0,0.0,279.0,mtek-flux-cover-gen-4,MTEK® FLUX Gen4 - כיסוי קסדה,49,837.0,13671.0,0.0
@@ -89,7 +89,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8018940133661_Size 2 (L/XL) / שחור,8018940133661,Size 2 (L/XL) / שחור,0.0,0.0,279.0,team-wendy-exfil-carbon-helmet-cover,Team Wendy® EXFIL Bump LTP/Carbon - כיסוי קסדה ,-8,0.0,0.0,-2232.0
 8018940461341_מדיום / מולטיקם,8018940461341,מדיום / מולטיקם,0.0,0.0,279.0,safariland-delta-x-helmet-cover-mohawk-air,Safariland® Delta X™ Mohawk AIR - כיסוי קסדה מוהוק,0,0.0,0.0,0.0
 8018940559645_חום,8018940559645,חום,0.0,0.0,63.0,rear-pouch,פאוץ' אחורי לכיסוי קסדה,0,0.0,0.0,0.0
-8018940559645_ירוק זית,8018940559645,ירוק זית,21.0,0.0,63.0,rear-pouch,פאוץ' אחורי לכיסוי קסדה,36,1323.0,2268.0,0.0
+8018940559645_ירוק זית,8018940559645,ירוק זית,22.0,0.0,63.0,rear-pouch,פאוץ' אחורי לכיסוי קסדה,35,1386.0,2205.0,0.0
 8018940559645_שחור,8018940559645,שחור,1.0,0.0,63.0,rear-pouch,פאוץ' אחורי לכיסוי קסדה,80,63.0,5040.0,0.0
 8018940756253_L / הסוואה,8018940756253,L / הסוואה,12.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,272,2028.0,45968.0,0.0
 8018940756253_L / שחור,8018940756253,L / שחור,6.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,40,1014.0,6760.0,0.0
@@ -411,5 +411,5 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 9863902200093_שחור / שחור / מדיום,9863902200093,שחור / שחור / מדיום,0.0,0.0,783.0,קרמון-התערבות-™sub-zero-פאץ-כיתת-כוננות-משטרתית,קרמון התערבות ™Sub Zero + פאץ' כיתת כוננות משטרתית,10,0.0,7830.0,0.0
 9875926548765_Black,9875926548765,Black,0.0,1.0,287.18,wide-admin-pouch,Wide Admin Pouch,1,0.0,287.18,0.0
 9875926548765_Multicam,9875926548765,Multicam,0.0,0.0,309.3,wide-admin-pouch,Wide Admin Pouch,0,0.0,0.0,0.0
-9875926548765_Ranger Green,9875926548765,Ranger Green,0.0,498.0,287.18,wide-admin-pouch,Wide Admin Pouch,498,0.0,143015.64,0.0
+9875926548765_Ranger Green,9875926548765,Ranger Green,3.0,498.0,287.18,wide-admin-pouch,Wide Admin Pouch,495,861.54,142154.1,0.0
 9895767310621_Default Title,9895767310621,Default Title,89.0,1.0,0.0,testingteam-il,Testing Team Israel Patch,412,0.0,0.0,0.0
