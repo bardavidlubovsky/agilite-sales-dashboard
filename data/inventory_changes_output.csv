@@ -14,7 +14,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8018935382301_ירוק זית,8018935382301,ירוק זית,0.0,0.0,0.0,fanny-pack-conversion-strap,Six Pack™ - 'רצועת המרה לפאוץ,0,0.0,0.0,0.0
 8018935382301_שחור,8018935382301,שחור,0.0,0.0,0.0,fanny-pack-conversion-strap,Six Pack™ - 'רצועת המרה לפאוץ,0,0.0,0.0,0.0
 8018935546141_חום,8018935546141,חום,0.0,0.0,279.0,six-pack-hanger-pouch,Six Pack™ - פאוץ' קנגרו,0,0.0,0.0,0.0
-8018935546141_ירוק ריינג'ר,8018935546141,ירוק ריינג'ר,38.0,1.0,277.0,six-pack-hanger-pouch,Six Pack™ - פאוץ' קנגרו,161,10526.0,44597.0,0.0
+8018935546141_ירוק ריינג'ר,8018935546141,ירוק ריינג'ר,39.0,1.0,277.0,six-pack-hanger-pouch,Six Pack™ - פאוץ' קנגרו,160,10803.0,44320.0,0.0
 8018935546141_מולטיקם,8018935546141,מולטיקם,0.0,0.0,298.0,six-pack-hanger-pouch,Six Pack™ - פאוץ' קנגרו,0,0.0,0.0,0.0
 8018935546141_שחור,8018935546141,שחור,0.0,0.0,279.0,six-pack-hanger-pouch,Six Pack™ - פאוץ' קנגרו,0,0.0,0.0,0.0
 8018935546141_שחור מולטיקם,8018935546141,שחור מולטיקם,0.0,0.0,298.0,six-pack-hanger-pouch,Six Pack™ - פאוץ' קנגרו,0,0.0,0.0,0.0
@@ -100,7 +100,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8018940756253_XL / הסוואה,8018940756253,XL / הסוואה,105.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,98,17745.0,16562.0,0.0
 8018940756253_XL / שחור,8018940756253,XL / שחור,1.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,231,169.0,39039.0,0.0
 8018940756253_XS / הסוואה,8018940756253,XS / הסוואה,3.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,47,507.0,7943.0,0.0
-8018940756253_XS / שחור,8018940756253,XS / שחור,2.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,36,338.0,6084.0,0.0
+8018940756253_XS / שחור,8018940756253,XS / שחור,3.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,35,507.0,5915.0,0.0
 8018940756253_XXL / הסוואה,8018940756253,XXL / הסוואה,0.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,22,0.0,3718.0,0.0
 8018940756253_XXL / שחור,8018940756253,XXL / שחור,0.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,8,0.0,1352.0,0.0
 8018940920093_'אקסטרה לארג' - לארג / הסוואה,8018940920093,'אקסטרה לארג' - לארג / הסוואה,1.0,0.0,279.0,ops-core-fast-st-xp-helmet-cover-gen4,Ops-Core® FAST ST/XP High Cut Gen4 - כיסוי קסדה חיתוך גבוה,129,279.0,35991.0,0.0
@@ -199,7 +199,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8440988336413_אפור,8440988336413,אפור,0.0,0.0,139.9,scorpion-logo-hat,כובע לוגו עקרב,-1,0.0,0.0,-139.9
 8440988336413_ירוק זית,8440988336413,ירוק זית,0.0,0.0,139.9,scorpion-logo-hat,כובע לוגו עקרב,0,0.0,0.0,0.0
 8440988336413_שחור,8440988336413,שחור,0.0,0.0,139.9,scorpion-logo-hat,כובע לוגו עקרב,0,0.0,0.0,0.0
-8480933970205_ירוק ריינג'ר,8480933970205,ירוק ריינג'ר,5.0,0.0,170.0,agilite-molle-placard,מתאם מודולרי לחיבור סקוטש,73,850.0,12410.0,0.0
+8480933970205_ירוק ריינג'ר,8480933970205,ירוק ריינג'ר,6.0,0.0,170.0,agilite-molle-placard,מתאם מודולרי לחיבור סקוטש,72,1020.0,12240.0,0.0
 8480933970205_מולטיקם,8480933970205,מולטיקם,0.0,0.0,170.0,agilite-molle-placard,מתאם מודולרי לחיבור סקוטש,0,0.0,0.0,0.0
 8480933970205_שחור,8480933970205,שחור,0.0,0.0,170.0,agilite-molle-placard,מתאם מודולרי לחיבור סקוטש,0,0.0,0.0,0.0
 8625010934045_מולטיקם,8625010934045,מולטיקם,0.0,0.0,149.9,agilite-multicam-trucker-hat,כובע רשת עקרב,-5,0.0,0.0,-749.5
@@ -215,7 +215,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8804518002973_תכלת,8804518002973,תכלת,0.0,0.0,159.0,scorpion-beanie,כובע גרב עקרב,-4,0.0,0.0,-636.0
 8804518134045_Grey,8804518134045,Grey,0.0,0.0,159.0,agilite-beanie,כובע גרב אג'ילייט,0,0.0,0.0,0.0
 8804518134045_Navy,8804518134045,Navy,0.0,0.0,159.0,agilite-beanie,כובע גרב אג'ילייט,7,0.0,1113.0,0.0
-8878453915933_Default Title,8878453915933,Default Title,0.0,0.0,439.0,crossbow-one-black-with-smoke-gray-clear,Crossbow - משקפי מגן של ,150,0.0,65850.0,0.0
+8878453915933_Default Title,8878453915933,Default Title,1.0,0.0,439.0,crossbow-one-black-with-smoke-gray-clear,Crossbow - משקפי מגן של ,149,439.0,65411.0,0.0
 8878512570653_Default Title,8878512570653,Default Title,0.0,0.0,1949.0,level-iii-ceramic-armor-plate,HESCO®3810 +3 פלטה קרמית רמה,0,0.0,0.0,0.0
 8950596469021_Default Title,8950596469021,Default Title,9.0,2.0,1590.0,hesco-3110-level-iii-side-plate,'+פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III+ ,406,14310.0,645540.0,0.0
 9001923838237_ירוק ריינג'ר / אקסטרה לארג',9001923838237,ירוק ריינג'ר / אקסטרה לארג',1.0,0.0,769.0,magnetix-battle-belt,Magnetix™ - חגורת קרב ,80,769.0,61520.0,0.0
