@@ -1,6 +1,6 @@
 Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Price,Product_Handle,Product_Title_HE,Variant_Qty,Revenue,Inventory_Value,Refund_Liability
 8018935054621_חום,8018935054621,חום,0.0,0.0,239.0,ag3-placard-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות סקוטש,0,0.0,0.0,0.0
-8018935054621_ירוק ריינג'ר,8018935054621,ירוק ריינג'ר,11.0,1.0,259.0,ag3-placard-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות סקוטש,100,2849.0,25900.0,0.0
+8018935054621_ירוק ריינג'ר,8018935054621,ירוק ריינג'ר,12.0,1.0,259.0,ag3-placard-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות סקוטש,99,3108.0,25641.0,0.0
 8018935054621_מולטיקם,8018935054621,מולטיקם,0.0,0.0,259.0,ag3-placard-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות סקוטש,0,0.0,0.0,0.0
 8018935054621_מולטיקם שחור,8018935054621,מולטיקם שחור,0.0,0.0,259.0,ag3-placard-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות סקוטש,0,0.0,0.0,0.0
 8018935054621_שחור,8018935054621,שחור,3.0,0.0,259.0,ag3-placard-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות סקוטש,305,777.0,78995.0,0.0
@@ -411,5 +411,5 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 9863902200093_שחור / שחור / מדיום,9863902200093,שחור / שחור / מדיום,0.0,0.0,783.0,קרמון-התערבות-™sub-zero-פאץ-כיתת-כוננות-משטרתית,קרמון התערבות ™Sub Zero + פאץ' כיתת כוננות משטרתית,10,0.0,7830.0,0.0
 9875926548765_Black,9875926548765,Black,1.0,1.0,287.18,wide-admin-pouch,Wide Admin Pouch,0,287.18,0.0,0.0
 9875926548765_Multicam,9875926548765,Multicam,0.0,0.0,309.3,wide-admin-pouch,Wide Admin Pouch,0,0.0,0.0,0.0
-9875926548765_Ranger Green,9875926548765,Ranger Green,4.0,499.0,287.18,wide-admin-pouch,Wide Admin Pouch,495,1148.72,142154.1,0.0
+9875926548765_Ranger Green,9875926548765,Ranger Green,6.0,499.0,287.18,wide-admin-pouch,Wide Admin Pouch,493,1723.08,141579.74,0.0
 9895767310621_Default Title,9895767310621,Default Title,90.0,1.0,0.0,testingteam-il,Testing Team Israel Patch,411,0.0,0.0,0.0
