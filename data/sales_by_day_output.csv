@@ -353,7 +353,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018937872669_שחור,8018937872669,שחור,sf-balaclava-black,מסכת פנים,True,True,Monday,2.0,Weekday
 8018937872669_שחור,8018937872669,שחור,sf-balaclava-black,מסכת פנים,True,True,Saturday,0.0,Weekday
 8018937872669_שחור,8018937872669,שחור,sf-balaclava-black,מסכת פנים,True,True,Sunday,8.0,Weekday
-8018937872669_שחור,8018937872669,שחור,sf-balaclava-black,מסכת פנים,True,True,Thursday,0.0,Weekday
+8018937872669_שחור,8018937872669,שחור,sf-balaclava-black,מסכת פנים,True,True,Thursday,1.0,Weekday
 8018937872669_שחור,8018937872669,שחור,sf-balaclava-black,מסכת פנים,True,True,Tuesday,0.0,Weekday
 8018937872669_שחור,8018937872669,שחור,sf-balaclava-black,מסכת פנים,True,True,Wednesday,0.0,Weekday
 8018937970973_Default Title,8018937970973,Default Title,mitznefet-multicam,מצנפת אג'ילייט מנומרת,True,True,Friday,0.0,Weekday
@@ -703,7 +703,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018940756253_XS / הסוואה,8018940756253,XS / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Monday,0.0,Weekday
 8018940756253_XS / הסוואה,8018940756253,XS / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Saturday,0.0,Weekday
 8018940756253_XS / הסוואה,8018940756253,XS / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Sunday,1.0,Weekday
-8018940756253_XS / הסוואה,8018940756253,XS / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Thursday,0.0,Weekday
+8018940756253_XS / הסוואה,8018940756253,XS / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Thursday,1.0,Weekday
 8018940756253_XS / הסוואה,8018940756253,XS / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Tuesday,0.0,Weekday
 8018940756253_XS / הסוואה,8018940756253,XS / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Wednesday,1.0,Weekday
 8018940756253_XS / שחור,8018940756253,XS / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,Friday,0.0,Weekday
@@ -2082,7 +2082,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9835354980637_שחור,9835354980637,שחור,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,Monday,0.0,Weekday
 9835354980637_שחור,9835354980637,שחור,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,Saturday,0.0,Weekday
 9835354980637_שחור,9835354980637,שחור,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,Sunday,1.0,Weekday
-9835354980637_שחור,9835354980637,שחור,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,Thursday,1.0,Weekday
+9835354980637_שחור,9835354980637,שחור,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,Thursday,2.0,Weekday
 9835354980637_שחור,9835354980637,שחור,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,Tuesday,0.0,Weekday
 9835354980637_שחור,9835354980637,שחור,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,Wednesday,0.0,Weekday
 9842351505693_ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,9842351505693,ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,pincer-placard-loadout,חבילת פונדת מחסניות ™Pincer מזוודת,True,True,Friday,3.0,Weekday
@@ -2890,7 +2890,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9875926548765_Ranger Green,9875926548765,Ranger Green,wide-admin-pouch,Wide Admin Pouch,True,True,Thursday,1.0,Weekday
 9875926548765_Ranger Green,9875926548765,Ranger Green,wide-admin-pouch,Wide Admin Pouch,True,True,Tuesday,0.0,Weekday
 9875926548765_Ranger Green,9875926548765,Ranger Green,wide-admin-pouch,Wide Admin Pouch,True,True,Wednesday,0.0,Weekday
-9895767310621_Default Title,9895767310621,Default Title,testingteam-il,Testing Team Israel Patch,True,True,Thursday,28.0,Weekday
+9895767310621_Default Title,9895767310621,Default Title,testingteam-il,Testing Team Israel Patch,True,True,Thursday,33.0,Weekday
 9895767310621_Default Title,9895767310621,Default Title,testingteam-il,Testing Team Israel Patch,True,True,Tuesday,0.0,Weekday
 9895767310621_Default Title,9895767310621,Default Title,testingteam-il,Testing Team Israel Patch,True,True,Wednesday,8.0,Weekday
 8018935054621_חום,8018935054621,חום,ag3-placard-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות סקוטש,True,False,July,0.0,Month
@@ -2993,7 +2993,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018937872669_חום,8018937872669,חום,sf-balaclava-black,מסכת פנים,True,False,June,0.0,Month
 8018937872669_ירוק ריינג'ר,8018937872669,ירוק ריינג'ר,sf-balaclava-black,מסכת פנים,True,True,July,6.0,Month
 8018937872669_ירוק ריינג'ר,8018937872669,ירוק ריינג'ר,sf-balaclava-black,מסכת פנים,True,True,June,10.0,Month
-8018937872669_שחור,8018937872669,שחור,sf-balaclava-black,מסכת פנים,True,True,July,6.0,Month
+8018937872669_שחור,8018937872669,שחור,sf-balaclava-black,מסכת פנים,True,True,July,7.0,Month
 8018937872669_שחור,8018937872669,שחור,sf-balaclava-black,מסכת פנים,True,True,June,4.0,Month
 8018937970973_Default Title,8018937970973,Default Title,mitznefet-multicam,מצנפת אג'ילייט מנומרת,True,True,July,0.0,Month
 8018937970973_Default Title,8018937970973,Default Title,mitznefet-multicam,מצנפת אג'ילייט מנומרת,True,True,June,1.0,Month
@@ -3093,7 +3093,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018940756253_XL / הסוואה,8018940756253,XL / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,104.0,Month
 8018940756253_XL / שחור,8018940756253,XL / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,July,1.0,Month
 8018940756253_XL / שחור,8018940756253,XL / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,0.0,Month
-8018940756253_XS / הסוואה,8018940756253,XS / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,July,2.0,Month
+8018940756253_XS / הסוואה,8018940756253,XS / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,July,3.0,Month
 8018940756253_XS / הסוואה,8018940756253,XS / הסוואה,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,1.0,Month
 8018940756253_XS / שחור,8018940756253,XS / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,July,1.0,Month
 8018940756253_XS / שחור,8018940756253,XS / שחור,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,True,True,June,2.0,Month
@@ -3487,7 +3487,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9835354980637_ירוק ריינג'ר,9835354980637,ירוק ריינג'ר,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,June,166.0,Month
 9835354980637_מולטיקם,9835354980637,מולטיקם,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,False,July,0.0,Month
 9835354980637_מולטיקם,9835354980637,מולטיקם,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,False,June,0.0,Month
-9835354980637_שחור,9835354980637,שחור,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,July,1.0,Month
+9835354980637_שחור,9835354980637,שחור,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,July,2.0,Month
 9835354980637_שחור,9835354980637,שחור,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,True,True,June,1.0,Month
 9842351505693_ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,9842351505693,ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,pincer-placard-loadout,חבילת פונדת מחסניות ™Pincer מזוודת,True,True,July,9.0,Month
 9842351505693_ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,9842351505693,ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,pincer-placard-loadout,חבילת פונדת מחסניות ™Pincer מזוודת,True,True,June,20.0,Month
@@ -3719,4 +3719,4 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9875926548765_Multicam,9875926548765,Multicam,wide-admin-pouch,Wide Admin Pouch,True,False,June,0.0,Month
 9875926548765_Ranger Green,9875926548765,Ranger Green,wide-admin-pouch,Wide Admin Pouch,True,True,July,1.0,Month
 9875926548765_Ranger Green,9875926548765,Ranger Green,wide-admin-pouch,Wide Admin Pouch,True,True,June,0.0,Month
-9895767310621_Default Title,9895767310621,Default Title,testingteam-il,Testing Team Israel Patch,True,True,July,36.0,Month
+9895767310621_Default Title,9895767310621,Default Title,testingteam-il,Testing Team Israel Patch,True,True,July,41.0,Month
