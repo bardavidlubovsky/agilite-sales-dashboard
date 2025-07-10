@@ -173,7 +173,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8091315994909_מולטיקם,8091315994909,מולטיקם,0.0,0.0,139.9,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,0,0.0,0.0,0.0
 8091315994909_שחור,8091315994909,שחור,14.0,0.0,139.9,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,99,1958.6000000000001,13850.1,0.0
 8192262799645_חום,8192262799645,חום,0.0,0.0,49.9,quick-release-cummerbund-buckle,2M ROC - מערכת ניתוק מהיר,0,0.0,0.0,0.0
-8192262799645_שחור,8192262799645,שחור,50.0,2.0,49.9,quick-release-cummerbund-buckle,2M ROC - מערכת ניתוק מהיר,175,2495.0,8732.5,0.0
+8192262799645_שחור,8192262799645,שחור,51.0,2.0,49.9,quick-release-cummerbund-buckle,2M ROC - מערכת ניתוק מהיר,174,2544.9,8682.6,0.0
 8192287113501_Default Title,8192287113501,Default Title,0.0,0.0,0.0,t-e-k-zero-patch,T&E K-Zero Patch,0,0.0,0.0,0.0
 8192287146269_Default Title,8192287146269,Default Title,0.0,0.0,0.0,t-e-testing-team-green-patch,T&E Testing Team Green Patch,0,0.0,0.0,0.0
 8192287179037_Default Title,8192287179037,Default Title,0.0,0.0,0.0,t-e-testing-team-brown-patch,T&E Testing Team Brown Patch,0,0.0,0.0,0.0
@@ -188,7 +188,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8352375636253_Default Title,8352375636253,Default Title,0.0,0.0,0.0,t-e-testing-team-11-patch,T&E Testing Team 11 Patch,0,0.0,0.0,0.0
 8364665078045_חום,8364665078045,חום,0.0,0.0,149.0,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,0,0.0,0.0,0.0
 8364665078045_ירוק,8364665078045,ירוק,0.0,0.0,149.0,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,0,0.0,0.0,0.0
-8364665078045_ירוק ריינג'ר,8364665078045,ירוק ריינג'ר,10.0,2.0,149.0,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,106,1490.0,15794.0,0.0
+8364665078045_ירוק ריינג'ר,8364665078045,ירוק ריינג'ר,11.0,2.0,149.0,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,105,1639.0,15645.0,0.0
 8364665078045_מולטיקם,8364665078045,מולטיקם,0.0,0.0,149.0,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,0,0.0,0.0,0.0
 8388329505053_ירוק ריינג'ר,8388329505053,ירוק ריינג'ר,15.0,0.0,209.0,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,45,3135.0,9405.0,0.0
 8388329505053_מולטיקם,8388329505053,מולטיקם,0.0,0.0,209.0,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,0,0.0,0.0,0.0
@@ -243,7 +243,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 9344894042397_Coyote Brown,9344894042397,Coyote Brown,0.0,0.0,84.9,discounted-molle-hanger,Discounted MOLLE Hanger,0,0.0,0.0,0.0
 9344894042397_Ranger Green,9344894042397,Ranger Green,11.0,0.0,84.9,discounted-molle-hanger,Discounted MOLLE Hanger,156,933.9000000000001,13244.400000000001,0.0
 9363870056733_ירוק ריינג'ר,9363870056733,ירוק ריינג'ר,19.0,0.0,89.0,פאוץ-ל-רימון,פאוץ' לרימון,21,1691.0,1869.0,0.0
-9365757329693_ירוק ריינג'ר,9365757329693,ירוק ריינג'ר,15.0,0.0,229.0,radio-pouch,פאוץ' לרדיו,210,3435.0,48090.0,0.0
+9365757329693_ירוק ריינג'ר,9365757329693,ירוק ריינג'ר,16.0,0.0,229.0,radio-pouch,פאוץ' לרדיו,209,3664.0,47861.0,0.0
 9365760147741_ירוק ריינג'ר,9365760147741,ירוק ריינג'ר,13.0,300.0,99.9,matol-pouch,פאוץ' למטול,299,1298.7,29870.100000000002,0.0
 9365834268957_ירוק ריינג'ר / אקסטרה לארג',9365834268957,ירוק ריינג'ר / אקסטרה לארג',0.0,0.0,217.18,magnetix-edc-battle-belt,חגורת Magnetix™לנשיאה יומיומית,0,0.0,0.0,0.0
 9365834268957_ירוק ריינג'ר / לארג',9365834268957,ירוק ריינג'ר / לארג',0.0,0.0,217.18,magnetix-edc-battle-belt,חגורת Magnetix™לנשיאה יומיומית,0,0.0,0.0,0.0
@@ -412,4 +412,4 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 9875926548765_Black,9875926548765,Black,1.0,1.0,287.18,wide-admin-pouch,Wide Admin Pouch,0,287.18,0.0,0.0
 9875926548765_Multicam,9875926548765,Multicam,0.0,0.0,309.3,wide-admin-pouch,Wide Admin Pouch,0,0.0,0.0,0.0
 9875926548765_Ranger Green,9875926548765,Ranger Green,6.0,499.0,287.18,wide-admin-pouch,Wide Admin Pouch,493,1723.08,141579.74,0.0
-9895767310621_Default Title,9895767310621,Default Title,126.0,1.0,0.0,testingteam-il,Testing Team Israel Patch,375,0.0,0.0,0.0
+9895767310621_Default Title,9895767310621,Default Title,133.0,1.0,0.0,testingteam-il,Testing Team Israel Patch,368,0.0,0.0,0.0
