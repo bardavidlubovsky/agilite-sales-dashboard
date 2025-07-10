@@ -49,7 +49,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8018937610525_Ranger Green,8018937610525,Ranger Green,6.0,0.0,139.9,hook-backed-edc-organizer-panel-up,פאנל ארגון טקטי ,121,839.4000000000001,16927.9,0.0
 8018937872669_חום,8018937872669,חום,0.0,0.0,149.0,sf-balaclava-black,מסכת פנים,0,0.0,0.0,0.0
 8018937872669_ירוק ריינג'ר,8018937872669,ירוק ריינג'ר,16.0,0.0,149.0,sf-balaclava-black,מסכת פנים,94,2384.0,14006.0,0.0
-8018937872669_שחור,8018937872669,שחור,10.0,0.0,149.0,sf-balaclava-black,מסכת פנים,481,1490.0,71669.0,0.0
+8018937872669_שחור,8018937872669,שחור,11.0,0.0,149.0,sf-balaclava-black,מסכת פנים,480,1639.0,71520.0,0.0
 8018937970973_Default Title,8018937970973,Default Title,1.0,0.0,209.0,mitznefet-multicam,מצנפת אג'ילייט מנומרת,243,209.0,50787.0,0.0
 8018938298653_Black,8018938298653,Black,0.0,0.0,23.9,agilite-logo-patches,פאצ'ים לוגו אג'ילייט,0,0.0,0.0,0.0
 8018938298653_Coyote Tan,8018938298653,Coyote Tan,0.0,0.0,23.9,agilite-logo-patches,פאצ'ים לוגו אג'ילייט,-2,0.0,0.0,-47.8
@@ -99,7 +99,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8018940756253_S / שחור,8018940756253,S / שחור,5.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,111,845.0,18759.0,0.0
 8018940756253_XL / הסוואה,8018940756253,XL / הסוואה,105.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,98,17745.0,16562.0,0.0
 8018940756253_XL / שחור,8018940756253,XL / שחור,1.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,231,169.0,39039.0,0.0
-8018940756253_XS / הסוואה,8018940756253,XS / הסוואה,3.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,47,507.0,7943.0,0.0
+8018940756253_XS / הסוואה,8018940756253,XS / הסוואה,4.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,46,676.0,7774.0,0.0
 8018940756253_XS / שחור,8018940756253,XS / שחור,3.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,35,507.0,5915.0,0.0
 8018940756253_XXL / הסוואה,8018940756253,XXL / הסוואה,0.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,22,0.0,3718.0,0.0
 8018940756253_XXL / שחור,8018940756253,XXL / שחור,0.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,8,0.0,1352.0,0.0
@@ -296,7 +296,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 9794227274013_שחור / סמול,9794227274013,שחור / סמול,1.0,0.0,650.0,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,35,650.0,22750.0,0.0
 9835354980637_ירוק ריינג'ר,9835354980637,ירוק ריינג'ר,181.0,0.0,287.18,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,34,51979.58,9764.12,0.0
 9835354980637_מולטיקם,9835354980637,מולטיקם,0.0,0.0,309.3,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,0,0.0,0.0,0.0
-9835354980637_שחור,9835354980637,שחור,2.0,0.0,287.18,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,13,574.36,3733.34,0.0
+9835354980637_שחור,9835354980637,שחור,3.0,0.0,287.18,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,12,861.54,3446.16,0.0
 9842351505693_ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,9842351505693,ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,30.0,1.0,806.8,pincer-placard-loadout,חבילת פונדת מחסניות ™Pincer מזוודת,5,24204.0,4034.0,0.0
 9842351505693_ירוק ריינג'ר / ירוק ריינג'ר / שחור,9842351505693,ירוק ריינג'ר / ירוק ריינג'ר / שחור,30.0,1.0,806.8,pincer-placard-loadout,חבילת פונדת מחסניות ™Pincer מזוודת,5,24204.0,4034.0,0.0
 9842351505693_ירוק ריינג'ר / שחור / ירוק ריינג'ר,9842351505693,ירוק ריינג'ר / שחור / ירוק ריינג'ר,4.0,0.0,806.8,pincer-placard-loadout,חבילת פונדת מחסניות ™Pincer מזוודת,0,3227.2,0.0,0.0
@@ -412,4 +412,4 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 9875926548765_Black,9875926548765,Black,1.0,1.0,287.18,wide-admin-pouch,Wide Admin Pouch,0,287.18,0.0,0.0
 9875926548765_Multicam,9875926548765,Multicam,0.0,0.0,309.3,wide-admin-pouch,Wide Admin Pouch,0,0.0,0.0,0.0
 9875926548765_Ranger Green,9875926548765,Ranger Green,6.0,499.0,287.18,wide-admin-pouch,Wide Admin Pouch,493,1723.08,141579.74,0.0
-9895767310621_Default Title,9895767310621,Default Title,118.0,1.0,0.0,testingteam-il,Testing Team Israel Patch,383,0.0,0.0,0.0
+9895767310621_Default Title,9895767310621,Default Title,123.0,1.0,0.0,testingteam-il,Testing Team Israel Patch,378,0.0,0.0,0.0
