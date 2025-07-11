@@ -163,7 +163,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8091315699997_שחור / L,8091315699997,שחור / L,1.0,0.0,509.0,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,10,509.0,5090.0,0.0
 8091315699997_שחור / M,8091315699997,שחור / M,0.0,0.0,489.0,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,54,0.0,26406.0,0.0
 8091315699997_שחור / XL,8091315699997,שחור / XL,0.0,0.0,529.0,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,0,0.0,0.0,0.0
-8091315831069_ירוק ריינג'ר,8091315831069,ירוק ריינג'ר,14.0,0.0,319.0,flank-side-plate-carriers,Flank™ -  פאוץ' פלטות מיגון צדדיות,430,4466.0,137170.0,0.0
+8091315831069_ירוק ריינג'ר,8091315831069,ירוק ריינג'ר,15.0,0.0,319.0,flank-side-plate-carriers,Flank™ -  פאוץ' פלטות מיגון צדדיות,429,4785.0,136851.0,0.0
 8091315831069_מולטיקם,8091315831069,מולטיקם,0.0,0.0,319.0,flank-side-plate-carriers,Flank™ -  פאוץ' פלטות מיגון צדדיות,0,0.0,0.0,0.0
 8091315831069_שחור,8091315831069,שחור,1.0,0.0,319.0,flank-side-plate-carriers,Flank™ -  פאוץ' פלטות מיגון צדדיות,1,319.0,319.0,0.0
 8091315896605_ירוק ריינג'ר,8091315896605,ירוק ריינג'ר,44.0,2.0,229.0,pincer-2nd-layer-admin-pouch,  פאוץ' קדמי לפונדת סקוטש קשיחה,13,10076.0,2977.0,0.0
@@ -217,7 +217,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8804518134045_Navy,8804518134045,Navy,0.0,0.0,159.0,agilite-beanie,כובע גרב אג'ילייט,7,0.0,1113.0,0.0
 8878453915933_Default Title,8878453915933,Default Title,1.0,0.0,439.0,crossbow-one-black-with-smoke-gray-clear,Crossbow - משקפי מגן של ,149,439.0,65411.0,0.0
 8878512570653_Default Title,8878512570653,Default Title,0.0,0.0,1949.0,level-iii-ceramic-armor-plate,HESCO®3810 +3 פלטה קרמית רמה,0,0.0,0.0,0.0
-8950596469021_Default Title,8950596469021,Default Title,9.0,2.0,1590.0,hesco-3110-level-iii-side-plate,'+פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III+ ,406,14310.0,645540.0,0.0
+8950596469021_Default Title,8950596469021,Default Title,12.0,2.0,1590.0,hesco-3110-level-iii-side-plate,'+פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III+ ,403,19080.0,640770.0,0.0
 9001923838237_ירוק ריינג'ר / אקסטרה לארג',9001923838237,ירוק ריינג'ר / אקסטרה לארג',1.0,0.0,769.0,magnetix-battle-belt,Magnetix™ - חגורת קרב ,80,769.0,61520.0,0.0
 9001923838237_ירוק ריינג'ר / לארג',9001923838237,ירוק ריינג'ר / לארג',29.0,1.0,769.0,magnetix-battle-belt,Magnetix™ - חגורת קרב ,20,22301.0,15380.0,0.0
 9001923838237_ירוק ריינג'ר / מדיום,9001923838237,ירוק ריינג'ר / מדיום,50.0,445.0,769.0,magnetix-battle-belt,Magnetix™ - חגורת קרב ,444,38450.0,341436.0,0.0
@@ -309,7 +309,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 9842366218525_מדיום / אקסטרה לארג',9842366218525,מדיום / אקסטרה לארג',0.0,0.0,1767.9,k-zero™-pro-plate-carrier, חבילת קרמון K-Zero™ Pro,-2,0.0,0.0,-3535.8
 9842366218525_מדיום / לארג',9842366218525,מדיום / לארג',13.0,0.0,1747.9,k-zero™-pro-plate-carrier, חבילת קרמון K-Zero™ Pro,128,22722.7,223731.2,0.0
 9842366218525_מדיום / מדיום,9842366218525,מדיום / מדיום,44.0,0.0,1727.9,k-zero™-pro-plate-carrier, חבילת קרמון K-Zero™ Pro,132,76027.6,228082.80000000002,0.0
-9844643004701_ירוק ריינג'ר,9844643004701,ירוק ריינג'ר,4.0,204.0,2268.0,flank™-side-plate-carriers-with-blindside™-level-3st-ceramic-plates,חבילת פאוץ' Flank™ פלטות מיגון צדדיות + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,406,9072.0,920808.0,0.0
+9844643004701_ירוק ריינג'ר,9844643004701,ירוק ריינג'ר,7.0,204.0,2268.0,flank™-side-plate-carriers-with-blindside™-level-3st-ceramic-plates,חבילת פאוץ' Flank™ פלטות מיגון צדדיות + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,403,15876.0,914004.0,0.0
 9844643004701_מולטיקם,9844643004701,מולטיקם,0.0,0.0,2268.0,flank™-side-plate-carriers-with-blindside™-level-3st-ceramic-plates,חבילת פאוץ' Flank™ פלטות מיגון צדדיות + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,0,0.0,0.0,0.0
 9844643004701_שחור,9844643004701,שחור,1.0,0.0,2268.0,flank™-side-plate-carriers-with-blindside™-level-3st-ceramic-plates,חבילת פאוץ' Flank™ פלטות מיגון צדדיות + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,1,2268.0,2268.0,0.0
 9844645921053_ירוק ריינג'ר / ירוק ריינג'ר,9844645921053,ירוק ריינג'ר / ירוק ריינג'ר,60.0,0.0,449.9,pincer™-placard-multi-caliber-2nd-layer-molle,חבילת Pincer™ פונדת מחסניות מולטי קליבר+ Pincer™ Placard שכבה שנייה של MOLLE,107,26994.0,48139.299999999996,0.0
@@ -412,4 +412,4 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 9875926548765_Black,9875926548765,Black,1.0,1.0,287.18,wide-admin-pouch,Wide Admin Pouch,0,287.18,0.0,0.0
 9875926548765_Multicam,9875926548765,Multicam,0.0,0.0,309.3,wide-admin-pouch,Wide Admin Pouch,0,0.0,0.0,0.0
 9875926548765_Ranger Green,9875926548765,Ranger Green,6.0,499.0,287.18,wide-admin-pouch,Wide Admin Pouch,493,1723.08,141579.74,0.0
-9895767310621_Default Title,9895767310621,Default Title,136.0,1.0,0.0,testingteam-il,Testing Team Israel Patch,365,0.0,0.0,0.0
+9895767310621_Default Title,9895767310621,Default Title,138.0,1.0,0.0,testingteam-il,Testing Team Israel Patch,363,0.0,0.0,0.0
