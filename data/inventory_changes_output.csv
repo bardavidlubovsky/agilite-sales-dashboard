@@ -89,7 +89,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8018940133661_Size 2 (L/XL) / שחור,8018940133661,Size 2 (L/XL) / שחור,0.0,0.0,279.0,team-wendy-exfil-carbon-helmet-cover,Team Wendy® EXFIL Bump LTP/Carbon - כיסוי קסדה ,-8,0.0,0.0,-2232.0
 8018940461341_מדיום / מולטיקם,8018940461341,מדיום / מולטיקם,0.0,0.0,279.0,safariland-delta-x-helmet-cover-mohawk-air,Safariland® Delta X™ Mohawk AIR - כיסוי קסדה מוהוק,0,0.0,0.0,0.0
 8018940559645_חום,8018940559645,חום,0.0,0.0,63.0,rear-pouch,פאוץ' אחורי לכיסוי קסדה,0,0.0,0.0,0.0
-8018940559645_ירוק זית,8018940559645,ירוק זית,22.0,0.0,63.0,rear-pouch,פאוץ' אחורי לכיסוי קסדה,35,1386.0,2205.0,0.0
+8018940559645_ירוק זית,8018940559645,ירוק זית,23.0,0.0,63.0,rear-pouch,פאוץ' אחורי לכיסוי קסדה,34,1449.0,2142.0,0.0
 8018940559645_שחור,8018940559645,שחור,1.0,0.0,63.0,rear-pouch,פאוץ' אחורי לכיסוי קסדה,80,63.0,5040.0,0.0
 8018940756253_L / הסוואה,8018940756253,L / הסוואה,12.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,272,2028.0,45968.0,0.0
 8018940756253_L / שחור,8018940756253,L / שחור,7.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,39,1183.0,6591.0,0.0
@@ -114,7 +114,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8018941182237_'מדיום - לארג / הסוואה,8018941182237,'מדיום - לארג / הסוואה,1.0,0.0,279.0,ops-core-sentry-xp-mid-cut-helmet-cover-gen4,Ops-Core® Sentry Mid Cut Gen4 - כיסוי קסדה חיתוך בינוני,27,279.0,7533.0,0.0
 8018941182237_'מדיום - לארג / ירוק זית,8018941182237,'מדיום - לארג / ירוק זית,5.0,0.0,279.0,ops-core-sentry-xp-mid-cut-helmet-cover-gen4,Ops-Core® Sentry Mid Cut Gen4 - כיסוי קסדה חיתוך בינוני,476,1395.0,132804.0,0.0
 8018941182237_מדיום - סמול / הסוואה,8018941182237,מדיום - סמול / הסוואה,0.0,0.0,279.0,ops-core-sentry-xp-mid-cut-helmet-cover-gen4,Ops-Core® Sentry Mid Cut Gen4 - כיסוי קסדה חיתוך בינוני,1,0.0,279.0,0.0
-8018941182237_מדיום - סמול / ירוק זית,8018941182237,מדיום - סמול / ירוק זית,6.0,1.0,279.0,ops-core-sentry-xp-mid-cut-helmet-cover-gen4,Ops-Core® Sentry Mid Cut Gen4 - כיסוי קסדה חיתוך בינוני,425,1674.0,118575.0,0.0
+8018941182237_מדיום - סמול / ירוק זית,8018941182237,מדיום - סמול / ירוק זית,7.0,1.0,279.0,ops-core-sentry-xp-mid-cut-helmet-cover-gen4,Ops-Core® Sentry Mid Cut Gen4 - כיסוי קסדה חיתוך בינוני,424,1953.0,118296.0,0.0
 8018941280541_'אקסטרה לארג' - לארג / הסוואה,8018941280541,'אקסטרה לארג' - לארג / הסוואה,1.0,0.0,279.0,ops-core-fast-bump-carbon-high-cut-helmet-cover-gen4,Ops-Core® FAST BUMP/Carbon High Cut Gen4 - כיסוי קסדה חיתוך גבוה,27,279.0,7533.0,0.0
 8018941280541_'אקסטרה לארג' - לארג / ירוק זית,8018941280541,'אקסטרה לארג' - לארג / ירוק זית,4.0,0.0,279.0,ops-core-fast-bump-carbon-high-cut-helmet-cover-gen4,Ops-Core® FAST BUMP/Carbon High Cut Gen4 - כיסוי קסדה חיתוך גבוה,477,1116.0,133083.0,0.0
 8018941280541_לארג' - מדיום  / הסוואה,8018941280541,לארג' - מדיום  / הסוואה,0.0,0.0,279.0,ops-core-fast-bump-carbon-high-cut-helmet-cover-gen4,Ops-Core® FAST BUMP/Carbon High Cut Gen4 - כיסוי קסדה חיתוך גבוה,1,0.0,279.0,0.0
@@ -412,4 +412,4 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 9875926548765_Black,9875926548765,Black,1.0,1.0,287.18,wide-admin-pouch,Wide Admin Pouch,0,287.18,0.0,0.0
 9875926548765_Multicam,9875926548765,Multicam,0.0,0.0,309.3,wide-admin-pouch,Wide Admin Pouch,0,0.0,0.0,0.0
 9875926548765_Ranger Green,9875926548765,Ranger Green,6.0,499.0,287.18,wide-admin-pouch,Wide Admin Pouch,493,1723.08,141579.74,0.0
-9895767310621_Default Title,9895767310621,Default Title,149.0,1.0,0.0,testingteam-il,Testing Team Israel Patch,352,0.0,0.0,0.0
+9895767310621_Default Title,9895767310621,Default Title,150.0,1.0,0.0,testingteam-il,Testing Team Israel Patch,351,0.0,0.0,0.0
