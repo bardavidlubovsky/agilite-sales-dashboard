@@ -2891,7 +2891,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9875926548765_Ranger Green,9875926548765,Ranger Green,wide-admin-pouch,Wide Admin Pouch,True,True,Tuesday,0.0,Weekday
 9875926548765_Ranger Green,9875926548765,Ranger Green,wide-admin-pouch,Wide Admin Pouch,True,True,Wednesday,0.0,Weekday
 9895767310621_Default Title,9895767310621,Default Title,testingteam-il,Testing Team Israel Patch,True,True,Friday,17.0,Weekday
-9895767310621_Default Title,9895767310621,Default Title,testingteam-il,Testing Team Israel Patch,True,True,Saturday,0.0,Weekday
+9895767310621_Default Title,9895767310621,Default Title,testingteam-il,Testing Team Israel Patch,True,True,Saturday,1.0,Weekday
 9895767310621_Default Title,9895767310621,Default Title,testingteam-il,Testing Team Israel Patch,True,True,Thursday,45.0,Weekday
 9895767310621_Default Title,9895767310621,Default Title,testingteam-il,Testing Team Israel Patch,True,True,Tuesday,0.0,Weekday
 9895767310621_Default Title,9895767310621,Default Title,testingteam-il,Testing Team Israel Patch,True,True,Wednesday,8.0,Weekday
@@ -3721,4 +3721,4 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9875926548765_Multicam,9875926548765,Multicam,wide-admin-pouch,Wide Admin Pouch,True,False,June,0.0,Month
 9875926548765_Ranger Green,9875926548765,Ranger Green,wide-admin-pouch,Wide Admin Pouch,True,True,July,1.0,Month
 9875926548765_Ranger Green,9875926548765,Ranger Green,wide-admin-pouch,Wide Admin Pouch,True,True,June,0.0,Month
-9895767310621_Default Title,9895767310621,Default Title,testingteam-il,Testing Team Israel Patch,True,True,July,70.0,Month
+9895767310621_Default Title,9895767310621,Default Title,testingteam-il,Testing Team Israel Patch,True,True,July,71.0,Month
