@@ -56,7 +56,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018935152925_שחור,8018935152925,שחור,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,True,True,Tuesday,0.0,Weekday
 8018935152925_שחור,8018935152925,שחור,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,True,True,Wednesday,0.0,Weekday
 8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Friday,7.0,Weekday
-8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Monday,3.0,Weekday
+8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Monday,4.0,Weekday
 8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Saturday,4.0,Weekday
 8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Sunday,14.0,Weekday
 8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Thursday,5.0,Weekday
@@ -105,7 +105,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018935546141_חום,8018935546141,חום,six-pack-hanger-pouch,Six Pack™ - פאוץ' קנגרו,True,False,Tuesday,0.0,Weekday
 8018935546141_חום,8018935546141,חום,six-pack-hanger-pouch,Six Pack™ - פאוץ' קנגרו,True,False,Wednesday,0.0,Weekday
 8018935546141_ירוק ריינג'ר,8018935546141,ירוק ריינג'ר,six-pack-hanger-pouch,Six Pack™ - פאוץ' קנגרו,True,True,Friday,4.0,Weekday
-8018935546141_ירוק ריינג'ר,8018935546141,ירוק ריינג'ר,six-pack-hanger-pouch,Six Pack™ - פאוץ' קנגרו,True,True,Monday,2.0,Weekday
+8018935546141_ירוק ריינג'ר,8018935546141,ירוק ריינג'ר,six-pack-hanger-pouch,Six Pack™ - פאוץ' קנגרו,True,True,Monday,3.0,Weekday
 8018935546141_ירוק ריינג'ר,8018935546141,ירוק ריינג'ר,six-pack-hanger-pouch,Six Pack™ - פאוץ' קנגרו,True,True,Saturday,2.0,Weekday
 8018935546141_ירוק ריינג'ר,8018935546141,ירוק ריינג'ר,six-pack-hanger-pouch,Six Pack™ - פאוץ' קנגרו,True,True,Sunday,13.0,Weekday
 8018935546141_ירוק ריינג'ר,8018935546141,ירוק ריינג'ר,six-pack-hanger-pouch,Six Pack™ - פאוץ' קנגרו,True,True,Thursday,11.0,Weekday
@@ -2891,7 +2891,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9875926548765_Ranger Green,9875926548765,Ranger Green,wide-admin-pouch,Wide Admin Pouch,True,True,Tuesday,0.0,Weekday
 9875926548765_Ranger Green,9875926548765,Ranger Green,wide-admin-pouch,Wide Admin Pouch,True,True,Wednesday,0.0,Weekday
 9895767310621_Default Title,9895767310621,Default Title,testingteam-il,Testing Team Israel Patch,True,True,Friday,17.0,Weekday
-9895767310621_Default Title,9895767310621,Default Title,testingteam-il,Testing Team Israel Patch,True,True,Monday,8.0,Weekday
+9895767310621_Default Title,9895767310621,Default Title,testingteam-il,Testing Team Israel Patch,True,True,Monday,12.0,Weekday
 9895767310621_Default Title,9895767310621,Default Title,testingteam-il,Testing Team Israel Patch,True,True,Saturday,6.0,Weekday
 9895767310621_Default Title,9895767310621,Default Title,testingteam-il,Testing Team Israel Patch,True,True,Sunday,8.0,Weekday
 9895767310621_Default Title,9895767310621,Default Title,testingteam-il,Testing Team Israel Patch,True,True,Thursday,45.0,Weekday
@@ -2913,7 +2913,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018935152925_ירוק ריינג'ר,8018935152925,ירוק ריינג'ר,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,True,True,June,1.0,Month
 8018935152925_שחור,8018935152925,שחור,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,True,True,July,0.0,Month
 8018935152925_שחור,8018935152925,שחור,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,True,True,June,0.0,Month
-8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,July,51.0,Month
+8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,July,52.0,Month
 8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,June,5.0,Month
 8018935283997_מולטיקם,8018935283997,מולטיקם,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,False,July,0.0,Month
 8018935283997_מולטיקם,8018935283997,מולטיקם,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,False,June,0.0,Month
@@ -2927,7 +2927,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018935382301_שחור,8018935382301,שחור,fanny-pack-conversion-strap,Six Pack™ - 'רצועת המרה לפאוץ,False,False,June,0.0,Month
 8018935546141_חום,8018935546141,חום,six-pack-hanger-pouch,Six Pack™ - פאוץ' קנגרו,True,False,July,0.0,Month
 8018935546141_חום,8018935546141,חום,six-pack-hanger-pouch,Six Pack™ - פאוץ' קנגרו,True,False,June,0.0,Month
-8018935546141_ירוק ריינג'ר,8018935546141,ירוק ריינג'ר,six-pack-hanger-pouch,Six Pack™ - פאוץ' קנגרו,True,True,July,21.0,Month
+8018935546141_ירוק ריינג'ר,8018935546141,ירוק ריינג'ר,six-pack-hanger-pouch,Six Pack™ - פאוץ' קנגרו,True,True,July,22.0,Month
 8018935546141_ירוק ריינג'ר,8018935546141,ירוק ריינג'ר,six-pack-hanger-pouch,Six Pack™ - פאוץ' קנגרו,True,True,June,23.0,Month
 8018935546141_מולטיקם,8018935546141,מולטיקם,six-pack-hanger-pouch,Six Pack™ - פאוץ' קנגרו,True,False,July,0.0,Month
 8018935546141_מולטיקם,8018935546141,מולטיקם,six-pack-hanger-pouch,Six Pack™ - פאוץ' קנגרו,True,False,June,0.0,Month
@@ -3723,4 +3723,4 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9875926548765_Multicam,9875926548765,Multicam,wide-admin-pouch,Wide Admin Pouch,True,False,June,0.0,Month
 9875926548765_Ranger Green,9875926548765,Ranger Green,wide-admin-pouch,Wide Admin Pouch,True,True,July,2.0,Month
 9875926548765_Ranger Green,9875926548765,Ranger Green,wide-admin-pouch,Wide Admin Pouch,True,True,June,0.0,Month
-9895767310621_Default Title,9895767310621,Default Title,testingteam-il,Testing Team Israel Patch,True,True,July,92.0,Month
+9895767310621_Default Title,9895767310621,Default Title,testingteam-il,Testing Team Israel Patch,True,True,July,96.0,Month
