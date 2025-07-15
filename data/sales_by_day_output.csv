@@ -1467,7 +1467,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8686706589981_שחור,8686706589981,שחור,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,Saturday,0.0,Weekday
 8686706589981_שחור,8686706589981,שחור,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,Sunday,0.0,Weekday
 8686706589981_שחור,8686706589981,שחור,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,Thursday,0.0,Weekday
-8686706589981_שחור,8686706589981,שחור,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,Tuesday,0.0,Weekday
+8686706589981_שחור,8686706589981,שחור,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,Tuesday,1.0,Weekday
 8686706589981_שחור,8686706589981,שחור,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,Wednesday,1.0,Weekday
 8791581917469_Default Title,8791581917469,Default Title,agilite-sapi-hydration-bladder,אג'ילייט SAPI שלוקר,True,True,Friday,2.0,Weekday
 8791581917469_Default Title,8791581917469,Default Title,agilite-sapi-hydration-bladder,אג'ילייט SAPI שלוקר,True,True,Monday,6.0,Weekday
@@ -3315,7 +3315,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8686706589981_ירוק ריינג'ר,8686706589981,ירוק ריינג'ר,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,June,19.0,Month
 8686706589981_מולטיקם,8686706589981,מולטיקם,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,False,July,0.0,Month
 8686706589981_מולטיקם,8686706589981,מולטיקם,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,False,June,0.0,Month
-8686706589981_שחור,8686706589981,שחור,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,July,1.0,Month
+8686706589981_שחור,8686706589981,שחור,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,July,2.0,Month
 8686706589981_שחור,8686706589981,שחור,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,June,1.0,Month
 8791581917469_Default Title,8791581917469,Default Title,agilite-sapi-hydration-bladder,אג'ילייט SAPI שלוקר,True,True,July,29.0,Month
 8791581917469_Default Title,8791581917469,Default Title,agilite-sapi-hydration-bladder,אג'ילייט SAPI שלוקר,True,True,June,11.0,Month
