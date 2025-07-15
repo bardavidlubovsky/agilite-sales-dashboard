@@ -1138,7 +1138,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8091315699997_שחור / M,8091315699997,שחור / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,Saturday,0.0,Weekday
 8091315699997_שחור / M,8091315699997,שחור / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,Sunday,0.0,Weekday
 8091315699997_שחור / M,8091315699997,שחור / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,Thursday,0.0,Weekday
-8091315699997_שחור / M,8091315699997,שחור / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,Tuesday,0.0,Weekday
+8091315699997_שחור / M,8091315699997,שחור / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,Tuesday,1.0,Weekday
 8091315699997_שחור / M,8091315699997,שחור / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,Wednesday,0.0,Weekday
 8091315699997_שחור / XL,8091315699997,שחור / XL,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,False,Friday,0.0,Weekday
 8091315699997_שחור / XL,8091315699997,שחור / XL,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,False,Monday,0.0,Weekday
@@ -1684,7 +1684,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9344894042397_Black,9344894042397,Black,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,Saturday,0.0,Weekday
 9344894042397_Black,9344894042397,Black,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,Sunday,2.0,Weekday
 9344894042397_Black,9344894042397,Black,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,Thursday,0.0,Weekday
-9344894042397_Black,9344894042397,Black,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,Tuesday,0.0,Weekday
+9344894042397_Black,9344894042397,Black,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,Tuesday,1.0,Weekday
 9344894042397_Black,9344894042397,Black,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,Wednesday,0.0,Weekday
 9344894042397_Coyote Brown,9344894042397,Coyote Brown,discounted-molle-hanger,Discounted MOLLE Hanger,True,False,Friday,0.0,Weekday
 9344894042397_Coyote Brown,9344894042397,Coyote Brown,discounted-molle-hanger,Discounted MOLLE Hanger,True,False,Monday,0.0,Weekday
@@ -1880,7 +1880,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9721787679005_ירוק ריינג'ר,9721787679005,ירוק ריינג'ר,modular-elastic-cummerbund,חובק קרמון אלסטי,True,True,Saturday,0.0,Weekday
 9721787679005_ירוק ריינג'ר,9721787679005,ירוק ריינג'ר,modular-elastic-cummerbund,חובק קרמון אלסטי,True,True,Sunday,2.0,Weekday
 9721787679005_ירוק ריינג'ר,9721787679005,ירוק ריינג'ר,modular-elastic-cummerbund,חובק קרמון אלסטי,True,True,Thursday,0.0,Weekday
-9721787679005_ירוק ריינג'ר,9721787679005,ירוק ריינג'ר,modular-elastic-cummerbund,חובק קרמון אלסטי,True,True,Tuesday,0.0,Weekday
+9721787679005_ירוק ריינג'ר,9721787679005,ירוק ריינג'ר,modular-elastic-cummerbund,חובק קרמון אלסטי,True,True,Tuesday,1.0,Weekday
 9721787679005_ירוק ריינג'ר,9721787679005,ירוק ריינג'ר,modular-elastic-cummerbund,חובק קרמון אלסטי,True,True,Wednesday,2.0,Weekday
 9721787679005_מולטיקם,9721787679005,מולטיקם,modular-elastic-cummerbund,חובק קרמון אלסטי,True,False,Friday,0.0,Weekday
 9721787679005_מולטיקם,9721787679005,מולטיקם,modular-elastic-cummerbund,חובק קרמון אלסטי,True,False,Monday,0.0,Weekday
@@ -3221,7 +3221,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8091315699997_מולטיקם / XL,8091315699997,מולטיקם / XL,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,False,June,0.0,Month
 8091315699997_שחור / L,8091315699997,שחור / L,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,July,1.0,Month
 8091315699997_שחור / L,8091315699997,שחור / L,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,June,1.0,Month
-8091315699997_שחור / M,8091315699997,שחור / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,July,0.0,Month
+8091315699997_שחור / M,8091315699997,שחור / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,July,1.0,Month
 8091315699997_שחור / M,8091315699997,שחור / M,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,True,June,0.0,Month
 8091315699997_שחור / XL,8091315699997,שחור / XL,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,False,July,0.0,Month
 8091315699997_שחור / XL,8091315699997,שחור / XL,warfighter-cummerbund,Warfighter™ - חובקי קרמון מודולריים ,True,False,June,0.0,Month
@@ -3377,7 +3377,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9306910359837_ירוק ריינג'ר,9306910359837,ירוק ריינג'ר,molle-hanger,מתלה MOLLE ,True,True,June,4.0,Month
 9306910359837_שחור,9306910359837,שחור,molle-hanger,מתלה MOLLE ,True,True,July,0.0,Month
 9306910359837_שחור,9306910359837,שחור,molle-hanger,מתלה MOLLE ,True,True,June,2.0,Month
-9344894042397_Black,9344894042397,Black,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,July,0.0,Month
+9344894042397_Black,9344894042397,Black,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,July,1.0,Month
 9344894042397_Black,9344894042397,Black,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,June,2.0,Month
 9344894042397_Coyote Brown,9344894042397,Coyote Brown,discounted-molle-hanger,Discounted MOLLE Hanger,True,False,July,0.0,Month
 9344894042397_Coyote Brown,9344894042397,Coyote Brown,discounted-molle-hanger,Discounted MOLLE Hanger,True,False,June,0.0,Month
@@ -3433,7 +3433,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9716337541405_מולטיקם,9716337541405,מולטיקם,reaper-chest-rig,"מל""מ (מערכת לחימה מנימליסטית)",True,False,June,0.0,Month
 9716337541405_שחור,9716337541405,שחור,reaper-chest-rig,"מל""מ (מערכת לחימה מנימליסטית)",True,True,July,0.0,Month
 9716337541405_שחור,9716337541405,שחור,reaper-chest-rig,"מל""מ (מערכת לחימה מנימליסטית)",True,True,June,1.0,Month
-9721787679005_ירוק ריינג'ר,9721787679005,ירוק ריינג'ר,modular-elastic-cummerbund,חובק קרמון אלסטי,True,True,July,1.0,Month
+9721787679005_ירוק ריינג'ר,9721787679005,ירוק ריינג'ר,modular-elastic-cummerbund,חובק קרמון אלסטי,True,True,July,2.0,Month
 9721787679005_ירוק ריינג'ר,9721787679005,ירוק ריינג'ר,modular-elastic-cummerbund,חובק קרמון אלסטי,True,True,June,3.0,Month
 9721787679005_מולטיקם,9721787679005,מולטיקם,modular-elastic-cummerbund,חובק קרמון אלסטי,True,False,July,0.0,Month
 9721787679005_מולטיקם,9721787679005,מולטיקם,modular-elastic-cummerbund,חובק קרמון אלסטי,True,False,June,0.0,Month
