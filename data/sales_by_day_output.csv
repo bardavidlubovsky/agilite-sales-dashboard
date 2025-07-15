@@ -1677,7 +1677,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9306910359837_שחור,9306910359837,שחור,molle-hanger,מתלה MOLLE ,True,True,Saturday,0.0,Weekday
 9306910359837_שחור,9306910359837,שחור,molle-hanger,מתלה MOLLE ,True,True,Sunday,2.0,Weekday
 9306910359837_שחור,9306910359837,שחור,molle-hanger,מתלה MOLLE ,True,True,Thursday,0.0,Weekday
-9306910359837_שחור,9306910359837,שחור,molle-hanger,מתלה MOLLE ,True,True,Tuesday,0.0,Weekday
+9306910359837_שחור,9306910359837,שחור,molle-hanger,מתלה MOLLE ,True,True,Tuesday,1.0,Weekday
 9306910359837_שחור,9306910359837,שחור,molle-hanger,מתלה MOLLE ,True,True,Wednesday,0.0,Weekday
 9344894042397_Black,9344894042397,Black,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,Friday,0.0,Weekday
 9344894042397_Black,9344894042397,Black,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,Monday,0.0,Weekday
@@ -3375,7 +3375,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9306910359837_חום,9306910359837,חום,molle-hanger,מתלה MOLLE ,True,False,June,0.0,Month
 9306910359837_ירוק ריינג'ר,9306910359837,ירוק ריינג'ר,molle-hanger,מתלה MOLLE ,True,True,July,9.0,Month
 9306910359837_ירוק ריינג'ר,9306910359837,ירוק ריינג'ר,molle-hanger,מתלה MOLLE ,True,True,June,4.0,Month
-9306910359837_שחור,9306910359837,שחור,molle-hanger,מתלה MOLLE ,True,True,July,0.0,Month
+9306910359837_שחור,9306910359837,שחור,molle-hanger,מתלה MOLLE ,True,True,July,1.0,Month
 9306910359837_שחור,9306910359837,שחור,molle-hanger,מתלה MOLLE ,True,True,June,2.0,Month
 9344894042397_Black,9344894042397,Black,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,July,1.0,Month
 9344894042397_Black,9344894042397,Black,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,June,2.0,Month
