@@ -2900,6 +2900,11 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9895767310621_Default Title,9895767310621,Default Title,testingteam-il,Testing Team Israel Patch,True,True,Thursday,45.0,Weekday
 9895767310621_Default Title,9895767310621,Default Title,testingteam-il,Testing Team Israel Patch,True,True,Tuesday,5.0,Weekday
 9895767310621_Default Title,9895767310621,Default Title,testingteam-il,Testing Team Israel Patch,True,True,Wednesday,10.0,Weekday
+9902499168541_Default Title,9902499168541,Default Title,md2-compact-trauma-kit-contents-for-lending,"ציוד רפואי לער""ד",True,True,Wednesday,0.0,Weekday
+9902499954973_ירוק ריינג'ר,9902499954973,ירוק ריינג'ר,flank™-side-plate-carriers-for-lending,Flank™ -  פאוץ' פלטות מיגון צדדיות,True,True,Wednesday,0.0,Weekday
+9902499954973_מולטיקם,9902499954973,מולטיקם,flank™-side-plate-carriers-for-lending,Flank™ -  פאוץ' פלטות מיגון צדדיות,True,False,Wednesday,0.0,Weekday
+9902499954973_שחור,9902499954973,שחור,flank™-side-plate-carriers-for-lending,Flank™ -  פאוץ' פלטות מיגון צדדיות,True,True,Wednesday,0.0,Weekday
+9902500053277_Default Title,9902500053277,Default Title,hesco-3110-level-iii-side-plates-for-lending,'+פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III+ ,True,True,Wednesday,0.0,Weekday
 8018935054621_חום,8018935054621,חום,ag3-placard-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות סקוטש,True,False,July,0.0,Month
 8018935054621_חום,8018935054621,חום,ag3-placard-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות סקוטש,True,False,June,0.0,Month
 8018935054621_ירוק ריינג'ר,8018935054621,ירוק ריינג'ר,ag3-placard-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות סקוטש,True,True,July,7.0,Month
@@ -3730,3 +3735,8 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9875926548765_Ranger Green,9875926548765,Ranger Green,wide-admin-pouch,Wide Admin Pouch,True,True,July,3.0,Month
 9875926548765_Ranger Green,9875926548765,Ranger Green,wide-admin-pouch,Wide Admin Pouch,True,True,June,0.0,Month
 9895767310621_Default Title,9895767310621,Default Title,testingteam-il,Testing Team Israel Patch,True,True,July,105.0,Month
+9902499168541_Default Title,9902499168541,Default Title,md2-compact-trauma-kit-contents-for-lending,"ציוד רפואי לער""ד",True,True,July,0.0,Month
+9902499954973_ירוק ריינג'ר,9902499954973,ירוק ריינג'ר,flank™-side-plate-carriers-for-lending,Flank™ -  פאוץ' פלטות מיגון צדדיות,True,True,July,0.0,Month
+9902499954973_מולטיקם,9902499954973,מולטיקם,flank™-side-plate-carriers-for-lending,Flank™ -  פאוץ' פלטות מיגון צדדיות,True,False,July,0.0,Month
+9902499954973_שחור,9902499954973,שחור,flank™-side-plate-carriers-for-lending,Flank™ -  פאוץ' פלטות מיגון צדדיות,True,True,July,0.0,Month
+9902500053277_Default Title,9902500053277,Default Title,hesco-3110-level-iii-side-plates-for-lending,'+פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III+ ,True,True,July,0.0,Month
