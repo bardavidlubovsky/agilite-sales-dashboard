@@ -206,10 +206,10 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8625010934045_מולטיקם שחור,8625010934045,מולטיקם שחור,0.0,0.0,149.9,agilite-multicam-trucker-hat,כובע רשת עקרב,-1,0.0,0.0,-149.9
 8647001571613_Default Title,8647001571613,Default Title,0.0,0.0,0.0,t-e-testing-team-2-patch,T&E Testing Team 2 Patch,0,0.0,0.0,0.0
 8647001669917_Default Title,8647001669917,Default Title,0.0,0.0,0.0,t-e-testing-team-5-patch,T&E Testing Team 5 Patch,0,0.0,0.0,0.0
-8686706589981_ירוק ריינג'ר,8686706589981,ירוק ריינג'ר,228.0,125.0,599.0,micro-map,Micro MAP™ - תיק תקיפה זעיר,122,136572.0,73078.0,0.0
+8686706589981_ירוק ריינג'ר,8686706589981,ירוק ריינג'ר,229.0,125.0,599.0,micro-map,Micro MAP™ - תיק תקיפה זעיר,121,137171.0,72479.0,0.0
 8686706589981_מולטיקם,8686706589981,מולטיקם,0.0,0.0,639.0,micro-map,Micro MAP™ - תיק תקיפה זעיר,0,0.0,0.0,0.0
 8686706589981_שחור,8686706589981,שחור,3.0,0.0,599.0,micro-map,Micro MAP™ - תיק תקיפה זעיר,153,1797.0,91647.0,0.0
-8791581917469_Default Title,8791581917469,Default Title,40.0,0.0,213.1,agilite-sapi-hydration-bladder,אג'ילייט SAPI שלוקר,137,8524.0,29194.7,0.0
+8791581917469_Default Title,8791581917469,Default Title,41.0,0.0,213.1,agilite-sapi-hydration-bladder,אג'ילייט SAPI שלוקר,136,8737.1,28981.6,0.0
 8804518002973_אפור,8804518002973,אפור,0.0,0.0,159.0,scorpion-beanie,כובע גרב עקרב,0,0.0,0.0,0.0
 8804518002973_שחור,8804518002973,שחור,0.0,0.0,159.0,scorpion-beanie,כובע גרב עקרב,0,0.0,0.0,0.0
 8804518002973_תכלת,8804518002973,תכלת,0.0,0.0,159.0,scorpion-beanie,כובע גרב עקרב,-4,0.0,0.0,-636.0
@@ -415,4 +415,4 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 9875926548765_Black,9875926548765,Black,1.0,1.0,287.18,wide-admin-pouch,Wide Admin Pouch,0,287.18,0.0,0.0
 9875926548765_Multicam,9875926548765,Multicam,0.0,0.0,309.3,wide-admin-pouch,Wide Admin Pouch,0,0.0,0.0,0.0
 9875926548765_Ranger Green,9875926548765,Ranger Green,8.0,499.0,287.18,wide-admin-pouch,Wide Admin Pouch,491,2297.44,141005.38,0.0
-9895767310621_Default Title,9895767310621,Default Title,189.0,4.0,0.0,testingteam-il,Testing Team Israel Patch,315,0.0,0.0,0.0
+9895767310621_Default Title,9895767310621,Default Title,190.0,4.0,0.0,testingteam-il,Testing Team Israel Patch,314,0.0,0.0,0.0
