@@ -145,7 +145,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8046642757917_Default Title,8046642757917,Default Title,0.0,0.0,0.0,t-e-testing-team-4-patch2rfwefwefqewrfgruuuj76hg,T&E Testing Team פאץ' ,0,0.0,0.0,0.0
 8080332456221_חום / (10x12 or SAPI Medium) - מדיום ,8080332456221,חום / (10x12 or SAPI Medium) - מדיום ,0.0,0.0,1189.0,k-zero-plate-carrier,K-Zero™-  קרמון מיוחדות,0,0.0,0.0,0.0
 8080332456221_חום / (SAPI Large)- גדול  ,8080332456221,חום / (SAPI Large)- גדול  ,0.0,0.0,1189.0,k-zero-plate-carrier,K-Zero™-  קרמון מיוחדות,0,0.0,0.0,0.0
-8080332456221_ירוק ריינג'ר / (10x12 or SAPI Medium) - מדיום ,8080332456221,ירוק ריינג'ר / (10x12 or SAPI Medium) - מדיום ,47.0,135.0,1189.0,k-zero-plate-carrier,K-Zero™-  קרמון מיוחדות,217,55883.0,258013.0,0.0
+8080332456221_ירוק ריינג'ר / (10x12 or SAPI Medium) - מדיום ,8080332456221,ירוק ריינג'ר / (10x12 or SAPI Medium) - מדיום ,48.0,135.0,1189.0,k-zero-plate-carrier,K-Zero™-  קרמון מיוחדות,216,57072.0,256824.0,0.0
 8080332456221_ירוק ריינג'ר / (SAPI Large)- גדול  ,8080332456221,ירוק ריינג'ר / (SAPI Large)- גדול  ,7.0,0.0,1189.0,k-zero-plate-carrier,K-Zero™-  קרמון מיוחדות,40,8323.0,47560.0,0.0
 8080332456221_מולטיקם / (10x12 or SAPI Medium) - מדיום ,8080332456221,מולטיקם / (10x12 or SAPI Medium) - מדיום ,0.0,0.0,1229.0,k-zero-plate-carrier,K-Zero™-  קרמון מיוחדות,0,0.0,0.0,0.0
 8080332456221_מולטיקם / (SAPI Large)- גדול  ,8080332456221,מולטיקם / (SAPI Large)- גדול  ,0.0,0.0,1229.0,k-zero-plate-carrier,K-Zero™-  קרמון מיוחדות,0,0.0,0.0,0.0
@@ -270,7 +270,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 9721787679005_ירוק ריינג'ר,9721787679005,ירוק ריינג'ר,5.0,0.0,319.99,modular-elastic-cummerbund,חובק קרמון אלסטי,25,1599.95,7999.75,0.0
 9721787679005_מולטיקם,9721787679005,מולטיקם,0.0,0.0,319.99,modular-elastic-cummerbund,חובק קרמון אלסטי,0,0.0,0.0,0.0
 9721787679005_שחור ,9721787679005,שחור ,1.0,0.0,319.99,modular-elastic-cummerbund,חובק קרמון אלסטי,80,319.99,25599.2,0.0
-9744573890845_ירוק ריינג'ר / (10x12 or SAPI Medium) - מדיום ,9744573890845,ירוק ריינג'ר / (10x12 or SAPI Medium) - מדיום ,45.0,134.0,990.0,k-zero-בהנחת-טלגרם,K-Zero™-  קרמון מיוחדות,218,44550.0,215820.0,0.0
+9744573890845_ירוק ריינג'ר / (10x12 or SAPI Medium) - מדיום ,9744573890845,ירוק ריינג'ר / (10x12 or SAPI Medium) - מדיום ,47.0,134.0,990.0,k-zero-בהנחת-טלגרם,K-Zero™-  קרמון מיוחדות,216,46530.0,213840.0,0.0
 9744573890845_ירוק ריינג'ר / (SAPI Large)- גדול  ,9744573890845,ירוק ריינג'ר / (SAPI Large)- גדול  ,7.0,0.0,990.0,k-zero-בהנחת-טלגרם,K-Zero™-  קרמון מיוחדות,40,6930.0,39600.0,0.0
 9744573890845_שחור / (10x12 or SAPI Medium) - מדיום ,9744573890845,שחור / (10x12 or SAPI Medium) - מדיום ,1.0,0.0,990.0,k-zero-בהנחת-טלגרם,K-Zero™-  קרמון מיוחדות,101,990.0,99990.0,0.0
 9744573890845_שחור / (SAPI Large)- גדול  ,9744573890845,שחור / (SAPI Large)- גדול  ,0.0,0.0,990.0,k-zero-בהנחת-טלגרם,K-Zero™-  קרמון מיוחדות,0,0.0,0.0,0.0
@@ -367,7 +367,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 9849669812509_שחור / ירוק ריינג'ר,9849669812509,שחור / ירוק ריינג'ר,17.0,0.0,2779.0,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,21,47243.0,58359.0,0.0
 9850248593693_ירוק ריינג'ר / לארג' / ירוק ריינג'ר,9850248593693,ירוק ריינג'ר / לארג' / ירוק ריינג'ר,7.0,0.0,2779.0,k-zero-plate-carrier-hesco-3110-level-iii-side-plates,חבילת ™K-Zero קרמון + פלטות צד קרמיות רמה 3 - HESCO 3110 LVL III,40,19453.0,111160.0,0.0
 9850248593693_ירוק ריינג'ר / לארג' / שחור,9850248593693,ירוק ריינג'ר / לארג' / שחור,1.0,0.0,3098.0,k-zero-plate-carrier-hesco-3110-level-iii-side-plates,חבילת ™K-Zero קרמון + פלטות צד קרמיות רמה 3 - HESCO 3110 LVL III,1,3098.0,3098.0,0.0
-9850248593693_ירוק ריינג'ר / מדיום / ירוק ריינג'ר,9850248593693,ירוק ריינג'ר / מדיום / ירוק ריינג'ר,47.0,135.0,2779.0,k-zero-plate-carrier-hesco-3110-level-iii-side-plates,חבילת ™K-Zero קרמון + פלטות צד קרמיות רמה 3 - HESCO 3110 LVL III,217,130613.0,603043.0,0.0
+9850248593693_ירוק ריינג'ר / מדיום / ירוק ריינג'ר,9850248593693,ירוק ריינג'ר / מדיום / ירוק ריינג'ר,48.0,135.0,2779.0,k-zero-plate-carrier-hesco-3110-level-iii-side-plates,חבילת ™K-Zero קרמון + פלטות צד קרמיות רמה 3 - HESCO 3110 LVL III,216,133392.0,600264.0,0.0
 9850248593693_ירוק ריינג'ר / מדיום / שחור,9850248593693,ירוק ריינג'ר / מדיום / שחור,1.0,0.0,3098.0,k-zero-plate-carrier-hesco-3110-level-iii-side-plates,חבילת ™K-Zero קרמון + פלטות צד קרמיות רמה 3 - HESCO 3110 LVL III,1,3098.0,3098.0,0.0
 9850248593693_שחור / לארג' / ירוק ריינג'ר,9850248593693,שחור / לארג' / ירוק ריינג'ר,0.0,0.0,2779.0,k-zero-plate-carrier-hesco-3110-level-iii-side-plates,חבילת ™K-Zero קרמון + פלטות צד קרמיות רמה 3 - HESCO 3110 LVL III,0,0.0,0.0,0.0
 9850248593693_שחור / לארג' / שחור,9850248593693,שחור / לארג' / שחור,0.0,0.0,3098.0,k-zero-plate-carrier-hesco-3110-level-iii-side-plates,חבילת ™K-Zero קרמון + פלטות צד קרמיות רמה 3 - HESCO 3110 LVL III,0,0.0,0.0,0.0
@@ -416,3 +416,8 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 9875926548765_Multicam,9875926548765,Multicam,0.0,0.0,309.3,wide-admin-pouch,Wide Admin Pouch,0,0.0,0.0,0.0
 9875926548765_Ranger Green,9875926548765,Ranger Green,8.0,499.0,287.18,wide-admin-pouch,Wide Admin Pouch,491,2297.44,141005.38,0.0
 9895767310621_Default Title,9895767310621,Default Title,190.0,4.0,0.0,testingteam-il,Testing Team Israel Patch,314,0.0,0.0,0.0
+9902499168541_Default Title,9902499168541,Default Title,0.0,0.0,267.93,md2-compact-trauma-kit-contents-for-lending,"ציוד רפואי לער""ד",12,0.0,3215.16,0.0
+9902499954973_ירוק ריינג'ר,9902499954973,ירוק ריינג'ר,0.0,0.0,319.0,flank™-side-plate-carriers-for-lending,Flank™ -  פאוץ' פלטות מיגון צדדיות,279,0.0,89001.0,0.0
+9902499954973_מולטיקם,9902499954973,מולטיקם,0.0,0.0,319.0,flank™-side-plate-carriers-for-lending,Flank™ -  פאוץ' פלטות מיגון צדדיות,0,0.0,0.0,0.0
+9902499954973_שחור,9902499954973,שחור,0.0,0.0,319.0,flank™-side-plate-carriers-for-lending,Flank™ -  פאוץ' פלטות מיגון צדדיות,1,0.0,319.0,0.0
+9902500053277_Default Title,9902500053277,Default Title,0.0,0.0,1590.0,hesco-3110-level-iii-side-plates-for-lending,'+פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III+ ,403,0.0,640770.0,0.0
