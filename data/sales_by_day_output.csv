@@ -59,7 +59,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Monday,4.0,Weekday
 8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Saturday,4.0,Weekday
 8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Sunday,14.0,Weekday
-8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Thursday,14.0,Weekday
+8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Thursday,15.0,Weekday
 8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Tuesday,16.0,Weekday
 8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Wednesday,11.0,Weekday
 8018935283997_מולטיקם,8018935283997,מולטיקם,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,False,Friday,0.0,Weekday
@@ -1557,7 +1557,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9001923838237_ירוק ריינג'ר / סמול,9001923838237,ירוק ריינג'ר / סמול,magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,Monday,2.0,Weekday
 9001923838237_ירוק ריינג'ר / סמול,9001923838237,ירוק ריינג'ר / סמול,magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,Saturday,2.0,Weekday
 9001923838237_ירוק ריינג'ר / סמול,9001923838237,ירוק ריינג'ר / סמול,magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,Sunday,8.0,Weekday
-9001923838237_ירוק ריינג'ר / סמול,9001923838237,ירוק ריינג'ר / סמול,magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,Thursday,7.0,Weekday
+9001923838237_ירוק ריינג'ר / סמול,9001923838237,ירוק ריינג'ר / סמול,magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,Thursday,6.0,Weekday
 9001923838237_ירוק ריינג'ר / סמול,9001923838237,ירוק ריינג'ר / סמול,magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,Tuesday,6.0,Weekday
 9001923838237_ירוק ריינג'ר / סמול,9001923838237,ירוק ריינג'ר / סמול,magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,Wednesday,5.0,Weekday
 9001923838237_מולטיקם / אקסטרה לארג',9001923838237,מולטיקם / אקסטרה לארג',magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,False,Friday,0.0,Weekday
@@ -1697,7 +1697,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9344894042397_Ranger Green,9344894042397,Ranger Green,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,Monday,0.0,Weekday
 9344894042397_Ranger Green,9344894042397,Ranger Green,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,Saturday,1.0,Weekday
 9344894042397_Ranger Green,9344894042397,Ranger Green,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,Sunday,4.0,Weekday
-9344894042397_Ranger Green,9344894042397,Ranger Green,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,Thursday,0.0,Weekday
+9344894042397_Ranger Green,9344894042397,Ranger Green,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,Thursday,1.0,Weekday
 9344894042397_Ranger Green,9344894042397,Ranger Green,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,Tuesday,4.0,Weekday
 9344894042397_Ranger Green,9344894042397,Ranger Green,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,Wednesday,5.0,Weekday
 9363870056733_ירוק ריינג'ר,9363870056733,ירוק ריינג'ר,פאוץ-ל-רימון,פאוץ' לרימון,True,True,Friday,3.0,Weekday
@@ -1963,7 +1963,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Monday,2.0,Weekday
 9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Saturday,3.0,Weekday
 9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Sunday,3.0,Weekday
-9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Thursday,6.0,Weekday
+9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Thursday,5.0,Weekday
 9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Tuesday,5.0,Weekday
 9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,Wednesday,5.0,Weekday
 9778618794269_ירוק ריינג'ר,9778618794269,ירוק ריינג'ר,מתלה-כפפות-טקטי,מתלה כפפות טקטי ,False,False,Friday,0.0,Weekday
@@ -2005,7 +2005,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9794227274013_ירוק ריינג'ר / סמול,9794227274013,ירוק ריינג'ר / סמול,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,Monday,2.0,Weekday
 9794227274013_ירוק ריינג'ר / סמול,9794227274013,ירוק ריינג'ר / סמול,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,Saturday,2.0,Weekday
 9794227274013_ירוק ריינג'ר / סמול,9794227274013,ירוק ריינג'ר / סמול,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,Sunday,8.0,Weekday
-9794227274013_ירוק ריינג'ר / סמול,9794227274013,ירוק ריינג'ר / סמול,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,Thursday,5.0,Weekday
+9794227274013_ירוק ריינג'ר / סמול,9794227274013,ירוק ריינג'ר / סמול,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,Thursday,6.0,Weekday
 9794227274013_ירוק ריינג'ר / סמול,9794227274013,ירוק ריינג'ר / סמול,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,Tuesday,6.0,Weekday
 9794227274013_ירוק ריינג'ר / סמול,9794227274013,ירוק ריינג'ר / סמול,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,Wednesday,5.0,Weekday
 9794227274013_מולטיקם / אקסטרה לארג',9794227274013,מולטיקם / אקסטרה לארג',magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,False,Friday,0.0,Weekday
@@ -2944,7 +2944,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018935152925_ירוק ריינג'ר,8018935152925,ירוק ריינג'ר,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,True,True,June,1.0,Month
 8018935152925_שחור,8018935152925,שחור,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,True,True,July,0.0,Month
 8018935152925_שחור,8018935152925,שחור,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,True,True,June,0.0,Month
-8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,July,65.0,Month
+8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,July,66.0,Month
 8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,June,5.0,Month
 8018935283997_מולטיקם,8018935283997,מולטיקם,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,False,July,0.0,Month
 8018935283997_מולטיקם,8018935283997,מולטיקם,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,False,June,0.0,Month
@@ -3372,7 +3372,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9001923838237_ירוק ריינג'ר / לארג',9001923838237,ירוק ריינג'ר / לארג',magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,June,28.0,Month
 9001923838237_ירוק ריינג'ר / מדיום,9001923838237,ירוק ריינג'ר / מדיום,magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,July,10.0,Month
 9001923838237_ירוק ריינג'ר / מדיום,9001923838237,ירוק ריינג'ר / מדיום,magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,June,39.0,Month
-9001923838237_ירוק ריינג'ר / סמול,9001923838237,ירוק ריינג'ר / סמול,magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,July,16.0,Month
+9001923838237_ירוק ריינג'ר / סמול,9001923838237,ירוק ריינג'ר / סמול,magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,July,15.0,Month
 9001923838237_ירוק ריינג'ר / סמול,9001923838237,ירוק ריינג'ר / סמול,magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,True,June,14.0,Month
 9001923838237_מולטיקם / אקסטרה לארג',9001923838237,מולטיקם / אקסטרה לארג',magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,False,July,0.0,Month
 9001923838237_מולטיקם / אקסטרה לארג',9001923838237,מולטיקם / אקסטרה לארג',magnetix-battle-belt,Magnetix™ - חגורת קרב ,True,False,June,0.0,Month
@@ -3412,7 +3412,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9344894042397_Black,9344894042397,Black,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,June,2.0,Month
 9344894042397_Coyote Brown,9344894042397,Coyote Brown,discounted-molle-hanger,Discounted MOLLE Hanger,True,False,July,0.0,Month
 9344894042397_Coyote Brown,9344894042397,Coyote Brown,discounted-molle-hanger,Discounted MOLLE Hanger,True,False,June,0.0,Month
-9344894042397_Ranger Green,9344894042397,Ranger Green,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,July,10.0,Month
+9344894042397_Ranger Green,9344894042397,Ranger Green,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,July,11.0,Month
 9344894042397_Ranger Green,9344894042397,Ranger Green,discounted-molle-hanger,Discounted MOLLE Hanger,True,True,June,4.0,Month
 9363870056733_ירוק ריינג'ר,9363870056733,ירוק ריינג'ר,פאוץ-ל-רימון,פאוץ' לרימון,True,True,July,7.0,Month
 9363870056733_ירוק ריינג'ר,9363870056733,ירוק ריינג'ר,פאוץ-ל-רימון,פאוץ' לרימון,True,True,June,16.0,Month
@@ -3488,7 +3488,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9775053832477_לארג',9775053832477,לארג',magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,June,5.0,Month
 9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,July,27.0,Month
 9775053832477_מדיום,9775053832477,מדיום,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,June,5.0,Month
-9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,July,20.0,Month
+9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,July,19.0,Month
 9775053832477_סמול,9775053832477,סמול,magnetix™-battle-belt-loadout,חבילת חגורת קרב ™Magnetix מזוודת,True,True,June,5.0,Month
 9778618794269_ירוק ריינג'ר,9778618794269,ירוק ריינג'ר,מתלה-כפפות-טקטי,מתלה כפפות טקטי ,False,False,July,0.0,Month
 9778618794269_ירוק ריינג'ר,9778618794269,ירוק ריינג'ר,מתלה-כפפות-טקטי,מתלה כפפות טקטי ,False,False,June,0.0,Month
@@ -3500,7 +3500,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9794227274013_ירוק ריינג'ר / לארג',9794227274013,ירוק ריינג'ר / לארג',magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,June,27.0,Month
 9794227274013_ירוק ריינג'ר / מדיום,9794227274013,ירוק ריינג'ר / מדיום,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,July,10.0,Month
 9794227274013_ירוק ריינג'ר / מדיום,9794227274013,ירוק ריינג'ר / מדיום,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,June,39.0,Month
-9794227274013_ירוק ריינג'ר / סמול,9794227274013,ירוק ריינג'ר / סמול,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,July,14.0,Month
+9794227274013_ירוק ריינג'ר / סמול,9794227274013,ירוק ריינג'ר / סמול,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,July,15.0,Month
 9794227274013_ירוק ריינג'ר / סמול,9794227274013,ירוק ריינג'ר / סמול,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,True,June,14.0,Month
 9794227274013_מולטיקם / אקסטרה לארג',9794227274013,מולטיקם / אקסטרה לארג',magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,False,July,0.0,Month
 9794227274013_מולטיקם / אקסטרה לארג',9794227274013,מולטיקם / אקסטרה לארג',magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,True,False,June,0.0,Month
