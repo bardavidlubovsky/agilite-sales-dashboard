@@ -7,9 +7,9 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8018935152925_חום,8018935152925,חום,0.0,0.0,464.0,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,0,0.0,0.0,0.0
 8018935152925_ירוק ריינג'ר,8018935152925,ירוק ריינג'ר,1.0,0.0,464.0,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,32,464.0,14848.0,0.0
 8018935152925_שחור,8018935152925,שחור,0.0,0.0,464.0,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,37,0.0,17168.0,0.0
-8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,86.0,223.0,153.0,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,138,13158.0,21114.0,0.0
+8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,87.0,223.0,153.0,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,137,13311.0,20961.0,0.0
 8018935283997_מולטיקם,8018935283997,מולטיקם,0.0,0.0,153.0,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,0,0.0,0.0,0.0
-8018935283997_שחור,8018935283997,שחור,26.0,0.0,153.0,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,31,3978.0,4743.0,0.0
+8018935283997_שחור,8018935283997,שחור,28.0,0.0,153.0,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,29,4284.0,4437.0,0.0
 8018935382301_חום,8018935382301,חום,0.0,0.0,0.0,fanny-pack-conversion-strap,Six Pack™ - 'רצועת המרה לפאוץ,0,0.0,0.0,0.0
 8018935382301_ירוק זית,8018935382301,ירוק זית,0.0,0.0,0.0,fanny-pack-conversion-strap,Six Pack™ - 'רצועת המרה לפאוץ,0,0.0,0.0,0.0
 8018935382301_שחור,8018935382301,שחור,0.0,0.0,0.0,fanny-pack-conversion-strap,Six Pack™ - 'רצועת המרה לפאוץ,0,0.0,0.0,0.0
@@ -54,7 +54,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8018938298653_Black,8018938298653,Black,0.0,0.0,23.9,agilite-logo-patches,פאצ'ים לוגו אג'ילייט,0,0.0,0.0,0.0
 8018938298653_Coyote Tan,8018938298653,Coyote Tan,0.0,0.0,23.9,agilite-logo-patches,פאצ'ים לוגו אג'ילייט,-2,0.0,0.0,-47.8
 8018938298653_Ranger Green,8018938298653,Ranger Green,0.0,0.0,23.9,agilite-logo-patches,פאצ'ים לוגו אג'ילייט,-2,0.0,0.0,-47.8
-8018938626333_Default Title,8018938626333,Default Title,3.0,0.0,23.9,israeli-flag-patch-od-green,פאץ' דגל ישראל,247,71.69999999999999,5903.299999999999,0.0
+8018938626333_Default Title,8018938626333,Default Title,4.0,0.0,23.9,israeli-flag-patch-od-green,פאץ' דגל ישראל,246,95.6,5879.4,0.0
 8018938855709_חום,8018938855709,חום,0.0,0.0,51.9,k-series-hydration-attach-straps,רצועות חיבור מודולריות לשלוקר,0,0.0,0.0,0.0
 8018938855709_ירוק זית,8018938855709,ירוק זית,0.0,0.0,51.9,k-series-hydration-attach-straps,רצועות חיבור מודולריות לשלוקר,0,0.0,0.0,0.0
 8018938855709_שחור,8018938855709,שחור,0.0,0.0,51.9,k-series-hydration-attach-straps,רצועות חיבור מודולריות לשלוקר,0,0.0,0.0,0.0
@@ -98,7 +98,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8018940756253_S / הסוואה,8018940756253,S / הסוואה,3.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,121,507.0,20449.0,0.0
 8018940756253_S / שחור,8018940756253,S / שחור,5.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,111,845.0,18759.0,0.0
 8018940756253_XL / הסוואה,8018940756253,XL / הסוואה,107.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,96,18083.0,16224.0,0.0
-8018940756253_XL / שחור,8018940756253,XL / שחור,1.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,231,169.0,39039.0,0.0
+8018940756253_XL / שחור,8018940756253,XL / שחור,2.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,230,338.0,38870.0,0.0
 8018940756253_XS / הסוואה,8018940756253,XS / הסוואה,4.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,46,676.0,7774.0,0.0
 8018940756253_XS / שחור,8018940756253,XS / שחור,3.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,35,507.0,5915.0,0.0
 8018940756253_XXL / הסוואה,8018940756253,XXL / הסוואה,0.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,22,0.0,3718.0,0.0
@@ -171,7 +171,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8091315896605_שחור,8091315896605,שחור,4.0,0.0,229.0,pincer-2nd-layer-admin-pouch,  פאוץ' קדמי לפונדת סקוטש קשיחה,0,916.0,0.0,0.0
 8091315994909_ירוק ריינג'ר,8091315994909,ירוק ריינג'ר,83.0,403.0,139.9,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,389,11611.7,54421.100000000006,0.0
 8091315994909_מולטיקם,8091315994909,מולטיקם,0.0,0.0,139.9,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,0,0.0,0.0,0.0
-8091315994909_שחור,8091315994909,שחור,20.0,0.0,139.9,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,93,2798.0,13010.7,0.0
+8091315994909_שחור,8091315994909,שחור,22.0,0.0,139.9,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,91,3077.8,12730.9,0.0
 8192262799645_חום,8192262799645,חום,0.0,0.0,49.9,quick-release-cummerbund-buckle,2M ROC - מערכת ניתוק מהיר,0,0.0,0.0,0.0
 8192262799645_שחור,8192262799645,שחור,64.0,248.0,49.9,quick-release-cummerbund-buckle,2M ROC - מערכת ניתוק מהיר,407,3193.6,20309.3,0.0
 8192287113501_Default Title,8192287113501,Default Title,0.0,0.0,0.0,t-e-k-zero-patch,T&E K-Zero Patch,0,0.0,0.0,0.0
@@ -206,7 +206,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8625010934045_מולטיקם שחור,8625010934045,מולטיקם שחור,0.0,0.0,149.9,agilite-multicam-trucker-hat,כובע רשת עקרב,-1,0.0,0.0,-149.9
 8647001571613_Default Title,8647001571613,Default Title,0.0,0.0,0.0,t-e-testing-team-2-patch,T&E Testing Team 2 Patch,0,0.0,0.0,0.0
 8647001669917_Default Title,8647001669917,Default Title,0.0,0.0,0.0,t-e-testing-team-5-patch,T&E Testing Team 5 Patch,0,0.0,0.0,0.0
-8686706589981_ירוק ריינג'ר,8686706589981,ירוק ריינג'ר,289.0,125.0,599.0,micro-map,Micro MAP™ - תיק תקיפה זעיר,61,173111.0,36539.0,0.0
+8686706589981_ירוק ריינג'ר,8686706589981,ירוק ריינג'ר,290.0,125.0,599.0,micro-map,Micro MAP™ - תיק תקיפה זעיר,60,173710.0,35940.0,0.0
 8686706589981_מולטיקם,8686706589981,מולטיקם,0.0,0.0,639.0,micro-map,Micro MAP™ - תיק תקיפה זעיר,0,0.0,0.0,0.0
 8686706589981_שחור,8686706589981,שחור,3.0,0.0,599.0,micro-map,Micro MAP™ - תיק תקיפה זעיר,153,1797.0,91647.0,0.0
 8791581917469_Default Title,8791581917469,Default Title,46.0,0.0,213.1,agilite-sapi-hydration-bladder,אג'ילייט SAPI שלוקר,131,9802.6,27916.1,0.0
@@ -215,7 +215,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8804518002973_תכלת,8804518002973,תכלת,0.0,0.0,159.0,scorpion-beanie,כובע גרב עקרב,-4,0.0,0.0,-636.0
 8804518134045_Grey,8804518134045,Grey,0.0,0.0,159.0,agilite-beanie,כובע גרב אג'ילייט,0,0.0,0.0,0.0
 8804518134045_Navy,8804518134045,Navy,0.0,0.0,159.0,agilite-beanie,כובע גרב אג'ילייט,7,0.0,1113.0,0.0
-8878453915933_Default Title,8878453915933,Default Title,2.0,0.0,439.0,crossbow-one-black-with-smoke-gray-clear,Crossbow - משקפי מגן של ,148,878.0,64972.0,0.0
+8878453915933_Default Title,8878453915933,Default Title,3.0,0.0,439.0,crossbow-one-black-with-smoke-gray-clear,Crossbow - משקפי מגן של ,147,1317.0,64533.0,0.0
 8878512570653_Default Title,8878512570653,Default Title,0.0,0.0,1949.0,level-iii-ceramic-armor-plate,HESCO®3810 +3 פלטה קרמית רמה,0,0.0,0.0,0.0
 8950596469021_Default Title,8950596469021,Default Title,12.0,2.0,1590.0,hesco-3110-level-iii-side-plate,'+פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III+ ,403,19080.0,640770.0,0.0
 9001923838237_ירוק ריינג'ר / אקסטרה לארג',9001923838237,ירוק ריינג'ר / אקסטרה לארג',3.0,0.0,769.0,magnetix-battle-belt,Magnetix™ - חגורת קרב ,78,2307.0,59982.0,0.0
@@ -294,7 +294,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 9794227274013_שחור / לארג',9794227274013,שחור / לארג',5.0,0.0,650.0,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,36,3250.0,23400.0,0.0
 9794227274013_שחור / מדיום,9794227274013,שחור / מדיום,4.0,47.0,650.0,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,53,2600.0,34450.0,0.0
 9794227274013_שחור / סמול,9794227274013,שחור / סמול,1.0,0.0,650.0,magnetix™-battle-belt-בהנחת-טלגרם,Magnetix™ - חגורת קרב ,35,650.0,22750.0,0.0
-9835354980637_ירוק ריינג'ר,9835354980637,ירוק ריינג'ר,193.0,151.0,287.18,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,173,55425.74,49682.14,0.0
+9835354980637_ירוק ריינג'ר,9835354980637,ירוק ריינג'ר,194.0,151.0,287.18,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,172,55712.92,49394.96,0.0
 9835354980637_מולטיקם,9835354980637,מולטיקם,0.0,0.0,309.3,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,0,0.0,0.0,0.0
 9835354980637_שחור,9835354980637,שחור,6.0,0.0,287.18,battleshell-phone-pouch,פאוץ' Battleshell™ אוניברסלי למערכת שליטה וטלפונים ,9,1723.08,2584.62,0.0
 9842351505693_ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,9842351505693,ירוק ריינג'ר / ירוק ריינג'ר / ירוק ריינג'ר,44.0,12.0,806.8,pincer-placard-loadout,חבילת פונדת מחסניות ™Pincer מזוודת,2,35499.2,1613.6,0.0
@@ -411,11 +411,11 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 9863902200093_שחור / שחור / מדיום,9863902200093,שחור / שחור / מדיום,1.0,0.0,783.0,קרמון-התערבות-™sub-zero-פאץ-כיתת-כוננות-משטרתית,קרמון התערבות ™Sub Zero + פאץ' כיתת כוננות משטרתית,9,783.0,7047.0,0.0
 9873849123101_Black,9873849123101,Black,5.0,124.0,218.0,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,119,1090.0,25942.0,0.0
 9873849123101_Multicam,9873849123101,Multicam,0.0,0.0,54.9,mag-release-dump-pouch,Mag-Release Dump Pouch™,0,0.0,0.0,0.0
-9873849123101_Ranger Green,9873849123101,Ranger Green,26.0,289.0,218.0,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,263,5668.0,57334.0,0.0
+9873849123101_Ranger Green,9873849123101,Ranger Green,33.0,289.0,218.0,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,256,7194.0,55808.0,0.0
 9875926548765_Black,9875926548765,Black,1.0,1.0,287.18,wide-admin-pouch,Wide Admin Pouch,0,287.18,0.0,0.0
 9875926548765_Multicam,9875926548765,Multicam,0.0,0.0,309.3,wide-admin-pouch,Wide Admin Pouch,0,0.0,0.0,0.0
 9875926548765_Ranger Green,9875926548765,Ranger Green,8.0,499.0,287.18,wide-admin-pouch,Wide Admin Pouch,491,2297.44,141005.38,0.0
-9895767310621_Default Title,9895767310621,Default Title,204.0,5.0,0.0,testingteam-il,Testing Team Israel Patch,301,0.0,0.0,0.0
+9895767310621_Default Title,9895767310621,Default Title,205.0,5.0,0.0,testingteam-il,Testing Team Israel Patch,300,0.0,0.0,0.0
 9902499168541_Default Title,9902499168541,Default Title,0.0,138.0,267.93,md2-compact-trauma-kit-contents-for-lending,"ציוד רפואי לער""ד",150,0.0,40189.5,0.0
 9902499496221_ירוק ריינג'ר,9902499496221,ירוק ריינג'ר,162.0,0.0,282.47,ערד-ערכת-רפואה-דחופה-1,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",150,45760.14000000001,42370.50000000001,0.0
 9902499496221_מולטיקם,9902499496221,מולטיקם,0.0,0.0,282.47,ערד-ערכת-רפואה-דחופה-1,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",0,0.0,0.0,0.0
