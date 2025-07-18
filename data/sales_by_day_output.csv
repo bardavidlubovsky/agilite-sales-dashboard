@@ -55,7 +55,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018935152925_שחור,8018935152925,שחור,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,True,True,Thursday,0.0,Weekday
 8018935152925_שחור,8018935152925,שחור,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,True,True,Tuesday,0.0,Weekday
 8018935152925_שחור,8018935152925,שחור,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,True,True,Wednesday,0.0,Weekday
-8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Friday,7.0,Weekday
+8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Friday,8.0,Weekday
 8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Monday,4.0,Weekday
 8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Saturday,4.0,Weekday
 8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Sunday,14.0,Weekday
@@ -1875,7 +1875,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9716337541405_שחור,9716337541405,שחור,reaper-chest-rig,"מל""מ (מערכת לחימה מנימליסטית)",True,True,Thursday,0.0,Weekday
 9716337541405_שחור,9716337541405,שחור,reaper-chest-rig,"מל""מ (מערכת לחימה מנימליסטית)",True,True,Tuesday,0.0,Weekday
 9716337541405_שחור,9716337541405,שחור,reaper-chest-rig,"מל""מ (מערכת לחימה מנימליסטית)",True,True,Wednesday,1.0,Weekday
-9721787679005_ירוק ריינג'ר,9721787679005,ירוק ריינג'ר,modular-elastic-cummerbund,חובק קרמון אלסטי,True,True,Friday,0.0,Weekday
+9721787679005_ירוק ריינג'ר,9721787679005,ירוק ריינג'ר,modular-elastic-cummerbund,חובק קרמון אלסטי,True,True,Friday,1.0,Weekday
 9721787679005_ירוק ריינג'ר,9721787679005,ירוק ריינג'ר,modular-elastic-cummerbund,חובק קרמון אלסטי,True,True,Monday,0.0,Weekday
 9721787679005_ירוק ריינג'ר,9721787679005,ירוק ריינג'ר,modular-elastic-cummerbund,חובק קרמון אלסטי,True,True,Saturday,0.0,Weekday
 9721787679005_ירוק ריינג'ר,9721787679005,ירוק ריינג'ר,modular-elastic-cummerbund,חובק קרמון אלסטי,True,True,Sunday,2.0,Weekday
@@ -2869,9 +2869,11 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9863902200093_שחור / שחור / מדיום,9863902200093,שחור / שחור / מדיום,קרמון-התערבות-™sub-zero-פאץ-כיתת-כוננות-משטרתית,קרמון התערבות ™Sub Zero + פאץ' כיתת כוננות משטרתית,True,True,Thursday,0.0,Weekday
 9863902200093_שחור / שחור / מדיום,9863902200093,שחור / שחור / מדיום,קרמון-התערבות-™sub-zero-פאץ-כיתת-כוננות-משטרתית,קרמון התערבות ™Sub Zero + פאץ' כיתת כוננות משטרתית,True,True,Tuesday,0.0,Weekday
 9863902200093_שחור / שחור / מדיום,9863902200093,שחור / שחור / מדיום,קרמון-התערבות-™sub-zero-פאץ-כיתת-כוננות-משטרתית,קרמון התערבות ™Sub Zero + פאץ' כיתת כוננות משטרתית,True,True,Wednesday,0.0,Weekday
+9873849123101_Black,9873849123101,Black,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,True,True,Friday,0.0,Weekday
 9873849123101_Black,9873849123101,Black,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,True,True,Thursday,0.0,Weekday
 9873849123101_Black,9873849123101,Black,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,True,True,Wednesday,0.0,Weekday
 9873849123101_Multicam,9873849123101,Multicam,mag-release-dump-pouch,Mag-Release Dump Pouch™,False,False,Wednesday,0.0,Weekday
+9873849123101_Ranger Green,9873849123101,Ranger Green,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,True,True,Friday,2.0,Weekday
 9873849123101_Ranger Green,9873849123101,Ranger Green,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,True,True,Thursday,0.0,Weekday
 9873849123101_Ranger Green,9873849123101,Ranger Green,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,True,True,Wednesday,0.0,Weekday
 9875926548765_Black,9875926548765,Black,wide-admin-pouch,Wide Admin Pouch,True,False,Friday,0.0,Weekday
@@ -2902,24 +2904,34 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9895767310621_Default Title,9895767310621,Default Title,testingteam-il,Testing Team Israel Patch,True,True,Thursday,53.0,Weekday
 9895767310621_Default Title,9895767310621,Default Title,testingteam-il,Testing Team Israel Patch,True,True,Tuesday,5.0,Weekday
 9895767310621_Default Title,9895767310621,Default Title,testingteam-il,Testing Team Israel Patch,True,True,Wednesday,18.0,Weekday
+9902499168541_Default Title,9902499168541,Default Title,md2-compact-trauma-kit-contents-for-lending,"ציוד רפואי לער""ד",True,True,Friday,0.0,Weekday
 9902499168541_Default Title,9902499168541,Default Title,md2-compact-trauma-kit-contents-for-lending,"ציוד רפואי לער""ד",True,True,Thursday,0.0,Weekday
 9902499168541_Default Title,9902499168541,Default Title,md2-compact-trauma-kit-contents-for-lending,"ציוד רפואי לער""ד",True,True,Wednesday,0.0,Weekday
+9902499496221_ירוק ריינג'ר,9902499496221,ירוק ריינג'ר,ערד-ערכת-רפואה-דחופה-1,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,Friday,0.0,Weekday
 9902499496221_ירוק ריינג'ר,9902499496221,ירוק ריינג'ר,ערד-ערכת-רפואה-דחופה-1,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,Thursday,0.0,Weekday
 9902499496221_ירוק ריינג'ר,9902499496221,ירוק ריינג'ר,ערד-ערכת-רפואה-דחופה-1,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,Wednesday,0.0,Weekday
+9902499496221_מולטיקם,9902499496221,מולטיקם,ערד-ערכת-רפואה-דחופה-1,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,False,Friday,0.0,Weekday
 9902499496221_מולטיקם,9902499496221,מולטיקם,ערד-ערכת-רפואה-דחופה-1,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,False,Thursday,0.0,Weekday
 9902499496221_מולטיקם,9902499496221,מולטיקם,ערד-ערכת-רפואה-דחופה-1,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,False,Wednesday,0.0,Weekday
+9902499496221_שחור,9902499496221,שחור,ערד-ערכת-רפואה-דחופה-1,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,Friday,0.0,Weekday
 9902499496221_שחור,9902499496221,שחור,ערד-ערכת-רפואה-דחופה-1,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,Thursday,0.0,Weekday
 9902499496221_שחור,9902499496221,שחור,ערד-ערכת-רפואה-דחופה-1,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,Wednesday,0.0,Weekday
+9902499954973_ירוק ריינג'ר,9902499954973,ירוק ריינג'ר,flank™-side-plate-carriers-for-lending,Flank™ -  פאוץ' פלטות מיגון צדדיות,True,True,Friday,0.0,Weekday
 9902499954973_ירוק ריינג'ר,9902499954973,ירוק ריינג'ר,flank™-side-plate-carriers-for-lending,Flank™ -  פאוץ' פלטות מיגון צדדיות,True,True,Thursday,2.0,Weekday
 9902499954973_ירוק ריינג'ר,9902499954973,ירוק ריינג'ר,flank™-side-plate-carriers-for-lending,Flank™ -  פאוץ' פלטות מיגון צדדיות,True,True,Wednesday,0.0,Weekday
+9902499954973_מולטיקם,9902499954973,מולטיקם,flank™-side-plate-carriers-for-lending,Flank™ -  פאוץ' פלטות מיגון צדדיות,True,False,Friday,0.0,Weekday
 9902499954973_מולטיקם,9902499954973,מולטיקם,flank™-side-plate-carriers-for-lending,Flank™ -  פאוץ' פלטות מיגון צדדיות,True,False,Thursday,0.0,Weekday
 9902499954973_מולטיקם,9902499954973,מולטיקם,flank™-side-plate-carriers-for-lending,Flank™ -  פאוץ' פלטות מיגון צדדיות,True,False,Wednesday,0.0,Weekday
+9902499954973_שחור,9902499954973,שחור,flank™-side-plate-carriers-for-lending,Flank™ -  פאוץ' פלטות מיגון צדדיות,True,True,Friday,0.0,Weekday
 9902499954973_שחור,9902499954973,שחור,flank™-side-plate-carriers-for-lending,Flank™ -  פאוץ' פלטות מיגון צדדיות,True,True,Thursday,0.0,Weekday
 9902499954973_שחור,9902499954973,שחור,flank™-side-plate-carriers-for-lending,Flank™ -  פאוץ' פלטות מיגון צדדיות,True,True,Wednesday,0.0,Weekday
+9902500053277_Default Title,9902500053277,Default Title,hesco-3110-level-iii-side-plates-for-lending,'+פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III+ ,True,True,Friday,0.0,Weekday
 9902500053277_Default Title,9902500053277,Default Title,hesco-3110-level-iii-side-plates-for-lending,'+פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III+ ,True,True,Thursday,3.0,Weekday
 9902500053277_Default Title,9902500053277,Default Title,hesco-3110-level-iii-side-plates-for-lending,'+פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III+ ,True,True,Wednesday,0.0,Weekday
+9902511227165_Black,9902511227165,Black,חבילת-פאוץ-flank™-פלטות-מיגון-צדדיות-פלטות-צד-קרמיות-רמה-שלוש-hesco-3110,חבילת פאוץ' Flank™ פלטות מיגון צדדיות + פלטות צד קרמיות רמה שלוש - HESCO 3110,True,True,Friday,0.0,Weekday
 9902511227165_Black,9902511227165,Black,חבילת-פאוץ-flank™-פלטות-מיגון-צדדיות-פלטות-צד-קרמיות-רמה-שלוש-hesco-3110,חבילת פאוץ' Flank™ פלטות מיגון צדדיות + פלטות צד קרמיות רמה שלוש - HESCO 3110,True,True,Thursday,0.0,Weekday
 9902511227165_Black,9902511227165,Black,חבילת-פאוץ-flank™-פלטות-מיגון-צדדיות-פלטות-צד-קרמיות-רמה-שלוש-hesco-3110,חבילת פאוץ' Flank™ פלטות מיגון צדדיות + פלטות צד קרמיות רמה שלוש - HESCO 3110,True,True,Wednesday,0.0,Weekday
+9902511227165_Ranger Green,9902511227165,Ranger Green,חבילת-פאוץ-flank™-פלטות-מיגון-צדדיות-פלטות-צד-קרמיות-רמה-שלוש-hesco-3110,חבילת פאוץ' Flank™ פלטות מיגון צדדיות + פלטות צד קרמיות רמה שלוש - HESCO 3110,True,True,Friday,0.0,Weekday
 9902511227165_Ranger Green,9902511227165,Ranger Green,חבילת-פאוץ-flank™-פלטות-מיגון-צדדיות-פלטות-צד-קרמיות-רמה-שלוש-hesco-3110,חבילת פאוץ' Flank™ פלטות מיגון צדדיות + פלטות צד קרמיות רמה שלוש - HESCO 3110,True,True,Thursday,3.0,Weekday
 9902511227165_Ranger Green,9902511227165,Ranger Green,חבילת-פאוץ-flank™-פלטות-מיגון-צדדיות-פלטות-צד-קרמיות-רמה-שלוש-hesco-3110,חבילת פאוץ' Flank™ פלטות מיגון צדדיות + פלטות צד קרמיות רמה שלוש - HESCO 3110,True,True,Wednesday,0.0,Weekday
 9902514700573_Black,9902514700573,Black,ציוד-רפואי-לערד-ערד-ללוחם-ערכת-רפואה-דחופה-™md2,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2 עם ציוד רפואי לער""ד",True,True,Thursday,0.0,Weekday
@@ -2944,7 +2956,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018935152925_ירוק ריינג'ר,8018935152925,ירוק ריינג'ר,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,True,True,June,1.0,Month
 8018935152925_שחור,8018935152925,שחור,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,True,True,July,0.0,Month
 8018935152925_שחור,8018935152925,שחור,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,True,True,June,0.0,Month
-8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,July,69.0,Month
+8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,July,70.0,Month
 8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,June,5.0,Month
 8018935283997_מולטיקם,8018935283997,מולטיקם,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,False,July,0.0,Month
 8018935283997_מולטיקם,8018935283997,מולטיקם,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,False,June,0.0,Month
@@ -3464,7 +3476,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9716337541405_מולטיקם,9716337541405,מולטיקם,reaper-chest-rig,"מל""מ (מערכת לחימה מנימליסטית)",True,False,June,0.0,Month
 9716337541405_שחור,9716337541405,שחור,reaper-chest-rig,"מל""מ (מערכת לחימה מנימליסטית)",True,True,July,0.0,Month
 9716337541405_שחור,9716337541405,שחור,reaper-chest-rig,"מל""מ (מערכת לחימה מנימליסטית)",True,True,June,1.0,Month
-9721787679005_ירוק ריינג'ר,9721787679005,ירוק ריינג'ר,modular-elastic-cummerbund,חובק קרמון אלסטי,True,True,July,2.0,Month
+9721787679005_ירוק ריינג'ר,9721787679005,ירוק ריינג'ר,modular-elastic-cummerbund,חובק קרמון אלסטי,True,True,July,3.0,Month
 9721787679005_ירוק ריינג'ר,9721787679005,ירוק ריינג'ר,modular-elastic-cummerbund,חובק קרמון אלסטי,True,True,June,3.0,Month
 9721787679005_מולטיקם,9721787679005,מולטיקם,modular-elastic-cummerbund,חובק קרמון אלסטי,True,False,July,0.0,Month
 9721787679005_מולטיקם,9721787679005,מולטיקם,modular-elastic-cummerbund,חובק קרמון אלסטי,True,False,June,0.0,Month
@@ -3750,7 +3762,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9863902200093_שחור / שחור / מדיום,9863902200093,שחור / שחור / מדיום,קרמון-התערבות-™sub-zero-פאץ-כיתת-כוננות-משטרתית,קרמון התערבות ™Sub Zero + פאץ' כיתת כוננות משטרתית,True,True,June,0.0,Month
 9873849123101_Black,9873849123101,Black,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,True,True,July,0.0,Month
 9873849123101_Multicam,9873849123101,Multicam,mag-release-dump-pouch,Mag-Release Dump Pouch™,False,False,July,0.0,Month
-9873849123101_Ranger Green,9873849123101,Ranger Green,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,True,True,July,0.0,Month
+9873849123101_Ranger Green,9873849123101,Ranger Green,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,True,True,July,2.0,Month
 9875926548765_Black,9875926548765,Black,wide-admin-pouch,Wide Admin Pouch,True,False,July,0.0,Month
 9875926548765_Black,9875926548765,Black,wide-admin-pouch,Wide Admin Pouch,True,False,June,0.0,Month
 9875926548765_Multicam,9875926548765,Multicam,wide-admin-pouch,Wide Admin Pouch,True,False,July,0.0,Month
