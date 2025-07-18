@@ -31,7 +31,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8018936529181_מולטיקם,8018936529181,מולטיקם,0.0,0.0,106.0,ag1-5-56-single-mag-pouch,AG1™ - פונדת מחסנית מודולרית,0,0.0,0.0,0.0
 8018936529181_מולטיקם שחור,8018936529181,מולטיקם שחור,0.0,0.0,119.0,ag1-5-56-single-mag-pouch,AG1™ - פונדת מחסנית מודולרית,-1,0.0,0.0,-119.0
 8018936529181_שחור,8018936529181,שחור,0.0,0.0,106.0,ag1-5-56-single-mag-pouch,AG1™ - פונדת מחסנית מודולרית,126,0.0,13356.0,0.0
-8018936594717_ירוק ריינג'ר,8018936594717,ירוק ריינג'ר,21.0,0.0,229.0,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,441,4809.0,100989.0,0.0
+8018936594717_ירוק ריינג'ר,8018936594717,ירוק ריינג'ר,22.0,0.0,229.0,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,440,5038.0,100760.0,0.0
 8018936594717_מולטיקם,8018936594717,מולטיקם,0.0,0.0,234.0,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,0,0.0,0.0,0.0
 8018936594717_מולטיקם שחור,8018936594717,מולטיקם שחור,0.0,0.0,234.0,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,0,0.0,0.0,0.0
 8018936594717_שחור,8018936594717,שחור,2.0,0.0,229.0,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,40,458.0,9160.0,0.0
@@ -48,7 +48,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8018937610525_Multicam,8018937610525,Multicam,0.0,0.0,139.9,hook-backed-edc-organizer-panel-up,פאנל ארגון טקטי ,0,0.0,0.0,0.0
 8018937610525_Ranger Green,8018937610525,Ranger Green,6.0,0.0,139.9,hook-backed-edc-organizer-panel-up,פאנל ארגון טקטי ,121,839.4000000000001,16927.9,0.0
 8018937872669_חום,8018937872669,חום,0.0,0.0,149.0,sf-balaclava-black,מסכת פנים,0,0.0,0.0,0.0
-8018937872669_ירוק ריינג'ר,8018937872669,ירוק ריינג'ר,19.0,845.0,149.0,sf-balaclava-black,מסכת פנים,936,2831.0,139464.0,0.0
+8018937872669_ירוק ריינג'ר,8018937872669,ירוק ריינג'ר,21.0,845.0,149.0,sf-balaclava-black,מסכת פנים,934,3129.0,139166.0,0.0
 8018937872669_שחור,8018937872669,שחור,173.0,0.0,149.0,sf-balaclava-black,מסכת פנים,318,25777.0,47382.0,0.0
 8018937970973_Default Title,8018937970973,Default Title,1.0,0.0,209.0,mitznefet-multicam,מצנפת אג'ילייט מנומרת,243,209.0,50787.0,0.0
 8018938298653_Black,8018938298653,Black,0.0,0.0,23.9,agilite-logo-patches,פאצ'ים לוגו אג'ילייט,0,0.0,0.0,0.0
@@ -97,7 +97,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8018940756253_M / שחור,8018940756253,M / שחור,6.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,0,1014.0,0.0,0.0
 8018940756253_S / הסוואה,8018940756253,S / הסוואה,3.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,121,507.0,20449.0,0.0
 8018940756253_S / שחור,8018940756253,S / שחור,5.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,111,845.0,18759.0,0.0
-8018940756253_XL / הסוואה,8018940756253,XL / הסוואה,107.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,96,18083.0,16224.0,0.0
+8018940756253_XL / הסוואה,8018940756253,XL / הסוואה,108.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,95,18252.0,16055.0,0.0
 8018940756253_XL / שחור,8018940756253,XL / שחור,2.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,230,338.0,38870.0,0.0
 8018940756253_XS / הסוואה,8018940756253,XS / הסוואה,4.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,46,676.0,7774.0,0.0
 8018940756253_XS / שחור,8018940756253,XS / שחור,3.0,0.0,169.0,mechanix-m-pact-agilite-edition,Mechanix M-PACT® Agilite Edition - כפפות טקטיות,35,507.0,5915.0,0.0
@@ -173,7 +173,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8091315994909_מולטיקם,8091315994909,מולטיקם,0.0,0.0,139.9,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,0,0.0,0.0,0.0
 8091315994909_שחור,8091315994909,שחור,22.0,0.0,139.9,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,91,3077.8,12730.9,0.0
 8192262799645_חום,8192262799645,חום,0.0,0.0,49.9,quick-release-cummerbund-buckle,2M ROC - מערכת ניתוק מהיר,0,0.0,0.0,0.0
-8192262799645_שחור,8192262799645,שחור,67.0,248.0,49.9,quick-release-cummerbund-buckle,2M ROC - מערכת ניתוק מהיר,404,3343.2999999999997,20159.6,0.0
+8192262799645_שחור,8192262799645,שחור,68.0,248.0,49.9,quick-release-cummerbund-buckle,2M ROC - מערכת ניתוק מהיר,403,3393.2,20109.7,0.0
 8192287113501_Default Title,8192287113501,Default Title,0.0,0.0,0.0,t-e-k-zero-patch,T&E K-Zero Patch,0,0.0,0.0,0.0
 8192287146269_Default Title,8192287146269,Default Title,0.0,0.0,0.0,t-e-testing-team-green-patch,T&E Testing Team Green Patch,0,0.0,0.0,0.0
 8192287179037_Default Title,8192287179037,Default Title,0.0,0.0,0.0,t-e-testing-team-brown-patch,T&E Testing Team Brown Patch,0,0.0,0.0,0.0
@@ -411,7 +411,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 9863902200093_שחור / שחור / מדיום,9863902200093,שחור / שחור / מדיום,1.0,0.0,783.0,קרמון-התערבות-™sub-zero-פאץ-כיתת-כוננות-משטרתית,קרמון התערבות ™Sub Zero + פאץ' כיתת כוננות משטרתית,9,783.0,7047.0,0.0
 9873849123101_Black,9873849123101,Black,7.0,124.0,218.0,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,117,1526.0,25506.0,0.0
 9873849123101_Multicam,9873849123101,Multicam,0.0,0.0,54.9,mag-release-dump-pouch,Mag-Release Dump Pouch™,0,0.0,0.0,0.0
-9873849123101_Ranger Green,9873849123101,Ranger Green,49.0,289.0,218.0,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,240,10682.0,52320.0,0.0
+9873849123101_Ranger Green,9873849123101,Ranger Green,54.0,289.0,218.0,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,235,11772.0,51230.0,0.0
 9875926548765_Black,9875926548765,Black,1.0,1.0,287.18,wide-admin-pouch,Wide Admin Pouch,0,287.18,0.0,0.0
 9875926548765_Multicam,9875926548765,Multicam,0.0,0.0,309.3,wide-admin-pouch,Wide Admin Pouch,0,0.0,0.0,0.0
 9875926548765_Ranger Green,9875926548765,Ranger Green,8.0,499.0,287.18,wide-admin-pouch,Wide Admin Pouch,491,2297.44,141005.38,0.0
