@@ -135,7 +135,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8018941935901_Coyote Tan / SX,8018941935901,Coyote Tan / SX,0.0,0.0,22.9,replacement-buckle-k19-40mm-shoulder-strap-not-for-sale,Replacement Buckle K19 40mm - Shoulder Strap,0,0.0,0.0,0.0
 8018942034205_אפור,8018942034205,אפור,0.0,0.0,679.0,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,0,0.0,0.0,0.0
 8018942034205_חום,8018942034205,חום,0.0,0.0,679.0,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,0,0.0,0.0,0.0
-8018942034205_ירוק ריינג'ר,8018942034205,ירוק ריינג'ר,24.0,15.0,695.0,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,97,16680.0,67415.0,0.0
+8018942034205_ירוק ריינג'ר,8018942034205,ירוק ריינג'ר,25.0,15.0,695.0,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,96,17375.0,66720.0,0.0
 8018942034205_מולטיקם,8018942034205,מולטיקם,0.0,0.0,679.0,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,0,0.0,0.0,0.0
 8018942034205_מולטיקם שחור,8018942034205,מולטיקם שחור,0.0,0.0,745.0,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,0,0.0,0.0,0.0
 8018942034205_שחור,8018942034205,שחור,2.0,0.0,695.0,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,71,1390.0,49345.0,0.0
@@ -173,7 +173,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8091315994909_מולטיקם,8091315994909,מולטיקם,0.0,0.0,139.9,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,0,0.0,0.0,0.0
 8091315994909_שחור,8091315994909,שחור,22.0,0.0,139.9,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,91,3077.8,12730.9,0.0
 8192262799645_חום,8192262799645,חום,0.0,0.0,49.9,quick-release-cummerbund-buckle,2M ROC - מערכת ניתוק מהיר,0,0.0,0.0,0.0
-8192262799645_שחור,8192262799645,שחור,71.0,248.0,49.9,quick-release-cummerbund-buckle,2M ROC - מערכת ניתוק מהיר,400,3542.9,19960.0,0.0
+8192262799645_שחור,8192262799645,שחור,72.0,248.0,49.9,quick-release-cummerbund-buckle,2M ROC - מערכת ניתוק מהיר,399,3592.7999999999997,19910.1,0.0
 8192287113501_Default Title,8192287113501,Default Title,0.0,0.0,0.0,t-e-k-zero-patch,T&E K-Zero Patch,0,0.0,0.0,0.0
 8192287146269_Default Title,8192287146269,Default Title,0.0,0.0,0.0,t-e-testing-team-green-patch,T&E Testing Team Green Patch,0,0.0,0.0,0.0
 8192287179037_Default Title,8192287179037,Default Title,0.0,0.0,0.0,t-e-testing-team-brown-patch,T&E Testing Team Brown Patch,0,0.0,0.0,0.0
@@ -411,7 +411,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 9863902200093_שחור / שחור / מדיום,9863902200093,שחור / שחור / מדיום,1.0,0.0,783.0,קרמון-התערבות-™sub-zero-פאץ-כיתת-כוננות-משטרתית,קרמון התערבות ™Sub Zero + פאץ' כיתת כוננות משטרתית,9,783.0,7047.0,0.0
 9873849123101_Black,9873849123101,Black,8.0,124.0,218.0,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,116,1744.0,25288.0,0.0
 9873849123101_Multicam,9873849123101,Multicam,0.0,0.0,54.9,mag-release-dump-pouch,Mag-Release Dump Pouch™,0,0.0,0.0,0.0
-9873849123101_Ranger Green,9873849123101,Ranger Green,68.0,289.0,218.0,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,221,14824.0,48178.0,0.0
+9873849123101_Ranger Green,9873849123101,Ranger Green,69.0,289.0,218.0,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,220,15042.0,47960.0,0.0
 9875926548765_Black,9875926548765,Black,1.0,1.0,287.18,wide-admin-pouch,Wide Admin Pouch,0,287.18,0.0,0.0
 9875926548765_Multicam,9875926548765,Multicam,0.0,0.0,309.3,wide-admin-pouch,Wide Admin Pouch,0,0.0,0.0,0.0
 9875926548765_Ranger Green,9875926548765,Ranger Green,8.0,499.0,287.18,wide-admin-pouch,Wide Admin Pouch,491,2297.44,141005.38,0.0
