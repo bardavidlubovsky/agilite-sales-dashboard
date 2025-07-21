@@ -1512,7 +1512,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8804518134045_Navy,8804518134045,Navy,agilite-beanie,כובע גרב אג'ילייט,True,True,Tuesday,0.0,Weekday
 8804518134045_Navy,8804518134045,Navy,agilite-beanie,כובע גרב אג'ילייט,True,True,Wednesday,0.0,Weekday
 8878453915933_Default Title,8878453915933,Default Title,crossbow-one-black-with-smoke-gray-clear,Crossbow - משקפי מגן של ,True,True,Friday,0.0,Weekday
-8878453915933_Default Title,8878453915933,Default Title,crossbow-one-black-with-smoke-gray-clear,Crossbow - משקפי מגן של ,True,True,Monday,1.0,Weekday
+8878453915933_Default Title,8878453915933,Default Title,crossbow-one-black-with-smoke-gray-clear,Crossbow - משקפי מגן של ,True,True,Monday,2.0,Weekday
 8878453915933_Default Title,8878453915933,Default Title,crossbow-one-black-with-smoke-gray-clear,Crossbow - משקפי מגן של ,True,True,Saturday,0.0,Weekday
 8878453915933_Default Title,8878453915933,Default Title,crossbow-one-black-with-smoke-gray-clear,Crossbow - משקפי מגן של ,True,True,Sunday,0.0,Weekday
 8878453915933_Default Title,8878453915933,Default Title,crossbow-one-black-with-smoke-gray-clear,Crossbow - משקפי מגן של ,True,True,Thursday,2.0,Weekday
@@ -3420,7 +3420,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8804518134045_Grey,8804518134045,Grey,agilite-beanie,כובע גרב אג'ילייט,True,True,June,0.0,Month
 8804518134045_Navy,8804518134045,Navy,agilite-beanie,כובע גרב אג'ילייט,True,True,July,0.0,Month
 8804518134045_Navy,8804518134045,Navy,agilite-beanie,כובע גרב אג'ילייט,True,True,June,0.0,Month
-8878453915933_Default Title,8878453915933,Default Title,crossbow-one-black-with-smoke-gray-clear,Crossbow - משקפי מגן של ,True,True,July,3.0,Month
+8878453915933_Default Title,8878453915933,Default Title,crossbow-one-black-with-smoke-gray-clear,Crossbow - משקפי מגן של ,True,True,July,4.0,Month
 8878453915933_Default Title,8878453915933,Default Title,crossbow-one-black-with-smoke-gray-clear,Crossbow - משקפי מגן של ,True,True,June,0.0,Month
 8878512570653_Default Title,8878512570653,Default Title,level-iii-ceramic-armor-plate,HESCO®3810 +3 פלטה קרמית רמה,False,False,July,0.0,Month
 8878512570653_Default Title,8878512570653,Default Title,level-iii-ceramic-armor-plate,HESCO®3810 +3 פלטה קרמית רמה,False,False,June,0.0,Month
