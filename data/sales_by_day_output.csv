@@ -56,7 +56,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018935152925_שחור,8018935152925,שחור,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,True,True,Tuesday,0.0,Weekday
 8018935152925_שחור,8018935152925,שחור,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,True,True,Wednesday,0.0,Weekday
 8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Friday,10.0,Weekday
-8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Monday,5.0,Weekday
+8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Monday,6.0,Weekday
 8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Saturday,12.0,Weekday
 8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Sunday,21.0,Weekday
 8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,Thursday,18.0,Weekday
@@ -343,7 +343,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018937872669_חום,8018937872669,חום,sf-balaclava-black,מסכת פנים,True,False,Tuesday,0.0,Weekday
 8018937872669_חום,8018937872669,חום,sf-balaclava-black,מסכת פנים,True,False,Wednesday,0.0,Weekday
 8018937872669_ירוק ריינג'ר,8018937872669,ירוק ריינג'ר,sf-balaclava-black,מסכת פנים,True,True,Friday,2.0,Weekday
-8018937872669_ירוק ריינג'ר,8018937872669,ירוק ריינג'ר,sf-balaclava-black,מסכת פנים,True,True,Monday,4.0,Weekday
+8018937872669_ירוק ריינג'ר,8018937872669,ירוק ריינג'ר,sf-balaclava-black,מסכת פנים,True,True,Monday,6.0,Weekday
 8018937872669_ירוק ריינג'ר,8018937872669,ירוק ריינג'ר,sf-balaclava-black,מסכת פנים,True,True,Saturday,2.0,Weekday
 8018937872669_ירוק ריינג'ר,8018937872669,ירוק ריינג'ר,sf-balaclava-black,מסכת פנים,True,True,Sunday,6.0,Weekday
 8018937872669_ירוק ריינג'ר,8018937872669,ירוק ריינג'ר,sf-balaclava-black,מסכת פנים,True,True,Thursday,3.0,Weekday
@@ -980,7 +980,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018942034205_שחור,8018942034205,שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,Tuesday,0.0,Weekday
 8018942034205_שחור,8018942034205,שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,Wednesday,0.0,Weekday
 8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,Friday,5.0,Weekday
-8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,Monday,16.0,Weekday
+8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,Monday,17.0,Weekday
 8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,Saturday,2.0,Weekday
 8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,Sunday,7.0,Weekday
 8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,Thursday,4.0,Weekday
@@ -1358,7 +1358,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,Tuesday,2.0,Weekday
 8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,Wednesday,4.0,Weekday
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Friday,7.0,Weekday
-8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Monday,10.0,Weekday
+8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Monday,11.0,Weekday
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Saturday,9.0,Weekday
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Sunday,12.0,Weekday
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Thursday,8.0,Weekday
@@ -2877,7 +2877,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9873849123101_Black,9873849123101,Black,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,True,True,Wednesday,0.0,Weekday
 9873849123101_Multicam,9873849123101,Multicam,mag-release-dump-pouch,Mag-Release Dump Pouch™,False,False,Wednesday,0.0,Weekday
 9873849123101_Ranger Green,9873849123101,Ranger Green,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,True,True,Friday,15.0,Weekday
-9873849123101_Ranger Green,9873849123101,Ranger Green,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,True,True,Monday,4.0,Weekday
+9873849123101_Ranger Green,9873849123101,Ranger Green,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,True,True,Monday,5.0,Weekday
 9873849123101_Ranger Green,9873849123101,Ranger Green,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,True,True,Saturday,13.0,Weekday
 9873849123101_Ranger Green,9873849123101,Ranger Green,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,True,True,Sunday,9.0,Weekday
 9873849123101_Ranger Green,9873849123101,Ranger Green,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,True,True,Thursday,0.0,Weekday
@@ -3004,7 +3004,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018935152925_ירוק ריינג'ר,8018935152925,ירוק ריינג'ר,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,True,True,June,1.0,Month
 8018935152925_שחור,8018935152925,שחור,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,True,True,July,0.0,Month
 8018935152925_שחור,8018935152925,שחור,buddystrap-injured-person-carrier,BuddyStrap™ - מערכת נשיאת פצוע,True,True,June,0.0,Month
-8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,July,88.0,Month
+8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,July,89.0,Month
 8018935283997_ירוק ריינג'ר,8018935283997,ירוק ריינג'ר,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,True,June,5.0,Month
 8018935283997_מולטיקם,8018935283997,מולטיקם,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,False,July,0.0,Month
 8018935283997_מולטיקם,8018935283997,מולטיקם,pincer-single-556-mag-pouch,Pincer™‎‎‎‎‎‎‎‎‎ - פונדה קשיחה למחסנית ,True,False,June,0.0,Month
@@ -3086,7 +3086,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018937610525_Ranger Green,8018937610525,Ranger Green,hook-backed-edc-organizer-panel-up,פאנל ארגון טקטי ,True,True,June,3.0,Month
 8018937872669_חום,8018937872669,חום,sf-balaclava-black,מסכת פנים,True,False,July,0.0,Month
 8018937872669_חום,8018937872669,חום,sf-balaclava-black,מסכת פנים,True,False,June,0.0,Month
-8018937872669_ירוק ריינג'ר,8018937872669,ירוק ריינג'ר,sf-balaclava-black,מסכת פנים,True,True,July,14.0,Month
+8018937872669_ירוק ריינג'ר,8018937872669,ירוק ריינג'ר,sf-balaclava-black,מסכת פנים,True,True,July,16.0,Month
 8018937872669_ירוק ריינג'ר,8018937872669,ירוק ריינג'ר,sf-balaclava-black,מסכת פנים,True,True,June,10.0,Month
 8018937872669_שחור,8018937872669,שחור,sf-balaclava-black,מסכת פנים,True,True,July,169.0,Month
 8018937872669_שחור,8018937872669,שחור,sf-balaclava-black,מסכת פנים,True,True,June,4.0,Month
@@ -3268,7 +3268,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018942034205_מולטיקם שחור,8018942034205,מולטיקם שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,False,June,0.0,Month
 8018942034205_שחור,8018942034205,שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,July,2.0,Month
 8018942034205_שחור,8018942034205,שחור,amap-iii-assault-pack,AMAP III™ - תיק תקיפה,True,True,June,0.0,Month
-8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,July,18.0,Month
+8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,July,19.0,Month
 8031638552861_ירוק ריינג'ר,8031638552861,ירוק ריינג'ר,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,True,June,28.0,Month
 8031638552861_מולטיקם,8031638552861,מולטיקם,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,False,July,0.0,Month
 8031638552861_מולטיקם,8031638552861,מולטיקם,tourniquet-holder,"טקטי CAT/מנשא ח""ע",True,False,June,0.0,Month
@@ -3376,7 +3376,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8388329505053_מולטיקם,8388329505053,מולטיקם,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,False,June,0.0,Month
 8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,July,7.0,Month
 8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,June,7.0,Month
-8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,July,36.0,Month
+8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,July,37.0,Month
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,June,32.0,Month
 8402082988317_מולטיקם,8402082988317,מולטיקם,general-purpose-pouch,פאוץ' כללי מודולרי,True,False,July,0.0,Month
 8402082988317_מולטיקם,8402082988317,מולטיקם,general-purpose-pouch,פאוץ' כללי מודולרי,True,False,June,0.0,Month
@@ -3810,7 +3810,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9863902200093_שחור / שחור / מדיום,9863902200093,שחור / שחור / מדיום,קרמון-התערבות-™sub-zero-פאץ-כיתת-כוננות-משטרתית,קרמון התערבות ™Sub Zero + פאץ' כיתת כוננות משטרתית,True,True,June,0.0,Month
 9873849123101_Black,9873849123101,Black,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,True,True,July,4.0,Month
 9873849123101_Multicam,9873849123101,Multicam,mag-release-dump-pouch,Mag-Release Dump Pouch™,False,False,July,0.0,Month
-9873849123101_Ranger Green,9873849123101,Ranger Green,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,True,True,July,41.0,Month
+9873849123101_Ranger Green,9873849123101,Ranger Green,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,True,True,July,42.0,Month
 9875926548765_Black,9875926548765,Black,wide-admin-pouch,Wide Admin Pouch,True,False,July,0.0,Month
 9875926548765_Black,9875926548765,Black,wide-admin-pouch,Wide Admin Pouch,True,False,June,0.0,Month
 9875926548765_Multicam,9875926548765,Multicam,wide-admin-pouch,Wide Admin Pouch,True,False,July,0.0,Month
