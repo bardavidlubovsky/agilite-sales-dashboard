@@ -224,7 +224,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018936529181_שחור,8018936529181,שחור,ag1-5-56-single-mag-pouch,AG1™ - פונדת מחסנית מודולרית,True,True,Tuesday,0.0,Weekday
 8018936529181_שחור,8018936529181,שחור,ag1-5-56-single-mag-pouch,AG1™ - פונדת מחסנית מודולרית,True,True,Wednesday,0.0,Weekday
 8018936594717_ירוק ריינג'ר,8018936594717,ירוק ריינג'ר,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,True,Friday,3.0,Weekday
-8018936594717_ירוק ריינג'ר,8018936594717,ירוק ריינג'ר,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,True,Monday,2.0,Weekday
+8018936594717_ירוק ריינג'ר,8018936594717,ירוק ריינג'ר,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,True,Monday,3.0,Weekday
 8018936594717_ירוק ריינג'ר,8018936594717,ירוק ריינג'ר,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,True,Saturday,2.0,Weekday
 8018936594717_ירוק ריינג'ר,8018936594717,ירוק ריינג'ר,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,True,Sunday,6.0,Weekday
 8018936594717_ירוק ריינג'ר,8018936594717,ירוק ריינג'ר,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,True,Thursday,7.0,Weekday
@@ -854,7 +854,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018941411613_חום,8018941411613,חום,k19-plate-carrier,K-19™ 3.0 קרמון ,True,False,Tuesday,0.0,Weekday
 8018941411613_חום,8018941411613,חום,k19-plate-carrier,K-19™ 3.0 קרמון ,True,False,Wednesday,0.0,Weekday
 8018941411613_ירוק ריינג'ר,8018941411613,ירוק ריינג'ר,k19-plate-carrier,K-19™ 3.0 קרמון ,True,True,Friday,4.0,Weekday
-8018941411613_ירוק ריינג'ר,8018941411613,ירוק ריינג'ר,k19-plate-carrier,K-19™ 3.0 קרמון ,True,True,Monday,2.0,Weekday
+8018941411613_ירוק ריינג'ר,8018941411613,ירוק ריינג'ר,k19-plate-carrier,K-19™ 3.0 קרמון ,True,True,Monday,3.0,Weekday
 8018941411613_ירוק ריינג'ר,8018941411613,ירוק ריינג'ר,k19-plate-carrier,K-19™ 3.0 קרמון ,True,True,Saturday,2.0,Weekday
 8018941411613_ירוק ריינג'ר,8018941411613,ירוק ריינג'ר,k19-plate-carrier,K-19™ 3.0 קרמון ,True,True,Sunday,6.0,Weekday
 8018941411613_ירוק ריינג'ר,8018941411613,ירוק ריינג'ר,k19-plate-carrier,K-19™ 3.0 קרמון ,True,True,Thursday,3.0,Weekday
@@ -1190,7 +1190,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8091315896605_שחור,8091315896605,שחור,pincer-2nd-layer-admin-pouch,  פאוץ' קדמי לפונדת סקוטש קשיחה,False,False,Tuesday,1.0,Weekday
 8091315896605_שחור,8091315896605,שחור,pincer-2nd-layer-admin-pouch,  פאוץ' קדמי לפונדת סקוטש קשיחה,False,False,Wednesday,1.0,Weekday
 8091315994909_ירוק ריינג'ר,8091315994909,ירוק ריינג'ר,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,True,True,Friday,11.0,Weekday
-8091315994909_ירוק ריינג'ר,8091315994909,ירוק ריינג'ר,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,True,True,Monday,18.0,Weekday
+8091315994909_ירוק ריינג'ר,8091315994909,ירוק ריינג'ר,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,True,True,Monday,19.0,Weekday
 8091315994909_ירוק ריינג'ר,8091315994909,ירוק ריינג'ר,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,True,True,Saturday,10.0,Weekday
 8091315994909_ירוק ריינג'ר,8091315994909,ירוק ריינג'ר,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,True,True,Sunday,13.0,Weekday
 8091315994909_ירוק ריינג'ר,8091315994909,ירוק ריינג'ר,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,True,True,Thursday,6.0,Weekday
@@ -1358,7 +1358,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,Tuesday,2.0,Weekday
 8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,Wednesday,4.0,Weekday
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Friday,7.0,Weekday
-8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Monday,7.0,Weekday
+8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Monday,8.0,Weekday
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Saturday,9.0,Weekday
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Sunday,12.0,Weekday
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,Thursday,8.0,Weekday
@@ -1449,7 +1449,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8647001669917_Default Title,8647001669917,Default Title,t-e-testing-team-5-patch,T&E Testing Team 5 Patch,False,False,Tuesday,0.0,Weekday
 8647001669917_Default Title,8647001669917,Default Title,t-e-testing-team-5-patch,T&E Testing Team 5 Patch,False,False,Wednesday,0.0,Weekday
 8686706589981_ירוק ריינג'ר,8686706589981,ירוק ריינג'ר,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,Friday,5.0,Weekday
-8686706589981_ירוק ריינג'ר,8686706589981,ירוק ריינג'ר,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,Monday,189.0,Weekday
+8686706589981_ירוק ריינג'ר,8686706589981,ירוק ריינג'ר,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,Monday,190.0,Weekday
 8686706589981_ירוק ריינג'ר,8686706589981,ירוק ריינג'ר,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,Saturday,1.0,Weekday
 8686706589981_ירוק ריינג'ר,8686706589981,ירוק ריינג'ר,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,Sunday,11.0,Weekday
 8686706589981_ירוק ריינג'ר,8686706589981,ירוק ריינג'ר,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,Thursday,63.0,Weekday
@@ -1470,7 +1470,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8686706589981_שחור,8686706589981,שחור,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,Tuesday,1.0,Weekday
 8686706589981_שחור,8686706589981,שחור,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,Wednesday,1.0,Weekday
 8791581917469_Default Title,8791581917469,Default Title,agilite-sapi-hydration-bladder,אג'ילייט SAPI שלוקר,True,True,Friday,2.0,Weekday
-8791581917469_Default Title,8791581917469,Default Title,agilite-sapi-hydration-bladder,אג'ילייט SAPI שלוקר,True,True,Monday,6.0,Weekday
+8791581917469_Default Title,8791581917469,Default Title,agilite-sapi-hydration-bladder,אג'ילייט SAPI שלוקר,True,True,Monday,8.0,Weekday
 8791581917469_Default Title,8791581917469,Default Title,agilite-sapi-hydration-bladder,אג'ילייט SAPI שלוקר,True,True,Saturday,2.0,Weekday
 8791581917469_Default Title,8791581917469,Default Title,agilite-sapi-hydration-bladder,אג'ילייט SAPI שלוקר,True,True,Sunday,9.0,Weekday
 8791581917469_Default Title,8791581917469,Default Title,agilite-sapi-hydration-bladder,אג'ילייט SAPI שלוקר,True,True,Thursday,6.0,Weekday
@@ -1631,7 +1631,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9275738718493_מדיום,9275738718493,מדיום,k-zero-bundle,חבילת קרמון  ™K-Zero מזווד ,True,True,Tuesday,4.0,Weekday
 9275738718493_מדיום,9275738718493,מדיום,k-zero-bundle,חבילת קרמון  ™K-Zero מזווד ,True,True,Wednesday,8.0,Weekday
 9306896826653_ירוק ריינג'ר,9306896826653,ירוק ריינג'ר,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,Friday,6.0,Weekday
-9306896826653_ירוק ריינג'ר,9306896826653,ירוק ריינג'ר,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,Monday,2.0,Weekday
+9306896826653_ירוק ריינג'ר,9306896826653,ירוק ריינג'ר,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,Monday,3.0,Weekday
 9306896826653_ירוק ריינג'ר,9306896826653,ירוק ריינג'ר,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,Saturday,13.0,Weekday
 9306896826653_ירוק ריינג'ר,9306896826653,ירוק ריינג'ר,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,Sunday,7.0,Weekday
 9306896826653_ירוק ריינג'ר,9306896826653,ירוק ריינג'ר,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,Thursday,8.0,Weekday
@@ -2541,7 +2541,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9849669812509_ירוק ריינג'ר / Black,9849669812509,ירוק ריינג'ר / Black,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,Tuesday,0.0,Weekday
 9849669812509_ירוק ריינג'ר / Black,9849669812509,ירוק ריינג'ר / Black,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,Wednesday,1.0,Weekday
 9849669812509_ירוק ריינג'ר / ירוק ריינג'ר,9849669812509,ירוק ריינג'ר / ירוק ריינג'ר,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,Friday,4.0,Weekday
-9849669812509_ירוק ריינג'ר / ירוק ריינג'ר,9849669812509,ירוק ריינג'ר / ירוק ריינג'ר,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,Monday,2.0,Weekday
+9849669812509_ירוק ריינג'ר / ירוק ריינג'ר,9849669812509,ירוק ריינג'ר / ירוק ריינג'ר,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,Monday,3.0,Weekday
 9849669812509_ירוק ריינג'ר / ירוק ריינג'ר,9849669812509,ירוק ריינג'ר / ירוק ריינג'ר,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,Saturday,2.0,Weekday
 9849669812509_ירוק ריינג'ר / ירוק ריינג'ר,9849669812509,ירוק ריינג'ר / ירוק ריינג'ר,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,Sunday,6.0,Weekday
 9849669812509_ירוק ריינג'ר / ירוק ריינג'ר,9849669812509,ירוק ריינג'ר / ירוק ריינג'ר,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,Thursday,3.0,Weekday
@@ -3052,7 +3052,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018936529181_מולטיקם שחור,8018936529181,מולטיקם שחור,ag1-5-56-single-mag-pouch,AG1™ - פונדת מחסנית מודולרית,True,False,June,0.0,Month
 8018936529181_שחור,8018936529181,שחור,ag1-5-56-single-mag-pouch,AG1™ - פונדת מחסנית מודולרית,True,True,July,0.0,Month
 8018936529181_שחור,8018936529181,שחור,ag1-5-56-single-mag-pouch,AG1™ - פונדת מחסנית מודולרית,True,True,June,0.0,Month
-8018936594717_ירוק ריינג'ר,8018936594717,ירוק ריינג'ר,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,True,July,18.0,Month
+8018936594717_ירוק ריינג'ר,8018936594717,ירוק ריינג'ר,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,True,July,19.0,Month
 8018936594717_ירוק ריינג'ר,8018936594717,ירוק ריינג'ר,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,True,June,5.0,Month
 8018936594717_מולטיקם,8018936594717,מולטיקם,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,False,July,0.0,Month
 8018936594717_מולטיקם,8018936594717,מולטיקם,ag3-5-56-triple-mag-pouch,AG3™ - 5.56 פונדת מחסניות מודולרית,True,False,June,0.0,Month
@@ -3232,7 +3232,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8018941411613_אפור,8018941411613,אפור,k19-plate-carrier,K-19™ 3.0 קרמון ,True,False,June,0.0,Month
 8018941411613_חום,8018941411613,חום,k19-plate-carrier,K-19™ 3.0 קרמון ,True,False,July,0.0,Month
 8018941411613_חום,8018941411613,חום,k19-plate-carrier,K-19™ 3.0 קרמון ,True,False,June,0.0,Month
-8018941411613_ירוק ריינג'ר,8018941411613,ירוק ריינג'ר,k19-plate-carrier,K-19™ 3.0 קרמון ,True,True,July,11.0,Month
+8018941411613_ירוק ריינג'ר,8018941411613,ירוק ריינג'ר,k19-plate-carrier,K-19™ 3.0 קרמון ,True,True,July,12.0,Month
 8018941411613_ירוק ריינג'ר,8018941411613,ירוק ריינג'ר,k19-plate-carrier,K-19™ 3.0 קרמון ,True,True,June,14.0,Month
 8018941411613_מולטיקם,8018941411613,מולטיקם,k19-plate-carrier,K-19™ 3.0 קרמון ,True,False,July,0.0,Month
 8018941411613_מולטיקם,8018941411613,מולטיקם,k19-plate-carrier,K-19™ 3.0 קרמון ,True,False,June,0.0,Month
@@ -3328,7 +3328,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8091315896605_מולטיקם,8091315896605,מולטיקם,pincer-2nd-layer-admin-pouch,  פאוץ' קדמי לפונדת סקוטש קשיחה,False,False,June,0.0,Month
 8091315896605_שחור,8091315896605,שחור,pincer-2nd-layer-admin-pouch,  פאוץ' קדמי לפונדת סקוטש קשיחה,False,False,July,1.0,Month
 8091315896605_שחור,8091315896605,שחור,pincer-2nd-layer-admin-pouch,  פאוץ' קדמי לפונדת סקוטש קשיחה,False,False,June,3.0,Month
-8091315994909_ירוק ריינג'ר,8091315994909,ירוק ריינג'ר,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,True,True,July,43.0,Month
+8091315994909_ירוק ריינג'ר,8091315994909,ירוק ריינג'ר,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,True,True,July,44.0,Month
 8091315994909_ירוק ריינג'ר,8091315994909,ירוק ריינג'ר,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,True,True,June,40.0,Month
 8091315994909_מולטיקם,8091315994909,מולטיקם,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,True,False,July,0.0,Month
 8091315994909_מולטיקם,8091315994909,מולטיקם,pincer-pistol-single-pouch,Pincer™ -  פונדת מחסנית אקדח,True,False,June,0.0,Month
@@ -3376,7 +3376,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8388329505053_מולטיקם,8388329505053,מולטיקם,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,False,June,0.0,Month
 8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,July,7.0,Month
 8388329505053_שחור,8388329505053,שחור,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,True,True,June,7.0,Month
-8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,July,33.0,Month
+8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,July,34.0,Month
 8402082988317_ירוק ריינג'ר,8402082988317,ירוק ריינג'ר,general-purpose-pouch,פאוץ' כללי מודולרי,True,True,June,32.0,Month
 8402082988317_מולטיקם,8402082988317,מולטיקם,general-purpose-pouch,פאוץ' כללי מודולרי,True,False,July,0.0,Month
 8402082988317_מולטיקם,8402082988317,מולטיקם,general-purpose-pouch,פאוץ' כללי מודולרי,True,False,June,0.0,Month
@@ -3402,13 +3402,13 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 8647001571613_Default Title,8647001571613,Default Title,t-e-testing-team-2-patch,T&E Testing Team 2 Patch,False,False,June,0.0,Month
 8647001669917_Default Title,8647001669917,Default Title,t-e-testing-team-5-patch,T&E Testing Team 5 Patch,False,False,July,0.0,Month
 8647001669917_Default Title,8647001669917,Default Title,t-e-testing-team-5-patch,T&E Testing Team 5 Patch,False,False,June,0.0,Month
-8686706589981_ירוק ריינג'ר,8686706589981,ירוק ריינג'ר,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,July,267.0,Month
+8686706589981_ירוק ריינג'ר,8686706589981,ירוק ריינג'ר,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,July,268.0,Month
 8686706589981_ירוק ריינג'ר,8686706589981,ירוק ריינג'ר,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,June,19.0,Month
 8686706589981_מולטיקם,8686706589981,מולטיקם,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,False,July,0.0,Month
 8686706589981_מולטיקם,8686706589981,מולטיקם,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,False,June,0.0,Month
 8686706589981_שחור,8686706589981,שחור,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,July,2.0,Month
 8686706589981_שחור,8686706589981,שחור,micro-map,Micro MAP™ - תיק תקיפה זעיר,True,True,June,1.0,Month
-8791581917469_Default Title,8791581917469,Default Title,agilite-sapi-hydration-bladder,אג'ילייט SAPI שלוקר,True,True,July,38.0,Month
+8791581917469_Default Title,8791581917469,Default Title,agilite-sapi-hydration-bladder,אג'ילייט SAPI שלוקר,True,True,July,40.0,Month
 8791581917469_Default Title,8791581917469,Default Title,agilite-sapi-hydration-bladder,אג'ילייט SAPI שלוקר,True,True,June,11.0,Month
 8804518002973_אפור,8804518002973,אפור,scorpion-beanie,כובע גרב עקרב,False,False,July,0.0,Month
 8804518002973_אפור,8804518002973,אפור,scorpion-beanie,כובע גרב עקרב,False,False,June,0.0,Month
@@ -3454,7 +3454,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9275738718493_לארג',9275738718493,לארג',k-zero-bundle,חבילת קרמון  ™K-Zero מזווד ,True,True,June,3.0,Month
 9275738718493_מדיום,9275738718493,מדיום,k-zero-bundle,חבילת קרמון  ™K-Zero מזווד ,True,True,July,24.0,Month
 9275738718493_מדיום,9275738718493,מדיום,k-zero-bundle,חבילת קרמון  ™K-Zero מזווד ,True,True,June,20.0,Month
-9306896826653_ירוק ריינג'ר,9306896826653,ירוק ריינג'ר,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,July,29.0,Month
+9306896826653_ירוק ריינג'ר,9306896826653,ירוק ריינג'ר,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,July,30.0,Month
 9306896826653_ירוק ריינג'ר,9306896826653,ירוק ריינג'ר,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,True,June,24.0,Month
 9306896826653_מולטיקם,9306896826653,מולטיקם,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,False,July,0.0,Month
 9306896826653_מולטיקם,9306896826653,מולטיקם,ערד-ערכת-רפואה-דחופה,"ער""ד ללוחם (ערכת רפואה דחופה) ™MD2",True,False,June,0.0,Month
@@ -3714,7 +3714,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Product_Handle,Product_Title_HE,Prod
 9844659880221_שחור / שחור / שחור מולטיקם,9844659880221,שחור / שחור / שחור מולטיקם,reaper™-rig-micro-rig-bundle,"חבילת מל""מ מאובזר מיני",True,False,June,0.0,Month
 9849669812509_ירוק ריינג'ר / Black,9849669812509,ירוק ריינג'ר / Black,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,July,1.0,Month
 9849669812509_ירוק ריינג'ר / Black,9849669812509,ירוק ריינג'ר / Black,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,June,0.0,Month
-9849669812509_ירוק ריינג'ר / ירוק ריינג'ר,9849669812509,ירוק ריינג'ר / ירוק ריינג'ר,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,July,11.0,Month
+9849669812509_ירוק ריינג'ר / ירוק ריינג'ר,9849669812509,ירוק ריינג'ר / ירוק ריינג'ר,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,July,12.0,Month
 9849669812509_ירוק ריינג'ר / ירוק ריינג'ר,9849669812509,ירוק ריינג'ר / ירוק ריינג'ר,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,June,14.0,Month
 9849669812509_שחור / Black,9849669812509,שחור / Black,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,July,1.0,Month
 9849669812509_שחור / Black,9849669812509,שחור / Black,k19-plate-carrier-3-0-hesco-3110-level-iii-side-plates,חבילת קרמון K-19™  3.0 + פלטות צד קרמיות רמה שלוש - HESCO 3110 LVL III,True,True,June,0.0,Month
