@@ -188,7 +188,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 8352375636253_Default Title,8352375636253,Default Title,0.0,0.0,0.0,t-e-testing-team-11-patch,T&E Testing Team 11 Patch,0,0.0,0.0,0.0
 8364665078045_חום,8364665078045,חום,0.0,0.0,149.0,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,0,0.0,0.0,0.0
 8364665078045_ירוק,8364665078045,ירוק,0.0,0.0,149.0,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,0,0.0,0.0,0.0
-8364665078045_ירוק ריינג'ר,8364665078045,ירוק ריינג'ר,14.0,2.0,149.0,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,102,2086.0,15198.0,0.0
+8364665078045_ירוק ריינג'ר,8364665078045,ירוק ריינג'ר,15.0,2.0,149.0,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,101,2235.0,15049.0,0.0
 8364665078045_מולטיקם,8364665078045,מולטיקם,0.0,0.0,149.0,k-19-plate-carrier-back-flap-adapter,K19™ - כנף תיאום אחורית לחובק קרמון,0,0.0,0.0,0.0
 8388329505053_ירוק ריינג'ר,8388329505053,ירוק ריינג'ר,20.0,1.0,209.0,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,41,4180.0,8569.0,0.0
 8388329505053_מולטיקם,8388329505053,מולטיקם,0.0,0.0,209.0,pincer-pistol-double-pouch,Pincer™ -  פונדת מחסנית כפולה לאקדח,0,0.0,0.0,0.0
@@ -411,7 +411,7 @@ Product_Variant_ID,Product_ID,Variant_Title,Total_Sales,Total_Added,Variant_Pric
 9863902200093_שחור / שחור / מדיום,9863902200093,שחור / שחור / מדיום,1.0,0.0,783.0,קרמון-התערבות-™sub-zero-פאץ-כיתת-כוננות-משטרתית,קרמון התערבות ™Sub Zero + פאץ' כיתת כוננות משטרתית,9,783.0,7047.0,0.0
 9873849123101_Black,9873849123101,Black,10.0,124.0,218.0,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,114,2180.0,24852.0,0.0
 9873849123101_Multicam,9873849123101,Multicam,0.0,0.0,54.9,mag-release-dump-pouch,Mag-Release Dump Pouch™,0,0.0,0.0,0.0
-9873849123101_Ranger Green,9873849123101,Ranger Green,85.0,289.0,218.0,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,204,18530.0,44472.0,0.0
+9873849123101_Ranger Green,9873849123101,Ranger Green,87.0,289.0,218.0,mag-release-dump-pouch,דאמפ פאוצ' אוטומטי,202,18966.0,44036.0,0.0
 9875926548765_Black,9875926548765,Black,1.0,1.0,287.18,wide-admin-pouch,Wide Admin Pouch,0,287.18,0.0,0.0
 9875926548765_Multicam,9875926548765,Multicam,0.0,0.0,309.3,wide-admin-pouch,Wide Admin Pouch,0,0.0,0.0,0.0
 9875926548765_Ranger Green,9875926548765,Ranger Green,261.0,499.0,287.18,wide-admin-pouch,Wide Admin Pouch,238,74953.98,68348.84,0.0
